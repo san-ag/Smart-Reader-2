@@ -1,0 +1,46 @@
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kate was put off by the word paradox and who didn't know what marginal tax meant ?	3.0	13
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who did not know what marginal tax meant ?	1.0	7
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kate was put off by the word paradox and which person didn't know what marginal tax meant ?	3.0	14
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who did not know what marginal tax meant ?	1.0	2
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who was put off by the word paradox and Erin didn't know what marginal tax meant ?	2.0	10
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	who was put off by the word ` paradox '  ?	1.0	3
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Did Erin know what ` marginal tax ' mean ?	1.0	5
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kate was put off by which word  ?	1.0	6
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kat was put off by which word ?	1.5	9
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	By the word paradox was Kate put off ?	1.5	8
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Was Kate put off it by the word paradox and did Erin not know what marginal tax meant ?	2.5	12
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Did Kate was put off by the word ` paradox '  ?	3.5	16
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	who did not know what ` marginal tax ' meant    ?	1.0	4
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who was put off by the word paradox ?	1.0	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Which person was put off by the word paradox and Erin didn't know what marginal tax meant ?	2.0	11
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who was put off by the word paradox and Erin did not know what marginal tax meant ?	3.0	15
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Lemurs arrived where ?	2.5	12
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What did Ocean Currentsses favor ?	1.0	1
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What favored oceanic dispersal  ?	2.5	11
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	when Lemurs arrived   ?	3.0	13
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	On what did lemurs arrived in Madagascar approximately 62 to 65 mya by rafting at a time when ocean currents favored oceanic dispersal to the island ?	2.5	10
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Where did lemurs arrive approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island ?	2.0	9
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Where Lemurs arrived ?	3.0	14
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What rafting on mats of vegetation  ?	4.0	18
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island ?	2.0	7
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What did Ocean Currentsses favor ?	1.0	2
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	where arrived in Madagascar   ?	4.0	16
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What did Ocean Currentsses favor ?	1.0	3
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	when by rafting on mats of vegetation   ?	4.0	15
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	When did lemurs arrive in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time ?	2.0	8
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	where by rafting on mats of vegetation   ?	4.0	17
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Where is Madagascar ?	1.0	5
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Where is Madagascar ?	1.0	6
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What did Ocean Currentsses favor ?	1.0	4
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Lemurs arrived in Madagascar approximately 62 to what stock index mya ?	4.0	19
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What stock index Lemurs arrived ?	4.0	20
+56	Having a teddy bear at eight years old is completely normal.	How many  years old is completely normal  ?	2
+56	Having a teddy bear at eight years old is completely normal.	How many  years old Having a teddy bear at is completely normal  ?	6
+56	Having a teddy bear at eight years old is completely normal.	Having what ?	9
+56	Having a teddy bear at eight years old is completely normal.	Having what ?	10
+56	Having a teddy bear at eight years old is completely normal.	Is Having a teddy bear at eight years old completely normal  ?	1
+56	Having a teddy bear at eight years old is completely normal.	Having what is completely normal ?	5
+56	Having a teddy bear at eight years old is completely normal.	Having a Teddy Bear at how many years old is completely normal ?	3
+56	Having a teddy bear at eight years old is completely normal.	Is whether to be having a Teddy Bear at 8 years old completely normal ?	7
+56	Having a teddy bear at eight years old is completely normal.	Having a Teddy Bear at how many years old completely is normal ?	4
+56	Having a teddy bear at eight years old is completely normal.	Whether to be having a Teddy Bear at 8 years old is completely normal ?	8
