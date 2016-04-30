@@ -1,3 +1,5 @@
 Ranker/language_models/
 .DS_Store
-*.pyc
+Ranker/*.pyc
+Ranker/.project
+Ranker/.pydevproject
