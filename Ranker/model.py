@@ -41,20 +41,6 @@ def readFile(f,file_type):
 
     return text_question_list
 
-'''
-
-def normalizeFeatures(featureVectors):
-    
-    allFeatures = set()
-    
-    for vector in featureVectors:
-        allFeatures.update(vector.features.keys())
-    
-    #all the features in any feature vector
-    print list(allFeatures)
-    
-'''
-
 #there can be new features in test data
 #test set features should be extracted only based on training set features
 #fix this
@@ -227,15 +213,10 @@ def compute_rank_correlation_metrics(qids_to_ranks_true, qids_to_ranks_predicted
     for qid in qids:
         listA =  qids_to_ranks_true[qid]
         listB =  qids_to_ranks_predicted[qid]
-        #listC = qids_to_ranks_baseline[qid]
+
         listC = deepcopy(listB)
         random.shuffle(listC)
         
-        #print listA 
-        #print listC
-        
-        #kd = getKendallDistance(listA,listB)
-        #kd_base = getKendallDistance(listA,listC)
         kd, p_value = kendalltau(listA, listB)
         kd_base,p_value = kendalltau(listA,listC)
         
@@ -250,10 +231,7 @@ def compute_rank_correlation_metrics(qids_to_ranks_true, qids_to_ranks_predicted
         
         total_spr_base+=spr_base
         total_spr+=spr
-        
-        #print listA
-        #print listB
-        #print kd_base
+  
         
     avg_kd_base = total_kd_base/len(qids)
     avg_kd = total_kd/len(qids)
@@ -261,14 +239,18 @@ def compute_rank_correlation_metrics(qids_to_ranks_true, qids_to_ranks_predicted
     avg_spr_base = total_spr_base/len(qids)
     avg_spr = total_spr/len(qids)
     
-    print 'average kendall tau distance baseline = %f'%avg_kd_base
-    print 'average kendall tau distance = %f'%avg_kd
+    print 'average kendall tau correlation baseline = %f'%avg_kd_base
+    print 'average kendall tau correlation = %f'%avg_kd
     
-    print 'average kendall tau distance baseline = %f'%avg_spr_base
-    print 'average kendall tau distance = %f'%avg_spr
+    print 'average spearman correlation baseline = %f'%avg_spr_base
+    print 'average spearman correlation = %f'%avg_spr
     
     
     return avg_kd_base,avg_kd
+
+def compute_map_metric(qids_to_ranks_true,qids_to_ranks_predicted):
+    
+    return 0
 
             
 def evaluate(test_data_file,output_file):
@@ -292,14 +274,13 @@ def evaluate(test_data_file,output_file):
     for qid in qids_to_ranks_true:
         n = len(qids_to_ranks_true[qid])
         qids_to_ranks_predicted[qid] = range(1,n+1)
-    
-        
-    qids = qids_to_ranks_true.keys()
+
     
     print qids_to_ranks_true
     print qids_to_ranks_predicted
     
     compute_rank_correlation_metrics(qids_to_ranks_true,qids_to_ranks_predicted)
+    compute_map_metric(qids_to_ranks_true,qids_to_ranks_predicted)
     
     
    
