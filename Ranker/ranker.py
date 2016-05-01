@@ -1,11 +1,9 @@
 import sys
 import model as md
 
-
-
 def main(arguments):
     
-    if len(arguments)<2:
+    if len(arguments)<3:
         print("usage: rank.py training_data test_data outputFile")
         
     training_data_file = arguments[0]
@@ -25,7 +23,5 @@ if __name__ == "__main__":
     test = 'data/test.txt'
     #test = 'data/test_sample.txt'
     output = 'result/output.txt'
-    
-    
-    
-    #main([train,test,output])
+
+    main([train,test,output])

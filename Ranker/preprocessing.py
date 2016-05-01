@@ -251,7 +251,7 @@ def partition_data(gs,train,test,fr):
     idx = int(n*fr)
     
     tr = sorted(qids[0:idx])
-    tt = sorted(qids[idx:])
+    tt = sorted(qids[idx:2*idx])
     
     print tr
     print tt
@@ -287,10 +287,10 @@ if __name__ == "__main__":
     
     gold_standard = 'data/gs.txt'
     gold_standard_cleaned = 'data/gs_cleaned.txt'
-    train = 'data/train.txt'
-    #train = 'data/train_sample.txt'
-    test = 'data/test.txt'
-    #test = 'data/test_sample.txt'
+    #train = 'data/train.txt'
+    train = 'data/train_sample.txt'
+    #test = 'data/test.txt'
+    test = 'data/test_sample.txt'
 
     #extract_data(input_file,gold_standard)
     #clean_gs(gold_standard,gold_standard_cleaned)
@@ -298,6 +298,6 @@ if __name__ == "__main__":
     #prepare_corpus()
     #prepare_tagged_corpus()
     #process_TREC_questions(trec)
-    partition_data(gold_standard_cleaned,train,test,0.80)
-    #print_GS_statistics(gold_standard)
+    #partition_data(gold_standard_cleaned,train,test,0.03)
+    print_GS_statistics(gold_standard_cleaned)
     

@@ -310,11 +310,11 @@ def constructPipeline():
                         ('textPOS',TextPOSExtractor()),
                         ('features',FeatureUnion(
                                     transformer_list = [
-                                            #('n_gram_pos_question', Pipeline([
-                                            #               ('selector', ItemSelector(key='question_pos')),
-                                            #                ('tf',pos_vectorizer),
-                                            #                ('normalize',normalizer),
-                                            #                ])),
+                                            ('n_gram_pos_question', Pipeline([
+                                                           ('selector', ItemSelector(key='question_pos')),
+                                                            ('tf',pos_vectorizer),
+                                                            ('normalize',normalizer),
+                                                            ])),
                                                         
                                              ('n_gram_pos_context', Pipeline([
                                                            ('selector', ItemSelector(key='context_pos')),
@@ -328,12 +328,12 @@ def constructPipeline():
                                                             ('vect', DictVectorizer()),
                                                             ('normalize',normalizer),
                                                             ])), 
-                                            #('context_based',Pipeline([
-                                            #                ('selector', ItemSelector(key='context')),
-                                            #                ('count-based',contextFeatures()),
-                                            #                ('vect', DictVectorizer()),
-                                            #                ('normalize',normalizer),
-                                            #                ])), 
+                                            ('context_based',Pipeline([
+                                                            ('selector', ItemSelector(key='context')),
+                                                            ('count-based',contextFeatures()),
+                                                            ('vect', DictVectorizer()),
+                                                            ('normalize',normalizer),
+                                                            ])), 
                                             ('perplexity',Pipeline([
                                                             ('selector', ItemSelector(key='question')),
                                                             ('per',perplexityComputer()),
@@ -374,7 +374,7 @@ def extractFeatures(context_question_list):
     global lm_3gram_path
     global lm_4gram_path
     
-    evallm_path = '/Users/sanchitagarwal/Documents/EclipseWork/QG/Ranker/CMU-Cam_Toolkit_v2/bin/evallm'
+    evallm_path = '/Users/sanchitagarwal/Desktop/Directed-Study-II/QuestionRanker/Ranker/CMU-Cam_Toolkit_v2/bin/evallm'
     lm_3gram_path = "language_models/LM-train-100MW-3gram.binlm"
     lm_4gram_path = "language_models/LM-train-100MW-4gram.binlm"
 

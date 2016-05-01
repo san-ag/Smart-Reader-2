@@ -1,26 +1,11 @@
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of who founded Titan Sports, Inc ?	2.5	12
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When did the son of Vincent J. McMahon, Vincent Kennedy McMahon, found Titan Sports , Inc. ?	1.5	3
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 , the son of which McMahon , Vincent Kennedy McMahon , founded Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father   ?	1.5	6
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of Vincent J McMahon, who, founded Titan Sports, Inc ?	3.0	15
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 , the son of Vincent J McMahon , which McMahon , founded Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father   ?	1.5	7
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of which person founded Titan Sports , Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	3.0	14
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When the son purchased Capitol Wrestling Corporation ?	3.0	17
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	who founded  , Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father    ?	1.0	2
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son purchased which company ?	1.5	8
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Which company the son purchased ?	2.0	10
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of who founded Titan Sports Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	2.5	11
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Who is Vincent ?	1.0	1
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of which person founded Titan Sports , Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	2.0	9
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 the son of Vincent J Vincent McMahon Kennedy McMahon, founded Titan Sports , Inc., and purchased Capitol wrestling Corporation from his father when ?	3.5	18
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When the son of J Vincent Vincent Kennedy McMahon McMahon founded Titan Sports , Inc. and purchased Capitol wrestling Corporation from his father in 1982 ?	4.0	19
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	when purchased Capitol Wrestling Corporation from his father    ?	3.0	16
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	when the son of Vincent J. McMahon , Vincent Kennedy McMahon , founded Titan Sports , Inc.  ?	1.5	5
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son purchased Capitol Wrestling Corporation when ?	2.5	13
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Which ORGANISATION did the son of Vincent J McMahon, Vincent Kennedy McMahon, found ?	1.5	4
-58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What takes 6 dominoes  ?	1.5	4
-58	Each player takes 6 dominoes and places them so that the other players can't see their value.	How many  dominoes Each player takes and places them so  ?	2.5	6
-58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What does each player take ?	1.0	2
-58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What does each player take so that the other players can not see their value ?	1.0	1
-58	Each player takes 6 dominoes and places them so that the other players can't see their value.	How many dominoes does each player take ?	1.0	3
-58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What places them  ?	1.5	5
-58	Each player takes 6 dominoes and places them so that the other players can't see their value.	How much does each player take dominoes  ?	3.5	7
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	Stone tools were used when ?	2.5	4
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	When Stone tools were used ?	3.0	5
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	What were used by Proto - humans at least 2.5 million years ag ?	1.5	2
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	When were stone tools used by proto-humans ago ?	3.0	6
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	when stone tools were used   ?	2.0	3
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	Stone tools were used by Proto - humans at least how many million years ago ?	1.5	1
+73	BMW does mean Bavarian Motor Works.	What does mean Bavarian Motor Works ?	2.0	4
+73	BMW does mean Bavarian Motor Works.	What does BMW mean ?	1.0	1
+73	BMW does mean Bavarian Motor Works.	What mean Bavarian Motor Works  ?	3.0	5
+73	BMW does mean Bavarian Motor Works.	What does bmw mean ?	1.0	2
+73	BMW does mean Bavarian Motor Works.	What does mean Bavarian Motor works ?	2.0	3

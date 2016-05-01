@@ -1,248 +1,214 @@
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Some research was done where ?	11
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Some research was done on non-migratory birds in the UK and Germany and where was it found the same, species had different songs ?	5
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Where some research was done ?	9
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	where it was found that the same species   ?	12
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was done on non-migratory birds in the UK and Germany ?	7
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Where was some research done on non-migratory birds ?	3
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Which birds in the UK and Germany was some research done on ?	8
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What had different songs in the 2 countries ?	2
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What time did the species have different songs in ?	6
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Where did the species have different songs ?	1
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What had different songs in the two countries ?	4
-63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What had the same species in the two countries ?	10
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would take a 50 per cent pay cut for the next six months  ?	8
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut for the next six months ?	3
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What he will do for the next six months ?	18
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	who announced  , that he and other senior executives would take a 50 per cent pay cut for the next six months    ?	2
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent pay cut for the next six months  ?	12
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What announced that he and other senior executives would take a 50 per cent pay cut for the next six months  ?	7
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Which cut would he and other senior executives take for the next six months ?	10
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would Softbank BB's Pres announced, he, and other senior executives take furthermore ?	20
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many cut would he and other senior executives take for the next six months ?	11
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut ?	6
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore, Softbank BB 's president, who, announced that he and other senior executives would take a 50 per cent pay cut for the next six months ?	19
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What did Masayoshi Son announce ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who was Softbank BB's Pres ?	14
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent he and other senior executives would take  ?	5
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	For how many months would he and other senior executives take a 50 per cent pay cut ?	4
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What other  senior  executives will do ?	17
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Was Softbank BB's president Masayoshi Son ?	13
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut for the next six months ?	15
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut ?	16
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore , Softbank BB's president , Masayoshi Son , announced that he and other senior executives would take a 50 per cent pay cut for which month   ?	9
 
-66	lol means laugh out loud.	What does rice mean ?	1
-66	lol means laugh out loud.	What laugh out loud ?	3
-66	lol means laugh out loud.	What means laugh out loud ?	2
-66	lol means laugh out loud.	What means laugh out loud  ?	4
-
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	Another 20,000 will only bring troop levels back when ?	6
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	Only another how many will bring troop levels back to where they were in 2005 ?	1
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	Only when will another 20,000 bring troop levels back to where they were in ?	9
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	when bring Another 20,000 will only troop levels back to where they were   ?	5
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	Only when will another 20,000 bring troop levels back to where they will be ?	8
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	How many  will only bring troop levels back to where they were in 2005  ?	2
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	When will another 20,000 only bring troop levels ?	3
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	When will another 20,000 only bring troop levels back to ?	4
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	When another 20,000 will only bring troop levels back ?	10
-87	Another 20,000 will only bring troop levels back to where they were in 2005.	How many will another 20,000 only bring troop levels in back to where they will be ?	7
-
-84	If as you say your dog will eat anything train it to eat the snails.	What eat the snails  ?	3
-84	If as you say your dog will eat anything train it to eat the snails.	What will your dog eat ?	2
-84	If as you say your dog will eat anything train it to eat the snails.	What will eat anything ?	1
-84	If as you say your dog will eat anything train it to eat the snails.	What say your dog will eat anything train it to eat the snails  ?	4
-
-24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What do we do ?	2
-24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals  ?	4
-24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals ?	3
-24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals  ?	5
-24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What do we go through ?	1
-
-20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	Where is some of Britain 's most dramatic scenery to be found ?	1
-20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	where is Some of Britain's most dramatic scenery to be found   ?	2
-20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	Some of where's most dramatic scenery is to be found in the Scottish highlands ?	4
-20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	Where is some of Britain most dramatic scenery be to be found ?	3
-
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Who is Daniel ?	2
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of Daniel at a young age Daniel was carried off under the authority of Ashpenaz to which place when he was trained in the service of the court ?	9
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of Daniel at a young age, Daniel was carried off where under the authority of Ashpenaz where he was trained in the service of the court ?	11
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	where Daniel , at a young age Daniel was carried off to   ?	15
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the Biblical book of Daniel, at which age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz ?	5
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of who at a young age who was carried in the service of the court off to Babylon where he was trained under the authority of Ashpenaz ?	12
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of Daniel to which place when he was trained in the service of the court under the authority of Ashpenaz at a young age Daniel was carried off ?	10
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to which book, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz ?	4
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to which book of Daniel , at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz  ?	8
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Who was carried off in the service of the court under the authority of Ashpenaz ?	3
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Who was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz ?	7
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	where according to the Biblical book   ?	14
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Where was according to the Biblical book of Daniel, at a young age Daniel carried off ?	6
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	who according to the Biblical book of Daniel    ?	13
-48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Where was he trained in the service ?	1
-
-44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	The strength of what increases as the voltage reverse bias increases ?	4
-44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	What increases as the voltage reverse bias increases ?	3
-44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	Does the strength of Electric Field increase as the reverse bias voltage increases ?	1
-44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	Does the strength of Electric Field increase as the reverse bias voltage increases ?	2
-44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	Are The strength of the depletion zone electric field increases as the reverse-bias voltage increases  ?	5
-
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up where did Locke grow ?	9
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up when did Locke grow ?	8
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the family moved   ?	7
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where the family moved ?	5
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did Locke grow up ?	2
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the market town of Pensford , about seven miles south of Bristol   ?	11
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where the market town of Pensford , about seven miles south of Bristol    ?	10
 45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When the family moved to the market town of Pensford , about seven miles south of Bristol ?	4
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When did Locke grow up ?	1
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where the market town of Pensford , about seven miles south of Bristol    ?	11
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the market town of Pensford , about seven miles south of Bristol   ?	10
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When did Locke grow up ?	2
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did Locke grow up ?	1
 45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did the family move to the market town of Pensford , about seven miles south of Bristol , where Locke grew up in a rural Tudor house in Belluton ?	6
 45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where soon after Locke's birth , the family moved   ?	3
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where the family moved ?	5
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the family moved   ?	7
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up when did Locke grow ?	8
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up where did Locke grow ?	9
 
-28	It is also possible to buy circular protractors that measure angles from 0 to 360.	Is also possible to buy circular protractors that measure angles what ?	6
-28	It is also possible to buy circular protractors that measure angles from 0 to 360.	It is also possible to buy circular protractors that measure what ?	3
-28	It is also possible to buy circular protractors that measure angles from 0 to 360.	It is also possible to buy what that measure angles from 0 to 360 ?	4
-28	It is also possible to buy circular protractors that measure angles from 0 to 360.	Also to buy what is possible from 0 to 360 ?	2
-28	It is also possible to buy circular protractors that measure angles from 0 to 360.	What is also possible to buy circular protractors that measure angles to 360 ?	5
-28	It is also possible to buy circular protractors that measure angles from 0 to 360.	What is possible to buy also ?	1
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women cover ?	3
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women tend to cover ?	1
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why tend accidents  to be relatively minor  ?	7
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why do women cover shorter urban journeys ?	2
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover urban shorter journeys and therefore their driving is slower and accidents tend to be relatively minor ?	6
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover shorter urban journeys ?	4
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What cover shorter urban journeys  ?	5
 
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 the son of Vincent J Vincent McMahon Kennedy McMahon, founded Titan Sports , Inc., and purchased Capitol wrestling Corporation from his father when ?	18
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son purchased Capitol Wrestling Corporation when ?	13
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son purchased which company ?	8
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 , the son of Vincent J McMahon , which McMahon , founded Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father   ?	7
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of who founded Titan Sports, Inc ?	12
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 , the son of which McMahon , Vincent Kennedy McMahon , founded Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father   ?	6
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of which person founded Titan Sports , Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	9
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of which person founded Titan Sports , Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	14
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of who founded Titan Sports Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	11
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Who is Vincent ?	1
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Which company the son purchased ?	10
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When the son purchased Capitol Wrestling Corporation ?	17
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	when purchased Capitol Wrestling Corporation from his father    ?	16
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When the son of J Vincent Vincent Kennedy McMahon McMahon founded Titan Sports , Inc. and purchased Capitol wrestling Corporation from his father in 1982 ?	19
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Which ORGANISATION did the son of Vincent J McMahon, Vincent Kennedy McMahon, found ?	4
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	when the son of Vincent J. McMahon , Vincent Kennedy McMahon , founded Titan Sports , Inc.  ?	5
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	who founded  , Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father    ?	2
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of Vincent J McMahon, who, founded Titan Sports, Inc ?	15
-29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When did the son of Vincent J. McMahon, Vincent Kennedy McMahon, found Titan Sports , Inc. ?	3
-
-40	The main cause of variation is mutation, which changes the sequence of a gene.	What is the main cause of variation ?	3
-40	The main cause of variation is mutation, which changes the sequence of a gene.	What is the main cause of variation ?	2
-40	The main cause of variation is mutation, which changes the sequence of a gene.	What changes the sequence of a gene  ?	4
-40	The main cause of variation is mutation, which changes the sequence of a gene.	What changes the sequence of a gene ?	1
-40	The main cause of variation is mutation, which changes the sequence of a gene.	What changes the sequence of a gene ?	5
-40	The main cause of variation is mutation, which changes the sequence of a gene.	What is mutation, which changes the sequence of a gene ?	6
-40	The main cause of variation is mutation, which changes the sequence of a gene.	What is mutation, which changes the sequence of a gene ?	7
-
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	businesses can respond to what ?	6
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are what in which businesses can respond to the green imperative ?	9
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. in what are 3 ways businesses can respond to the green imperative ?	7
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are how many ways in which businesses can respond to the green imperative ?	2
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. how many ways in which businesses can respond to the green imperative are there ?	3
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, how many ways in which businesses can respond to the green imperative are there ?	4
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What can respond to the green imperative  ?	1
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What businesses do to the green imperative ?	5
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At what there are 3 ways in which businesses can respond to the green imperative ?	8
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	How many  ways in which businesses can respond to the green imperative  ?	10
-
-7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why does the decimal representation of Rational Numbers have the advantage if it enables us to decide immediately which of 2 positive distinct Rationalsses is the greater ?	1
-7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why has The decimal representation of rational numbers the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater ?	2
-7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why the decimal representation is the greater ?	6
-7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why the decimal representation is the greater. of two  distinct  positive  rationals ?	5
-7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	What has the advantage that it enables us to decide immediately which of 2 is the greater ?	4
-7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why has the decimal representation of rational numbers the advantage  ?	3
-
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	The codes are not what ?	7
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	A range of what do the codes of practice apply to ?	5
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What do the codes of practice apply to ?	1
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What do the codes of practice apply to ?	4
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What apply to a range of social care professionals ?	6
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Do the codes apply to a range of social care professionals ?	2
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Are The codes of practice apply to a range of social care professionals (including, for example, residential care workers) specific to social work  ?	8
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	The codes do apply to a range of social care professionals, and are non specific to Social Work ?	3
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Are the codes are not specific to social work ?	9
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What the codes are not ?	11
-6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Are the codes are not specific ?	10
-
-15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	>Why repetitive play can also be a dilemma adults are uncertain about when or if indeed they should intervene in to move the child on ?	4
-15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Why do they intervene ?	1
-15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Why can Repetitive play also be a dilemma ?	2
-15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Why should they intervene  to move the child on  ?	3
-
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing saw the establishment being formed when ?	7
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of the First World War soon saw the establishment of which organizations  ?	3
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the BBC being formed ?	6
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which organisation being formed in 1922 ?	5
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the passing saw the establishment being formed ?	10
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which War soon saw the establishment of many national radio broadcasting organizations  ?	2
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when saw the establishment of many national radio broadcasting organizations , the BBC being formed   ?	13
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The establishment of which place did the passing of the First World War soon see ?	8
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which place soon saw the establishment of national many radio broadcasting organizations, the BBC formed in 1922 ?	11
 17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When was the BBC formed ?	1
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when the passing of the First World War   ?	12
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the passing saw the establishment being formed ?	10
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which organisation being formed in 1922 ?	6
 17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When did the passing of the First World War soon see the establishment of the BBCs formed ?	4
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the BBC being formed ?	7
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when the passing of the First World War   ?	13
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when saw the establishment of many national radio broadcasting organizations , the BBC being formed   ?	11
 17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which body of many national radio broadcasting organisations did the passing of the First World War soon saw ?	9
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which place soon saw the establishment of national many radio broadcasting organizations, the BBC formed in 1922 ?	12
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The establishment of which place did the passing of the First World War soon see ?	8
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which War soon saw the establishment of many national radio broadcasting organizations  ?	2
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing saw the establishment being formed when ?	5
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of the First World War soon saw the establishment of which organizations  ?	3
 
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	BAC levels increase to what ?	4
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	What movement is impaired ?	1
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	BAC , levels increase to around 2 hundred mg and how many milliliters ?	6
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	If BAC , levels increase to around 200 mg and how many milliliters then speech becomes slurred and coordination of movement is impaired ?	7
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	How many  mg\ ml then speech becomes slurred and coordination of movement is impaired  ?	8
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	What does speech become ?	2
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	What increase to around 200 mg/100 ml ?	3
-16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	How many  mg\ ml BAC levels increase to  ?	5
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who is Jordan ?	5
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What selected The motto  ?	10
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	who selected The motto of Stanford University    ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who The motto selected ?	15
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What country The motto selected ?	17
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which country The motto selected ?	16
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University, selected by President is Jwhoordan die Luft der Freiheit ?	4
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What is Die Luft der Freiheit ?	6
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of Stanford University, selected by who, is " Die Luft der Freiheit weht " ?	12
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what, selected by President Jordan, is " Die Luft der Freiheit weht " ?	11
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which saying of Stanford University, selected by President Jordan, is " Die Luft der Freiheit weht " ?	9
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which place selected by President is Die Luft der Freiheit ?	8
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University selected by which person, is Die Luft der Freiheit?By what place Jordan is university selected ?	7
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which University , selected by President Jordan , is " Die Luft der Freiheit weht "  ?	3
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what is Die Luft der Freiheit ?	2
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected what country ?	13
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected Who ?	14
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected by which President Jordan ?	18
 
-19	Air contains several different gases but about twenty per cent of it is oxygen.	Air contains several different gases but about 20 per ct of what is oxygen ?	6
-19	Air contains several different gases but about twenty per cent of it is oxygen.	Air contains different several gases but about how much of it per ct is oxygen ?	7
-19	Air contains several different gases but about twenty per cent of it is oxygen.	Air contains different several gases but how much of it is oxygen about per ct ?	8
-19	Air contains several different gases but about twenty per cent of it is oxygen.	How many  per cent Air contains several different gases it is oxygen ?	9
-19	Air contains several different gases but about twenty per cent of it is oxygen.	What does air contains ?	3
-19	Air contains several different gases but about twenty per cent of it is oxygen.	How many  per cent of it is oxygen  ?	1
-19	Air contains several different gases but about twenty per cent of it is oxygen.	What contains several different gases  ?	2
-19	Air contains several different gases but about twenty per cent of it is oxygen.	Which UNKNOWN contains several different gases ?	5
-19	Air contains several different gases but about twenty per cent of it is oxygen.	What contains several different gases but is about 20 per ct of it oxygen ?	4
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  societies The IEEE consists of  ?	4
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings does the IEEE consists of ?	3
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  local organizations that hold regular meetings with  ?	5
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	The IEEE consists of how many societies organized around specialized technical fields with more than 300 local organizations who hold regular meetings ?	2
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	With more than 300 local organizations who hold regular meetings, the IEEE consists of how many societies organized around specialized technical fields ?	1
 
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power was published when ?	14
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power was published which title ?	17
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power was published by whom ?	13
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon 's power Where was published in 1844 by Sir Robert Kane ?	12
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power between which Limerick was published in 1844 by Sir Robert Kane  ?	19
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	where was published in 1844 by Sir Robert Kane    ?	18
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When the first plan to harness the Shannon's power was published ?	10
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Which title the first plan to harness the Shannon's power was published ?	21
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	when harness The first plan to the Shannon's power between Lough Derg and Limerick was published   ?	16
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Who the first plan to harness the Shannon's power was published ?	20
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	In 1844 by which person was the first plan to harness the Shannon's power between Lough Derg and Limerick published ?	8
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	who harness The first plan to the Shannon's power between Lough Derg and Limerick was published in 1844   ?	15
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	In 1844 where was the first plan to harness the Shannon's power between Lough Derg and Limerick published ?	7
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Who is Robert Kane ?	3
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	By which person was the first plan to harness the Shannon's power between Lough Derg and Limerick published in 1844 ?	5
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	By whom was the first plan to harness the Shannon 's power between Lough Derg and Limerick published in 1844 ?	6
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When was the first plan to harness the Shannon's power between Lough Derg and Limerick published by sir Robert Kane ?	1
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When was the first plan to harness the Shannon 's power between Lough Derg and Limerick published by Sir Robert Kane ?	9
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Who did the first plan to harness the Shannon's power between Lough Derg and Limerick was publish in 1844 by Sir ?	11
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Where was the first plan to harness the Shannon's power between Lough Derg and Limerick published in 1844 ?	4
-31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When was the plan published by sir Robert Kane ?	2
-
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing what launches ?	13
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed when ?	18
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first  CCTV  system was installed where ?	19
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed ?	5
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The CCTV first system installed by Siemens AG at Test Stand VII in Peenemnde was Germany when for observing the launch of V-2 rockets ?	14
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in what place Germany in 1942 for observing the launch of V-2 rockets ?	11
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when Peenemnde  ?	26
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When the first CCTV system was installed ?	21
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG at Test Stand ?	9
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where the first CCTV system was installed ?	24
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system was installed ?	22
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	For observing the launch where was the CCTV first system installed by Siemens AG at Test, Stand vii in Peenemnde, Germany in 1942 ?	10
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when the first CCTV system was installed by Siemens AG at Test Stand VII   ?	16
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	2
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where the first CCTV system was installed by Siemens AG at Test Stand VII   ?	17
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the CCTV first system was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	3
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why launch The rockets ?	4
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What installed The first CCTV system  ?	20
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where 1942 , for observing the launch of V-2 rockets    ?	27
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where 1942 , for observing the launch of V-2 rockets    ?	26
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where in 1942 the CCTV first system installed by Siemens AG at Test Stand vii in Peenemnde was for observing the launch of V-2 rockets ?	7
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why launch The rockets ?	3
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the CCTV first system was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	5
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where was the first CCTV system installed by Siemens AG at Test Stand VII in 1942, for observing the launch of V-2 rockets ?	8
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Stand Test VII in Peenemnde Germany in 1942 for observing the launch ?	4
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was the first CCTV system installed by  Siemens AG at  Test Stand VII in  Peenem nde ,  Germany in 1942  ?	25
 30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany, for observing the launch of V-2 rockets ?	12
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Stand Test VII in Peenemnde Germany in 1942 for observing the launch ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was The first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942 ?	9
 30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	By what was the first CCTV system installed at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets ?	15
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system observing the launch of V-2 rockets ?	25
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where was the first CCTV system installed by Siemens AG at Test Stand VII in 1942, for observing the launch of V-2 rockets ?	7
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was The first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942 ?	8
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was the first CCTV system installed by  Siemens AG at  Test Stand VII in  Peenem nde ,  Germany in 1942  ?	23
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where in 1942 the CCTV first system installed by Siemens AG at Test Stand vii in Peenemnde was for observing the launch of V-2 rockets ?	6
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system observing the launch of V-2 rockets ?	23
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG at Test Stand ?	6
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What installed The first CCTV system  ?	21
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when Peenemnde  ?	27
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed ?	2
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where the first CCTV system was installed by Siemens AG at Test Stand VII   ?	14
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when the first CCTV system was installed by Siemens AG at Test Stand VII   ?	17
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	For observing the launch where was the CCTV first system installed by Siemens AG at Test, Stand vii in Peenemnde, Germany in 1942 ?	10
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system was installed ?	20
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where the first CCTV system was installed ?	24
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When the first CCTV system was installed ?	22
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The CCTV first system installed by Siemens AG at Test Stand VII in Peenemnde was Germany when for observing the launch of V-2 rockets ?	19
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in what place Germany in 1942 for observing the launch of V-2 rockets ?	11
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing what launches ?	13
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed when ?	16
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first  CCTV  system was installed where ?	18
 
-50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why is elevation increasing ?	1
-50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why decreases so that pressure with increasing elevation  ?	5
-50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why there is less overlying atmospheric mass, so that pressure decreases with increasing elevation ?	3
-50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why there is less overlying atmospheric mass, so that pressure decreases ?	4
-50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why Similarly, as elevation increases, there is less overlying atmospheric mass, so that pressure decreases with increasing elevation ?	2
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir on Earth ?	8
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir on Earth ?	11
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice the largest reservoir of fresh water on Earth  ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water ?	9
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is glacier ice ?	3
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water on Earth second only to oceans as the largest reservoir of total water  ?	4
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water ?	2
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water ?	6
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is glacier ice the most large reservoir of Fresh Water on Earth , ?	7
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is second only to oceans as the largest reservoir of total water ?	5
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is ice second only to oceans as the most large reservoir of total water ?	10
 
-89	One of the best sites for computer parts is Ebuyer.	What is Ebuyer ?	4
-89	One of the best sites for computer parts is Ebuyer.	What is Ebuyer ?	1
-89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which place is Ebuyer ?	6
-89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which place is, Ebuyer ?	7
-89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which is Ebuyer ?	9
-89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which parts is Ebuyer  ?	5
-89	One of the best sites for computer parts is Ebuyer.	One of which sites is Ebuyer ?	8
-89	One of the best sites for computer parts is Ebuyer.	What is one of the best sites for computer parts ?	3
-89	One of the best sites for computer parts is Ebuyer.	What is one of the best sites for computer parts ?	2
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	why it ll crack ?	5
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	It ll crack why ?	4
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What should  pour warm or hot water  ?	10
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why do you pour ?	1
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What pours ?	2
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What cracks ?	3
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What ll crack on cold glass cos ?	8
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why should you n't really pour  warm or hot water on cold glass  ?	6
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why because it will crack ?	11
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What, cos do you shouldn 't really pour warm or hot water on it 'll crack ?	7
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Ll crack on cold glass cos what ?	9
+
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	where located The sovereign state of Brunei    ?	7
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	How many percent of Borneo 's land mass does the sovereign state of Brunei comprise ?	3
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	About how many of Borneo's is Land Mass ?	5
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	Where is Borneo ?	1
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	What percentage  % of Borneo's land mass comprises about  ?	6
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent of Borneo s land mass ?	2
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent ?	4
+
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many  gunners there should be a fitting public memorial to  ?	2
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many gunners who died should there be a fitting public memorial to ?	1
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	The how many gunners who died was the idea that prevailed there should be a public memorial fitting to ?	4
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	To the how many gunners who died was the idea that prevailed there should be a public fitting memorial ?	3
+
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How to ensure a healthy and efficiently functioning brain many sources of fuel are particularly importan ?	3
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many sources of fuel are particularly important to ensure a healthy and efficiently functioning brain ?	2
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many  sources of fuel are particularly important to ensure a healthy and efficiently functioning brain -- oxygen and water  ?	7
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What are particularly important to ensure a healthy and efficiently functioning brain ?	4
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What ensure a healthy and efficiently functioning brain  oxygen and water  ?	8
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How much sources of fuel are particularly important to ensure a healthy and efficiently functioning brain, oxygen, and water ?	5
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	2 sources of what is important particularly to ensure a healthy and efficiently functioning brain ?	6
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	To ensure a healthy and efficiently functioning brain 2 sources of what are particularly important ?	1
+
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At what there are 3 ways in which businesses can respond to the green imperative ?	7
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What businesses do to the green imperative ?	5
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What can respond to the green imperative  ?	1
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	How many  ways in which businesses can respond to the green imperative  ?	8
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. in what are 3 ways businesses can respond to the green imperative ?	10
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, how many ways in which businesses can respond to the green imperative are there ?	2
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. how many ways in which businesses can respond to the green imperative are there ?	4
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are what in which businesses can respond to the green imperative ?	9
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are how many ways in which businesses can respond to the green imperative ?	3
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	businesses can respond to what ?	6
+
+64	The giant tortoise lives the longest, about 177 years in captivity.	Which tortoise lives the longest, about 177 years in captivity ?	1
+64	The giant tortoise lives the longest, about 177 years in captivity.	Which place does the giant tortoise live the longest about 177 years in ?	2
+64	The giant tortoise lives the longest, about 177 years in captivity.	In which place is the longest about 177 years ?	3
+64	The giant tortoise lives the longest, about 177 years in captivity.	How many years in captivity The giant tortoise lives the longest  ?	7
+64	The giant tortoise lives the longest, about 177 years in captivity.	How many years the  giant  tortoise lives ?	6
+64	The giant tortoise lives the longest, about 177 years in captivity.	The about how many longest years in captivity does the giant tortoise live ?	8
+64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest about how many Years in captivity ?	5
+64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest , which year in captivity  ?	9
+64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives how many years ?	4
+
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa ?	8
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where Egypt is   ?	10
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is Egypt ?	3
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where the Continent   ?	12
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	7
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa, and is situated in the north eastern part of Africa ?	6
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is situated in the eastern part of Africa ?	4
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What country is situated in the north eastern part of Africa ?	2
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where Egypt is situated ?	11
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt is part of the Continent of Africa, and is situated where ?	5
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt issituated inthe  north eastern part of what region ?	9
+
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was the creator of the muppets ?	1
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	WHO was one of the most widely known puppeteers in American history and was the creator of The Muppets    ?	5
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was one of the most widely known puppeteers in American history and was the creator of The Muppets ?	3
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	who was one of the most widely known puppeteers in American history   ?	2
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what place was Maury Jim James Henson one of the known Puppeteersseses ?	6
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what history was Maury Jim James Henson one of the known Puppeteersses ?	9
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who is Maury Jim James Henson ?	4
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	How many of the known Puppeteersses in American history was Maury Jim James Henson ?	7
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Maury James Jim Henson was one how many the most widely known Puppeteersseses in American history and was the creator of the muppets ?	8
+
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which people get sick and/or die because of smoking related diseases ?	4
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which diseases do sick and/or die because of smoking ?	7
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why does a lot of productive people get sick ?	8
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why do A lot of very productive people get sick and/or die ?	3
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of what get sick and die because of smoking related diseases ?	2
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why a lot of very productive people get sick and/or die  ?	6
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of what get sick ?	1
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of very productive people get sick and die because of which diseases   ?	5
+
+85	As with everything, the right kind of person can be influenced by almost anything.	What can influenced the right kind of person  ?	4
+85	As with everything, the right kind of person can be influenced by almost anything.	By what can the right kind of person be influenced as with everything ?	3
+85	As with everything, the right kind of person can be influenced by almost anything.	What the right kind can be influenced ?	6
+85	As with everything, the right kind of person can be influenced by almost anything.	What can be influenced by almost anything ?	1
+85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, what can be influenced by almost anything ?	5
+85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, the right kind of person can be influenced by what ?	2
 

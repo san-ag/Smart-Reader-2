@@ -97,7 +97,6 @@ def trainRanker(training_data_file):
             sys.stdout.write(str(featureMatrix[i,j])+" ")
         print ''
     
-    '''
     
     writeFeatureMatrixToFile(featureMatrix,context_question_list,'train')
     
@@ -108,7 +107,7 @@ def trainRanker(training_data_file):
     feature_vectors_file_path = "models/train.dat"
     model_file_path = "models/model.dat"
     
-    command = svm_rank_learn_exec_path+" -c"+" 0.001 "+feature_vectors_file_path+" "+model_file_path
+    command = svm_rank_learn_exec_path+" -c"+" 0.001 "+" -t"+" 1 "+feature_vectors_file_path+" "+model_file_path
     
     #print command
     
@@ -117,7 +116,7 @@ def trainRanker(training_data_file):
     #call svm_rank_classify on test data that writes the scores to file
     
     #use the scores to rerank the test output
-    '''
+
   
 def testRanker(test_data_file):
     
@@ -217,8 +216,11 @@ def compute_rank_correlation_metrics(qids_to_ranks_true, qids_to_ranks_predicted
         listC = deepcopy(listB)
         random.shuffle(listC)
         
-        kd, p_value = kendalltau(listA, listB)
-        kd_base,p_value = kendalltau(listA,listC)
+        #kd, p_value = kendalltau(listA, listB)
+        # kd_base,p_value = kendalltau(listA,listC)
+        
+        kd = getKendallDistance(listA, listB)
+        kd_base = getKendallDistance(listA, listC)
         
         spr,p_value = spearmanr(listA,listB)
         spr_base,p_value = spearmanr(listA,listC)
