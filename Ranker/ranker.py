@@ -1,5 +1,5 @@
-import sys
 import model as md
+import evaluation as ev
 
 def main(arguments):
     
@@ -10,10 +10,10 @@ def main(arguments):
     test_data_file = arguments[1] 
     output_file = arguments[2]
     
-    #md.trainRanker(training_data_file)
+    md.trainRanker(training_data_file)
     md.testRanker(test_data_file)
     md.rank(test_data_file,output_file)
-    md.evaluate(test_data_file,output_file)
+    ev.evaluate(output_file)
     
 if __name__ == "__main__":
     

@@ -1,196 +1,170 @@
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many gunners who died should there be a fitting public memorial to ?	1.5	1
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many  gunners there should be a fitting public memorial to  ?	2.0	2
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	The how many gunners who died was the idea that prevailed there should be a public memorial fitting to ?	3.0	4
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	To the how many gunners who died was the idea that prevailed there should be a public fitting memorial ?	2.5	3
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	How many  ways in which businesses can respond to the green imperative  ?	3.0	8
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, how many ways in which businesses can respond to the green imperative are there ?	1.5	2
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. in what are 3 ways businesses can respond to the green imperative ?	3.0	10
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What can respond to the green imperative  ?	1.0	1
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At what there are 3 ways in which businesses can respond to the green imperative ?	3.0	7
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are how many ways in which businesses can respond to the green imperative ?	1.5	3
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. how many ways in which businesses can respond to the green imperative are there ?	1.5	4
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are what in which businesses can respond to the green imperative ?	3.0	9
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	businesses can respond to what ?	2.5	6
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What businesses do to the green imperative ?	2.5	5
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	To ensure a healthy and efficiently functioning brain 2 sources of what are particularly important ?	1.0	1
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many sources of fuel are particularly important to ensure a healthy and efficiently functioning brain ?	1.0	2
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How much sources of fuel are particularly important to ensure a healthy and efficiently functioning brain, oxygen, and water ?	1.5	5
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How to ensure a healthy and efficiently functioning brain many sources of fuel are particularly importan ?	1.0	3
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many  sources of fuel are particularly important to ensure a healthy and efficiently functioning brain -- oxygen and water  ?	2.5	7
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What ensure a healthy and efficiently functioning brain  oxygen and water  ?	3.0	8
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What are particularly important to ensure a healthy and efficiently functioning brain ?	1.0	4
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	2 sources of what is important particularly to ensure a healthy and efficiently functioning brain ?	2.0	6
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which place soon saw the establishment of national many radio broadcasting organizations, the BBC formed in 1922 ?	4.0	12
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which organisation being formed in 1922 ?	2.0	6
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing saw the establishment being formed when ?	2.0	5
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when saw the establishment of many national radio broadcasting organizations , the BBC being formed   ?	4.0	11
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of the First World War soon saw the establishment of which organizations  ?	1.5	3
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the passing saw the establishment being formed ?	3.0	10
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when the passing of the First World War   ?	4.0	13
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When was the BBC formed ?	1.0	1
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which body of many national radio broadcasting organisations did the passing of the First World War soon saw ?	2.5	9
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which War soon saw the establishment of many national radio broadcasting organizations  ?	1.0	2
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the BBC being formed ?	2.0	7
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The establishment of which place did the passing of the First World War soon see ?	2.5	8
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When did the passing of the First World War soon see the establishment of the BBCs formed ?	2.0	4
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What other  senior  executives will do ?	3.0	17
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent pay cut for the next six months  ?	2.0	12
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut for the next six months ?	1.0	3
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore, Softbank BB 's president, who, announced that he and other senior executives would take a 50 per cent pay cut for the next six months ?	3.0	19
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut for the next six months ?	2.5	15
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore , Softbank BB's president , Masayoshi Son , announced that he and other senior executives would take a 50 per cent pay cut for which month   ?	1.5	9
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Which cut would he and other senior executives take for the next six months ?	1.5	10
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would take a 50 per cent pay cut for the next six months  ?	1.5	8
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What did Masayoshi Son announce ?	1.0	1
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Was Softbank BB's president Masayoshi Son ?	2.0	13
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would Softbank BB's Pres announced, he, and other senior executives take furthermore ?	3.5	20
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What he will do for the next six months ?	3.0	18
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	who announced  , that he and other senior executives would take a 50 per cent pay cut for the next six months    ?	1.0	2
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	For how many months would he and other senior executives take a 50 per cent pay cut ?	1.0	4
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut ?	2.5	16
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What announced that he and other senior executives would take a 50 per cent pay cut for the next six months  ?	1.5	7
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who was Softbank BB's Pres ?	2.5	14
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut ?	1.0	6
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many cut would he and other senior executives take for the next six months ?	2.0	11
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent he and other senior executives would take  ?	1.0	5
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed ?	1.0	2
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Stand Test VII in Peenemnde Germany in 1942 for observing the launch ?	1.0	4
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing what launches ?	2.0	13
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the CCTV first system was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	1.0	5
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	By what was the first CCTV system installed at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets ?	2.5	15
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why launch The rockets ?	1.0	3
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in what place Germany in 1942 for observing the launch of V-2 rockets ?	2.0	11
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when Peenemnde  ?	4.0	27
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The CCTV first system installed by Siemens AG at Test Stand VII in Peenemnde was Germany when for observing the launch of V-2 rockets ?	2.5	19
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where 1942 , for observing the launch of V-2 rockets    ?	4.0	26
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was The first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942 ?	1.5	9
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where the first CCTV system was installed by Siemens AG at Test Stand VII   ?	2.5	14
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When the first CCTV system was installed ?	3.0	22
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	For observing the launch where was the CCTV first system installed by Siemens AG at Test, Stand vii in Peenemnde, Germany in 1942 ?	2.0	10
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where in 1942 the CCTV first system installed by Siemens AG at Test Stand vii in Peenemnde was for observing the launch of V-2 rockets ?	1.5	7
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where the first CCTV system was installed ?	3.5	24
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was the first CCTV system installed by  Siemens AG at  Test Stand VII in  Peenem nde ,  Germany in 1942  ?	3.5	25
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system was installed ?	3.0	20
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system observing the launch of V-2 rockets ?	3.5	23
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What installed The first CCTV system  ?	3.0	21
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where was the first CCTV system installed by Siemens AG at Test Stand VII in 1942, for observing the launch of V-2 rockets ?	1.5	8
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first  CCTV  system was installed where ?	2.5	18
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed when ?	2.5	16
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG at Test Stand ?	1.5	6
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany, for observing the launch of V-2 rockets ?	2.0	12
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	1.0	1
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when the first CCTV system was installed by Siemens AG at Test Stand VII   ?	2.5	17
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  local organizations that hold regular meetings with  ?	4.0	5
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings does the IEEE consists of ?	2.5	3
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	With more than 300 local organizations who hold regular meetings, the IEEE consists of how many societies organized around specialized technical fields ?	2.0	1
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  societies The IEEE consists of  ?	3.5	4
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	The IEEE consists of how many societies organized around specialized technical fields with more than 300 local organizations who hold regular meetings ?	2.0	2
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected Who ?	3.0	14
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What is Die Luft der Freiheit ?	1.0	6
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What selected The motto  ?	2.0	10
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University selected by which person, is Die Luft der Freiheit?By what place Jordan is university selected ?	2.0	7
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what is Die Luft der Freiheit ?	1.0	2
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which country The motto selected ?	3.5	16
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who The motto selected ?	3.5	15
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected by which President Jordan ?	4.0	18
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who is Jordan ?	1.0	5
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what, selected by President Jordan, is " Die Luft der Freiheit weht " ?	2.0	11
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University, selected by President is Jwhoordan die Luft der Freiheit ?	1.0	4
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of Stanford University, selected by who, is " Die Luft der Freiheit weht " ?	2.5	12
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	who selected The motto of Stanford University    ?	1.0	1
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What country The motto selected ?	3.5	17
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which place selected by President is Die Luft der Freiheit ?	2.0	8
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which saying of Stanford University, selected by President Jordan, is " Die Luft der Freiheit weht " ?	2.0	9
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which University , selected by President Jordan , is " Die Luft der Freiheit weht "  ?	1.0	3
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected what country ?	3.0	13
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	How many percent of Borneo 's land mass does the sovereign state of Brunei comprise ?	1.5	3
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	where located The sovereign state of Brunei    ?	3.5	7
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	About how many of Borneo's is Land Mass ?	2.5	5
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	What percentage  % of Borneo's land mass comprises about  ?	3.0	6
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	Where is Borneo ?	1.0	1
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent ?	2.5	4
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent of Borneo s land mass ?	1.5	2
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up when did Locke grow ?	3.5	8
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the market town of Pensford , about seven miles south of Bristol   ?	4.0	11
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up where did Locke grow ?	3.5	9
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where the family moved ?	2.0	5
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When the family moved to the market town of Pensford , about seven miles south of Bristol ?	2.0	4
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where soon after Locke's birth , the family moved   ?	1.5	3
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did Locke grow up ?	1.0	1
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When did Locke grow up ?	1.0	2
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the family moved   ?	3.0	7
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where the market town of Pensford , about seven miles south of Bristol    ?	4.0	10
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did the family move to the market town of Pensford , about seven miles south of Bristol , where Locke grew up in a rural Tudor house in Belluton ?	2.5	6
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water ?	2.0	9
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is ice second only to oceans as the most large reservoir of total water ?	2.0	10
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water ?	1.5	6
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water on Earth second only to oceans as the largest reservoir of total water  ?	1.5	4
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice the largest reservoir of fresh water on Earth  ?	1.0	1
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water ?	1.0	2
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is glacier ice ?	1.0	3
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is second only to oceans as the largest reservoir of total water ?	1.5	5
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir on Earth ?	2.5	11
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is glacier ice the most large reservoir of Fresh Water on Earth , ?	2.0	7
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir on Earth ?	2.0	8
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what place was Maury Jim James Henson one of the known Puppeteersseses ?	2.5	6
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	WHO was one of the most widely known puppeteers in American history and was the creator of The Muppets    ?	1.5	5
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Maury James Jim Henson was one how many the most widely known Puppeteersseses in American history and was the creator of the muppets ?	3.5	8
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what history was Maury Jim James Henson one of the known Puppeteersses ?	3.5	9
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was the creator of the muppets ?	1.0	1
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who is Maury Jim James Henson ?	1.5	4
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was one of the most widely known puppeteers in American history and was the creator of The Muppets ?	1.0	3
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	How many of the known Puppeteersses in American history was Maury Jim James Henson ?	3.5	7
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	who was one of the most widely known puppeteers in American history   ?	1.0	2
-64	The giant tortoise lives the longest, about 177 years in captivity.	How many years the  giant  tortoise lives ?	3.0	6
-64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives how many years ?	3.0	4
-64	The giant tortoise lives the longest, about 177 years in captivity.	How many years in captivity The giant tortoise lives the longest  ?	3.0	7
-64	The giant tortoise lives the longest, about 177 years in captivity.	In which place is the longest about 177 years ?	2.5	3
-64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest , which year in captivity  ?	3.5	9
-64	The giant tortoise lives the longest, about 177 years in captivity.	Which place does the giant tortoise live the longest about 177 years in ?	2.5	2
-64	The giant tortoise lives the longest, about 177 years in captivity.	Which tortoise lives the longest, about 177 years in captivity ?	1.0	1
-64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest about how many Years in captivity ?	3.0	5
-64	The giant tortoise lives the longest, about 177 years in captivity.	The about how many longest years in captivity does the giant tortoise live ?	3.0	8
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	1.0	1
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is situated in the eastern part of Africa ?	1.0	4
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa, and is situated in the north eastern part of Africa ?	1.5	6
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where Egypt is   ?	3.5	10
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa ?	2.0	8
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	1.5	7
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt issituated inthe  north eastern part of what region ?	2.5	9
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What country is situated in the north eastern part of Africa ?	1.0	2
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt is part of the Continent of Africa, and is situated where ?	1.5	5
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where Egypt is situated ?	3.5	11
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where the Continent   ?	4.0	12
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is Egypt ?	1.0	3
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why should you n't really pour  warm or hot water on cold glass  ?	2.5	6
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	why it ll crack ?	2.5	5
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What cracks ?	2.5	3
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why because it will crack ?	4.0	11
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What ll crack on cold glass cos ?	3.5	8
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Ll crack on cold glass cos what ?	3.5	9
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What pours ?	2.5	2
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why do you pour ?	1.0	1
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What, cos do you shouldn 't really pour warm or hot water on it 'll crack ?	3.0	7
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What should  pour warm or hot water  ?	4.0	10
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	It ll crack why ?	2.5	4
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women tend to cover ?	1.0	1
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why do women cover shorter urban journeys ?	1.0	2
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover urban shorter journeys and therefore their driving is slower and accidents tend to be relatively minor ?	3.0	6
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What cover shorter urban journeys  ?	2.5	5
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why tend accidents  to be relatively minor  ?	3.5	7
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women cover ?	1.0	3
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover shorter urban journeys ?	1.5	4
-85	As with everything, the right kind of person can be influenced by almost anything.	What the right kind can be influenced ?	3.5	6
-85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, the right kind of person can be influenced by what ?	1.5	2
-85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, what can be influenced by almost anything ?	2.5	5
-85	As with everything, the right kind of person can be influenced by almost anything.	By what can the right kind of person be influenced as with everything ?	1.5	3
-85	As with everything, the right kind of person can be influenced by almost anything.	What can be influenced by almost anything ?	1.0	1
-85	As with everything, the right kind of person can be influenced by almost anything.	What can influenced the right kind of person  ?	2.5	4
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why a lot of very productive people get sick and/or die  ?	2.0	6
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of very productive people get sick and die because of which diseases   ?	1.5	5
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why does a lot of productive people get sick ?	3.0	8
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of what get sick and die because of smoking related diseases ?	1.0	2
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which people get sick and/or die because of smoking related diseases ?	1.5	4
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which diseases do sick and/or die because of smoking ?	2.5	7
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why do A lot of very productive people get sick and/or die ?	1.0	3
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of what get sick ?	1.0	1
+5	Being able to link computers into networks has enormously boosted their capabilities.	What has enormously boosted their capabilities ?	1
+5	Being able to link computers into networks has enormously boosted their capabilities.	To be able to link what enormously has boosted their capabilities ?	1
+5	Being able to link computers into networks has enormously boosted their capabilities.	What boosted their capabilities  ?	1
+5	Being able to link computers into networks has enormously boosted their capabilities.	What boosted their capabilities ?	1
+5	Being able to link computers into networks has enormously boosted their capabilities.	Being able to link computers into what has enormously boosted their capabilities ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	By the word paradox was Kate put off ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kate was put off by the word paradox and who didn't know what marginal tax meant ?	0
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who was put off by the word paradox ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	who was put off by the word ` paradox '  ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who did not know what marginal tax meant ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Did Erin know what ` marginal tax ' mean ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kate was put off by which word  ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Was Kate put off it by the word paradox and did Erin not know what marginal tax meant ?	0
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kat was put off by which word ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Did Kate was put off by the word ` paradox '  ?	0
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who was put off by the word paradox and Erin didn't know what marginal tax meant ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Kate was put off by the word paradox and which person didn't know what marginal tax meant ?	0
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Who was put off by the word paradox and Erin did not know what marginal tax meant ?	0
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	who did not know what ` marginal tax ' meant    ?	1
+11	Kate was put off by the word 'paradox' and Erin did not know what 'marginal tax' meant.	Which person was put off by the word paradox and Erin didn't know what marginal tax meant ?	1
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	What does speech become ?	1
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	How many  mg\ ml then speech becomes slurred and coordination of movement is impaired  ?	0
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	If BAC , levels increase to around 200 mg and how many milliliters then speech becomes slurred and coordination of movement is impaired ?	0
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	BAC levels increase to what ?	1
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	How many  mg\ ml BAC levels increase to  ?	1
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	What movement is impaired ?	1
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	BAC , levels increase to around 2 hundred mg and how many milliliters ?	0
+16	If BAC levels increase to around 200 mg/100 ml then speech becomes slurred and coordination of movement is impaired.	What increase to around 200 mg/100 ml ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What do we go through ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals  ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals  ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What do we do ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Who is Robert Kane ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power between which Limerick was published in 1844 by Sir Robert Kane  ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	where was published in 1844 by Sir Robert Kane    ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Where was the first plan to harness the Shannon's power between Lough Derg and Limerick published in 1844 ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power was published by whom ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When was the plan published by sir Robert Kane ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon 's power Where was published in 1844 by Sir Robert Kane ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When was the first plan to harness the Shannon 's power between Lough Derg and Limerick published by Sir Robert Kane ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	who harness The first plan to the Shannon's power between Lough Derg and Limerick was published in 1844   ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Who did the first plan to harness the Shannon's power between Lough Derg and Limerick was publish in 1844 by Sir ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When the first plan to harness the Shannon's power was published ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power was published when ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	By which person was the first plan to harness the Shannon's power between Lough Derg and Limerick published in 1844 ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Which title the first plan to harness the Shannon's power was published ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	In 1844 by which person was the first plan to harness the Shannon's power between Lough Derg and Limerick published ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	By whom was the first plan to harness the Shannon 's power between Lough Derg and Limerick published in 1844 ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Who the first plan to harness the Shannon's power was published ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	when harness The first plan to the Shannon's power between Lough Derg and Limerick was published   ?	0
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When was the first plan to harness the Shannon's power between Lough Derg and Limerick published by sir Robert Kane ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	In 1844 where was the first plan to harness the Shannon's power between Lough Derg and Limerick published ?	1
+31	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	The first plan to harness the Shannon's power was published which title ?	0
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings does the IEEE consists of ?	0
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  societies The IEEE consists of  ?	0
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	The IEEE consists of how many societies organized around specialized technical fields with more than 300 local organizations who hold regular meetings ?	1
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	With more than 300 local organizations who hold regular meetings, the IEEE consists of how many societies organized around specialized technical fields ?	1
+32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  local organizations that hold regular meetings with  ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	On what did lemurs arrived in Madagascar approximately 62 to 65 mya by rafting at a time when ocean currents favored oceanic dispersal to the island ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island ?	1
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	when by rafting on mats of vegetation   ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	when Lemurs arrived   ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	where by rafting on mats of vegetation   ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Where is Madagascar ?	1
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What stock index Lemurs arrived ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Lemurs arrived where ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What did Ocean Currentsses favor ?	1
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Lemurs arrived in Madagascar approximately 62 to what stock index mya ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	When did lemurs arrive in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time ?	1
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Where did lemurs arrive approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island ?	1
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What favored oceanic dispersal  ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Where Lemurs arrived ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What rafting on mats of vegetation  ?	0
+39	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	where arrived in Madagascar   ?	0
+40	The main cause of variation is mutation, which changes the sequence of a gene.	What changes the sequence of a gene ?	1
+40	The main cause of variation is mutation, which changes the sequence of a gene.	What is mutation, which changes the sequence of a gene ?	1
+40	The main cause of variation is mutation, which changes the sequence of a gene.	What changes the sequence of a gene  ?	1
+40	The main cause of variation is mutation, which changes the sequence of a gene.	What is the main cause of variation ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Why a buffer overflow occurs when data written checking, corrupts data values ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	when a buffer overflow occurs   ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	When does a buffer overflow occur ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What occurs when data written checking, corrupts data values in memory addresses adjacent to the allocated buffer ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	A buffer overflow occurs when data written checking to a buffer due to insufficient bounds corrupts data values in, which place memory addresses adjacent to the allocated buffer ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Which overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Memory addresses adjacent to the allocated buffer, a buffer, overflow occurs when checking data written to which place due to insufficient bounds corrupts data values in ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	which overflow occurs when data written to a buffer , due to insufficient bounds checking , corrupts data values in memory addresses adjacent to the allocated buffer   ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Why does A buffer overflow occur ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	A buffer overflow occurs when data written to which , due to insufficient bounds checking , corrupts data values in memory addresses adjacent to the allocated buffer   ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Why does overflow occur ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What occurs when data written checking, corrupts data value ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	A buffer overflow occurs when data written checking, corrupts data values why ?	0
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What corrupts data values ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What occurs to the allocated buffer when checking data written to a buffer due to insufficient bounds corrupts data values in memory addresses adjacent ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Why does data corrupt data values ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What corrupts data values  ?	1
+43	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Why occurs a buffer overflow  ?	0
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the market town of Pensford , about seven miles south of Bristol   ?	0
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did the family move to the market town of Pensford , about seven miles south of Bristol , where Locke grew up in a rural Tudor house in Belluton ?	0
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the family moved   ?	0
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When did Locke grow up ?	1
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where the family moved ?	1
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up where did Locke grow ?	0
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When the family moved to the market town of Pensford , about seven miles south of Bristol ?	1
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did Locke grow up ?	1
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up when did Locke grow ?	0
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where soon after Locke's birth , the family moved   ?	1
+45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where the market town of Pensford , about seven miles south of Bristol    ?	0
+56	Having a teddy bear at eight years old is completely normal.	Is whether to be having a Teddy Bear at 8 years old completely normal ?	0
+56	Having a teddy bear at eight years old is completely normal.	How many  years old Having a teddy bear at is completely normal  ?	0
+56	Having a teddy bear at eight years old is completely normal.	Whether to be having a Teddy Bear at 8 years old is completely normal ?	0
+56	Having a teddy bear at eight years old is completely normal.	Having what ?	0
+56	Having a teddy bear at eight years old is completely normal.	Having what is completely normal ?	0
+56	Having a teddy bear at eight years old is completely normal.	Is Having a teddy bear at eight years old completely normal  ?	1
+56	Having a teddy bear at eight years old is completely normal.	Having a Teddy Bear at how many years old is completely normal ?	1
+56	Having a teddy bear at eight years old is completely normal.	How many  years old is completely normal  ?	1
+56	Having a teddy bear at eight years old is completely normal.	Having a Teddy Bear at how many years old completely is normal ?	0
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	When did the whole bogus when nonsense will be base on the fact the Mayan ceremonial ancient calendar will run out in ?	0
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	when is based on the fact that the ancient Mayan ceremonial calendar will run out   ?	0
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	What is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012 ?	1
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	When will the calendar run out ?	1
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	When the ancient Mayan ceremonial calendar will run out ?	0
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	When will the ancient Mayan ceremonial calendar run out ?	1
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	The ancient Mayan ceremonial calendar will run out when ?	0
+62	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	What will run out in 2012 ?	1
+69	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	What was long considered an unlucky day, especially by sailors ?	1
+69	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	Friday was long considered an unlucky day, especially by which servicemen ?	1
+69	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	What was Friday long considered to be an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought ?	0
+69	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	which day was long considered an unlucky day , especially by sailors , so when 13 and Friday coincide it was thought to be a double dose of bad luck   ?	1
+69	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	Considered 13 an unlucky day especially by sailors so when Friday was long and what did Friday coincide it was think to ?	0
+69	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	What was friday long considered, especially by sailors ?	1
+69	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	Friday was long considered which day , especially by sailors , so when 13 and Friday coincide it was thought to be a double dose of bad luck   ?	1
+73	BMW does mean Bavarian Motor Works.	What does mean Bavarian Motor Works ?	1
+73	BMW does mean Bavarian Motor Works.	What does BMW mean ?	1
+73	BMW does mean Bavarian Motor Works.	What does mean Bavarian Motor works ?	1
+73	BMW does mean Bavarian Motor Works.	What does bmw mean ?	1
+73	BMW does mean Bavarian Motor Works.	What mean Bavarian Motor Works  ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	It ll crack why ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What pours ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What cracks ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What ll crack on cold glass cos ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why because it will crack ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why do you pour ?	1
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What should  pour warm or hot water  ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Ll crack on cold glass cos what ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	why it ll crack ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why should you n't really pour  warm or hot water on cold glass  ?	0
+75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What, cos do you shouldn 't really pour warm or hot water on it 'll crack ?	0
+76	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	In the USA , , you get your permit when you are 15 meaning you have to be with a licenced driver where over the age in the car ?	0
+76	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	In the USA , ,, you get your permit when you are how much meaning you have to be with a licenced driver over the age of 25 in the car ?	0
+76	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	where you get your permit when you are 15 , meaning you have to be with a licenced driver in the car over the age of  ?	0
+76	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	How many  you get your permit when you are  ?	0
+76	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	How many  I think meaning you have to be with a licenced driver in the car over the age of  ?	0
+76	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	In the USA , , you get your permit when you are 15 meaning you have to be with a licenced driver in the car over the age where ?	0
+76	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	How many do you get your permit when you do ?	0
+78	Plug it in most computers will do an automatic set up.	What will do an automatic set up ?	1
+78	Plug it in most computers will do an automatic set up.	Will Plug it in most computers do an automatic set up  ?	0
+78	Plug it in most computers will do an automatic set up.	Will it in most omputers do an automatic set up ?	1
+78	Plug it in most computers will do an automatic set up.	Plug it in most computers will do an automatic set up ?	0
+78	Plug it in most computers will do an automatic set up.	Plug what will do an automatic set up ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	Only when will another 20,000 bring troop levels back to where they will be ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	Only another how many will bring troop levels back to where they were in 2005 ?	1
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	Another 20,000 will only bring troop levels back when ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	When another 20,000 will only bring troop levels back ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	How many will another 20,000 only bring troop levels in back to where they will be ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	when bring Another 20,000 will only troop levels back to where they were   ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	When will another 20,000 only bring troop levels ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	When will another 20,000 only bring troop levels back to ?	0
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	How many  will only bring troop levels back to where they were in 2005  ?	1
+87	Another 20,000 will only bring troop levels back to where they were in 2005.	Only when will another 20,000 bring troop levels back to where they were in ?	0

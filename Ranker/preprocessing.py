@@ -205,31 +205,32 @@ def by_score(question):
     return score
 
 
-def write_to_file(filename,qids,qid_to_question):
+def write_to_file(filename,qids,qid_to_question,category):
     
     with open(filename,'w') as f:
         for qid in qids:
             questions = qid_to_question[qid]
-            questions = sorted(questions,key=by_score)
-            #associate rank with each question based on its score
-            for rank,q in enumerate(questions):
-                q = q.rstrip('\n')
-                q = q+'\t'+str(rank+1)+'\n'
-                questions[rank] = q
-                #f.write(q)
             
+            if category == 'ranking':
+                questions = sorted(questions,key=by_score)
+                #associate rank with each question based on its score
+                for rank,q in enumerate(questions):
+                    q = q.rstrip('\n')
+                    q = q+'\t'+str(rank+1)+'\n'
+                    questions[rank] = q
+                    #f.write(q)
+                
             random.shuffle(questions)
             
             for q in questions:
                 f.write(q)
-
 
 #randomly partitions the gold-standard data-set to produce
 #training data-set and test data-set.
 #this has some bias because the same qid used for training
 #might be present in dev and test sets.
 #Fix it, by sampling based on qids
-def partition_data(gs,train,test,fr):
+def partition_data(gs,train,test,fr,category):
     
     
     with open(gs,'r') as f:
@@ -251,7 +252,7 @@ def partition_data(gs,train,test,fr):
     idx = int(n*fr)
     
     tr = sorted(qids[0:idx])
-    tt = sorted(qids[idx:2*idx])
+    tt = sorted(qids[idx:])
     
     print tr
     print tt
@@ -260,8 +261,8 @@ def partition_data(gs,train,test,fr):
     print 'No. of training samples = '+str(idx)
     print 'No. of test samples = '+str(n-idx)
     
-    write_to_file(train,tr,qid_to_question)
-    write_to_file(test,tt,qid_to_question)
+    write_to_file(train,tr,qid_to_question,category)
+    write_to_file(test,tt,qid_to_question,category)
 
 def print_GS_statistics(gs):
     
@@ -276,6 +277,29 @@ def print_GS_statistics(gs):
         scoreList[score]+=1 
     
     print sorted(scoreList.items(), key=operator.itemgetter(0))
+
+def binarize(gs,gs_binary):
+    
+    count = 0
+    
+    with open(gs,'r') as f:
+        data = f.read().splitlines()
+    
+    for idx,line in enumerate(data):
+        parts = line.split('\t')
+        score = parts[-1]
+        if float(score)<2.5:
+            score = '1'  #acceptable
+            count+=1
+        else: 
+            score = '0'  #unacceptable
+        data[idx] = ('\t'.join(parts[0:-1]))+'\t'+score+'\n'
+        
+    with open(gs_binary,'w') as f:
+        for line in data:
+            f.write(line)
+        
+    print count
         
 if __name__ == "__main__":
     
@@ -287,17 +311,24 @@ if __name__ == "__main__":
     
     gold_standard = 'data/gs.txt'
     gold_standard_cleaned = 'data/gs_cleaned.txt'
-    #train = 'data/train.txt'
-    train = 'data/train_sample.txt'
-    #test = 'data/test.txt'
-    test = 'data/test_sample.txt'
-
-    #extract_data(input_file,gold_standard)
-    #clean_gs(gold_standard,gold_standard_cleaned)
+    gold_standard_binary = 'data/gs_binary.txt'
+    
+    train = 'data/train.txt'
+    #train = 'data/train_sample.txt'
+    test = 'data/test.txt'
+    #test = 'data/test_sample.txt'
+    
     #prepareHeilmanQuestions(qFile,test_heilman_file)
     #prepare_corpus()
     #prepare_tagged_corpus()
     #process_TREC_questions(trec)
-    #partition_data(gold_standard_cleaned,train,test,0.03)
-    print_GS_statistics(gold_standard_cleaned)
+
+    #extract_data(input_file,gold_standard)
+    #clean_gs(gold_standard,gold_standard_cleaned)
+    binarize(gold_standard_cleaned,gold_standard_binary)
+    
+    #partition_data(gold_standard_cleaned,train,test,0.03,'ranking')
+    #partition_data(gold_standard_binary,train,test,0.80,'binary_labels')
+    
+    #print_GS_statistics(gold_standard_cleaned)
     

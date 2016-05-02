@@ -1,0 +1,13 @@
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women tend to cover ?	1.0	1
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover urban shorter journeys and therefore their driving is slower and accidents tend to be relatively minor ?	3.0	6
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why do women cover shorter urban journeys ?	1.0	2
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women cover ?	1.0	3
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What cover shorter urban journeys  ?	2.5	5
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover shorter urban journeys ?	1.5	4
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why tend accidents  to be relatively minor  ?	3.5	7
+85	As with everything, the right kind of person can be influenced by almost anything.	What the right kind can be influenced ?	3.5	6
+85	As with everything, the right kind of person can be influenced by almost anything.	By what can the right kind of person be influenced as with everything ?	1.5	3
+85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, what can be influenced by almost anything ?	2.5	5
+85	As with everything, the right kind of person can be influenced by almost anything.	What can influenced the right kind of person  ?	2.5	4
+85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, the right kind of person can be influenced by what ?	1.5	2
+85	As with everything, the right kind of person can be influenced by almost anything.	What can be influenced by almost anything ?	1.0	1

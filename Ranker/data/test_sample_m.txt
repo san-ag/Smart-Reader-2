@@ -1,0 +1,11 @@
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Suffering nearly how many casualties many Somerset soldiers died with the Somerset Light Infantry during the First World War ?	4.0	6
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Many Somerset soldiers died during which War , with the Somerset Light Infantry suffering nearly 5,000 casualties   ?	2.5	3
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Nearly how many casualties was the Somerset Light Infantry suffering ?	2.0	1
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	which soldiers died during the First World War , with the Somerset Light Infantry suffering nearly 5,000 casualties   ?	2.5	2
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	What place did many Somerset soldiers die during the First World War with suffering nearly 5,000 casualties ?	4.0	4
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	What place did soldiers die with during the First World War ?	4.0	5
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	How many  casualties with the Somerset Light Infantry suffering  ?	4.0	7
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	What is the axiom in Euclidian Geometry ?	2.0	2
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	What the axiom in Euclidian Geometry is ?	2.5	3
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	What is that parallel lines never intersect ?	3.5	4
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	The axiom in what is that, parallel lines never intersect ?	2.0	1

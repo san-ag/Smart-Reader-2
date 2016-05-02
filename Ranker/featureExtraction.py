@@ -191,7 +191,7 @@ def compute_overlap_score(c,q):
     
     common = c_set.intersection(q_set)
     
-    score = len(common)
+    score = float(len(common))
             
     return score
 
@@ -392,9 +392,5 @@ def extractFeatures(context_question_list):
     #print pipeline.get_feature_names()
     featureMatrix = pipeline.fit_transform(data)
     print featureMatrix.shape
-    
-    #print featureMatrix
-    
-    
-    #return featureVectors
+
     return featureMatrix

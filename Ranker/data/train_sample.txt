@@ -1,11 +1,11 @@
-55	Stone tools were used by proto-humans at least 2.5 million years ago.	Stone tools were used when ?	2.5	4
-55	Stone tools were used by proto-humans at least 2.5 million years ago.	When Stone tools were used ?	3.0	5
-55	Stone tools were used by proto-humans at least 2.5 million years ago.	What were used by Proto - humans at least 2.5 million years ag ?	1.5	2
-55	Stone tools were used by proto-humans at least 2.5 million years ago.	When were stone tools used by proto-humans ago ?	3.0	6
-55	Stone tools were used by proto-humans at least 2.5 million years ago.	when stone tools were used   ?	2.0	3
-55	Stone tools were used by proto-humans at least 2.5 million years ago.	Stone tools were used by Proto - humans at least how many million years ago ?	1.5	1
-73	BMW does mean Bavarian Motor Works.	What does mean Bavarian Motor Works ?	2.0	4
-73	BMW does mean Bavarian Motor Works.	What does BMW mean ?	1.0	1
-73	BMW does mean Bavarian Motor Works.	What mean Bavarian Motor Works  ?	3.0	5
-73	BMW does mean Bavarian Motor Works.	What does bmw mean ?	1.0	2
-73	BMW does mean Bavarian Motor Works.	What does mean Bavarian Motor works ?	2.0	3
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals  ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What do we go through ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What do we do ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals  ?	1
+24	Motivation theories seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals.	What seek to explain why we do the things we do either by examining how a behaviour satisfies our needs or the processes we go through as we decide how to achieve our goals ?	1
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What use The number system  ?	1
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What use in everyday life is sometimes called the denary representation or the decimal representation of numbers ?	0
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What is sometimes called the denary representation or the decimal representation of numbers ?	1
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	We use what ?	1
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What we use ?	0
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What is called the denary representation, or sometimes the decimal representation, of numbers ?	1

@@ -1,62 +1,28 @@
 from _collections import defaultdict
 import featureExtraction as FE
 from copy import deepcopy
-import random
 import os
 import sys
-from scipy.stats import kendalltau, spearmanr, pearsonr
 
-allFeatures = []
 
-def readFile(f,file_type):
+def readFile(f):
     
-    text_question_list = []
+    context_question_list = []
     
     with open(f,"r") as fle:
         for line in fle:
             line = line.rstrip('\n')
             
-            if line=="":continue
+            if line=="":
+                continue
             
             parts = line.split('\t')
 
-            qid = parts[0]
-            
-            sentence = parts[1]
-            question = parts[2]
-            
-            if file_type!='output':score = parts[3]
-            #else:score = parts[4]
-            
-            rank = parts[-1]
-            
-            if file_type=='train':
-                inp = [qid,sentence,question,score,rank]
-            else:
-                inp = [qid,sentence,question,rank]
-            
-            text_question_list.append(tuple(inp))
-    
-    #print question_answer_list
+            context_question_list.append(tuple(parts))
 
-    return text_question_list
+    return context_question_list
 
-#there can be new features in test data
-#test set features should be extracted only based on training set features
-#fix this
-#this needs to be handled
-def getAllFeatures(questionList):
-    
-    allFeaturesSet = set()
-    
-    for question in questionList:
-        allFeaturesSet.update(question.features.keys())
-    
-    #all the features in any feature vector
-    global allFeatures
-    allFeatures = deepcopy(list(allFeaturesSet))
-    
-    
+
     
 def writeFeatureMatrixToFile(featureMatrix,context_question_list,phase):
     
@@ -67,7 +33,8 @@ def writeFeatureMatrixToFile(featureMatrix,context_question_list,phase):
         for i in range(n):
             
             qid = context_question_list[i][0]
-            score = context_question_list[i][3]
+            if phase == 'train':
+                score = context_question_list[i][3]
             
             if phase=="train":
                 f.write(score+" "+"qid:"+qid)
@@ -80,11 +47,7 @@ def writeFeatureMatrixToFile(featureMatrix,context_question_list,phase):
 
 def trainRanker(training_data_file):
     
-    #Each line of training_data_file is of the form - questionID text question score 
-    #All questions generated from one sentence have the same questionID  
-    #score = correctness, relevance and ambiguity measure
-    
-    context_question_list = readFile(training_data_file,"train")
+    context_question_list = readFile(training_data_file)
     
     
     featureMatrix = FE.extractFeatures(context_question_list)
@@ -108,7 +71,7 @@ def trainRanker(training_data_file):
     model_file_path = "models/model.dat"
     
     command = svm_rank_learn_exec_path+" -c"+" 0.001 "+" -t"+" 1 "+feature_vectors_file_path+" "+model_file_path
-    
+    #command = svm_rank_learn_exec_path+" -c"+" 0.001 "+feature_vectors_file_path+" "+model_file_path
     #print command
     
     os.system(command)
@@ -120,7 +83,7 @@ def trainRanker(training_data_file):
   
 def testRanker(test_data_file):
     
-    context_question_list = readFile(test_data_file,"test")
+    context_question_list = readFile(test_data_file)
     
     featureMatrix = FE.extractFeatures(context_question_list)
     
@@ -151,7 +114,7 @@ def rank(test_data_file,output_file):
         for line in f:
             scoreList.append(float(line))
     
-    context_question_list = readFile(test_data_file,"test")
+    context_question_list = readFile(test_data_file)
     
     questions_by_qid = defaultdict(list)
     
@@ -168,7 +131,7 @@ def rank(test_data_file,output_file):
      
     #sort by increasing prediction score. Less is better
     for qid in all_qids:
-        sortedQuestions[qid] = sorted(questions_by_qid[qid],key=lambda question:question[-1])
+        sortedQuestions[qid] = sorted(questions_by_qid[qid],key=lambda question:question[-1],reverse=True)
         
     for qid in all_qids:
         print sortedQuestions[qid]
@@ -177,114 +140,7 @@ def rank(test_data_file,output_file):
         for qid in all_qids:
             for item in sortedQuestions[qid]:
                 item = list(item)
-                line = item[0]+'\t'+item[1]+'\t'+item[2]+'\t'+item[3]+'\n'
+                line = ('\t'.join(item[0:-1]))+'\n'
                 f.write(line)
             f.write("\n")
             
-            
-            
-def getKendallDistance(true,predicted):
-    
-    kd = 0
-    
-    n = len(true)
-    
-    for i in range(0,n):
-        for j in range(i+1,n):
-            if not((true[i]<true[j] and predicted[i]<predicted[j])or(true[i]>true[j] and predicted[i]>predicted[j])):
-                kd+=1
-        
-    
-    kd = float(kd)/(n*(n+1)/2)
-    
-    return kd
-
-def compute_rank_correlation_metrics(qids_to_ranks_true, qids_to_ranks_predicted):
-    
-    qids = qids_to_ranks_true.keys()
-    
-    total_kd_base = 0.0
-    total_kd = 0.0
-    
-    total_spr_base = 0.0
-    total_spr = 0.0
-    
-    for qid in qids:
-        listA =  qids_to_ranks_true[qid]
-        listB =  qids_to_ranks_predicted[qid]
-
-        listC = deepcopy(listB)
-        random.shuffle(listC)
-        
-        #kd, p_value = kendalltau(listA, listB)
-        # kd_base,p_value = kendalltau(listA,listC)
-        
-        kd = getKendallDistance(listA, listB)
-        kd_base = getKendallDistance(listA, listC)
-        
-        spr,p_value = spearmanr(listA,listB)
-        spr_base,p_value = spearmanr(listA,listC)
-        
-        print 'kd = '+str(kd)
-        print 'kd_base = '+str(kd_base)
-          
-        total_kd_base+=kd_base
-        total_kd+=kd
-        
-        total_spr_base+=spr_base
-        total_spr+=spr
-  
-        
-    avg_kd_base = total_kd_base/len(qids)
-    avg_kd = total_kd/len(qids)
-    
-    avg_spr_base = total_spr_base/len(qids)
-    avg_spr = total_spr/len(qids)
-    
-    print 'average kendall tau correlation baseline = %f'%avg_kd_base
-    print 'average kendall tau correlation = %f'%avg_kd
-    
-    print 'average spearman correlation baseline = %f'%avg_spr_base
-    print 'average spearman correlation = %f'%avg_spr
-    
-    
-    return avg_kd_base,avg_kd
-
-def compute_map_metric(qids_to_ranks_true,qids_to_ranks_predicted):
-    
-    return 0
-
-            
-def evaluate(test_data_file,output_file):
-    
-    #context_question_list_test = readFile(test_data_file,"test")
-    context_question_list_ranked = readFile(output_file,"output") 
-    
-    #print text_question_list_output 
-    
-    qids_to_ranks_true = defaultdict(list)
-    qids_to_ranks_predicted = defaultdict(list) 
-    
-    
-    for item in context_question_list_ranked:
-        item = list(item)
-        qid = item[0]
-        rank = int(item[-1])
-        
-        qids_to_ranks_true[qid].append(rank)
-        
-    for qid in qids_to_ranks_true:
-        n = len(qids_to_ranks_true[qid])
-        qids_to_ranks_predicted[qid] = range(1,n+1)
-
-    
-    print qids_to_ranks_true
-    print qids_to_ranks_predicted
-    
-    compute_rank_correlation_metrics(qids_to_ranks_true,qids_to_ranks_predicted)
-    compute_map_metric(qids_to_ranks_true,qids_to_ranks_predicted)
-    
-    
-   
-    
-    

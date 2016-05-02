@@ -1,214 +1,743 @@
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would take a 50 per cent pay cut for the next six months  ?	8
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut for the next six months ?	3
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What he will do for the next six months ?	18
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	who announced  , that he and other senior executives would take a 50 per cent pay cut for the next six months    ?	2
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent pay cut for the next six months  ?	12
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What announced that he and other senior executives would take a 50 per cent pay cut for the next six months  ?	7
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Which cut would he and other senior executives take for the next six months ?	10
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would Softbank BB's Pres announced, he, and other senior executives take furthermore ?	20
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many cut would he and other senior executives take for the next six months ?	11
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut ?	6
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore, Softbank BB 's president, who, announced that he and other senior executives would take a 50 per cent pay cut for the next six months ?	19
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What did Masayoshi Son announce ?	1
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who was Softbank BB's Pres ?	14
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent he and other senior executives would take  ?	5
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	For how many months would he and other senior executives take a 50 per cent pay cut ?	4
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What other  senior  executives will do ?	17
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Was Softbank BB's president Masayoshi Son ?	13
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut for the next six months ?	15
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut ?	16
-25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore , Softbank BB's president , Masayoshi Son , announced that he and other senior executives would take a 50 per cent pay cut for which month   ?	9
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	What know that T Mobile charges for 0800 calls  ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Which Mobile charges for 0800 calls ?	1
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	What will depend on your service provider  ?	1
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	What time i know that T Mobile charges for calls ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Which place will it depend on ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Which city i know that T charges for 0800 calls ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Which calls does t Mobile charge for ?	1
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	I am pretty sure it will depend on your service provider but what do I know T mobile charges for ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	I am pretty sure it will depend on your service provider but what do I know ?	1
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	I am pretty sure it will depend on your service provider but I know which place charge for 0800 calls ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	I know that T Mobile charges for calls, what time ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	I know that T charges for 0800 calls which city ?	0
+81	I'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	I 'm pretty sure it will depend on which provider  ?	1
 
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the market town of Pensford , about seven miles south of Bristol   ?	11
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where the market town of Pensford , about seven miles south of Bristol    ?	10
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When the family moved to the market town of Pensford , about seven miles south of Bristol ?	4
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When did Locke grow up ?	2
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did Locke grow up ?	1
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did the family move to the market town of Pensford , about seven miles south of Bristol , where Locke grew up in a rural Tudor house in Belluton ?	6
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	where soon after Locke's birth , the family moved   ?	3
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where the family moved ?	5
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	when the family moved   ?	7
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up when did Locke grow ?	8
-45	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Up where did Locke grow ?	9
+54	Since light is an oscillation it is not affected by travelling through static electric or magnetic fields in a linear medium such as a vacuum.	Is it travelling such as a vacuum ?	0
+54	Since light is an oscillation it is not affected by travelling through static electric or magnetic fields in a linear medium such as a vacuum.	Since light is an oscillation it is not affected by travelling through static electric or magnetic fields in a linear medium such as a vacuum ?	0
+54	Since light is an oscillation it is not affected by travelling through static electric or magnetic fields in a linear medium such as a vacuum.	Is it travelling through static electric or magnetic fields in a linear medium such as a vacuum ?	1
+54	Since light is an oscillation it is not affected by travelling through static electric or magnetic fields in a linear medium such as a vacuum.	Is it affected by an oscillation ?	1
+54	Since light is an oscillation it is not affected by travelling through static electric or magnetic fields in a linear medium such as a vacuum.	Is Since light an oscillation by travelling through static electric or magnetic fields in a linear medium such as a vacuum  ?	0
+54	Since light is an oscillation it is not affected by travelling through static electric or magnetic fields in a linear medium such as a vacuum.	Is it affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum  ?	1
 
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women cover ?	3
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women tend to cover ?	1
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why tend accidents  to be relatively minor  ?	7
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why do women cover shorter urban journeys ?	2
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover urban shorter journeys and therefore their driving is slower and accidents tend to be relatively minor ?	6
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover shorter urban journeys ?	4
-77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What cover shorter urban journeys  ?	5
+42	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	The language, initially called Oak after which tree that stood outside Gosling 's office, also went by the name Green and ended up later renamed as Java, from a list of random words ?	0
+42	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	Was the name from a list of random words ended up ?	0
+42	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	The language , initially called Oak after which tree that stood outside Gosling's office , also went by the name Green and ended up later renamed as Java , from a list of random words   ?	0
+42	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	Which person's office did a Oak Tree stand outside ?	1
+42	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	Did a Oak Tree stand outside Gosling's office ?	1
+42	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	The language went up by which person and ended later renamed from a list of random words as Java ?	0
+42	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	The language , initially called Oak after an oak tree that stood outside Gosling's office , also went by which Green and ended up later renamed as Java , from a list of random words   ?	0
 
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When was the BBC formed ?	1
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the passing saw the establishment being formed ?	10
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which organisation being formed in 1922 ?	6
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When did the passing of the First World War soon see the establishment of the BBCs formed ?	4
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the BBC being formed ?	7
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when the passing of the First World War   ?	13
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when saw the establishment of many national radio broadcasting organizations , the BBC being formed   ?	11
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which body of many national radio broadcasting organisations did the passing of the First World War soon saw ?	9
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which place soon saw the establishment of national many radio broadcasting organizations, the BBC formed in 1922 ?	12
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The establishment of which place did the passing of the First World War soon see ?	8
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which War soon saw the establishment of many national radio broadcasting organizations  ?	2
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing saw the establishment being formed when ?	5
-17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of the First World War soon saw the establishment of which organizations  ?	3
+50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why is elevation increasing ?	1
+50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why decreases so that pressure with increasing elevation  ?	0
+50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why Similarly, as elevation increases, there is less overlying atmospheric mass, so that pressure decreases with increasing elevation ?	0
+50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why there is less overlying atmospheric mass, so that pressure decreases with increasing elevation ?	0
+50	Similarly, as elevation increases there is less overlying atmospheric mass, so that pressure decreases with increasing elevation.	Why there is less overlying atmospheric mass, so that pressure decreases ?	0
 
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who is Jordan ?	5
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What selected The motto  ?	10
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	who selected The motto of Stanford University    ?	1
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who The motto selected ?	15
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What country The motto selected ?	17
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which country The motto selected ?	16
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University, selected by President is Jwhoordan die Luft der Freiheit ?	4
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What is Die Luft der Freiheit ?	6
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of Stanford University, selected by who, is " Die Luft der Freiheit weht " ?	12
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what, selected by President Jordan, is " Die Luft der Freiheit weht " ?	11
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which saying of Stanford University, selected by President Jordan, is " Die Luft der Freiheit weht " ?	9
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which place selected by President is Die Luft der Freiheit ?	8
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University selected by which person, is Die Luft der Freiheit?By what place Jordan is university selected ?	7
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which University , selected by President Jordan , is " Die Luft der Freiheit weht "  ?	3
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what is Die Luft der Freiheit ?	2
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected what country ?	13
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected Who ?	14
-33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected by which President Jordan ?	18
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	What is the axiom in Euclidian Geometry ?	1
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	What is that parallel lines never intersect ?	0
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	The axiom in what is that, parallel lines never intersect ?	1
+60	The axiom in Euclidian Geometry is that parallel lines never intersect.	What the axiom in Euclidian Geometry is ?	0
 
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  societies The IEEE consists of  ?	4
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings does the IEEE consists of ?	3
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many  local organizations that hold regular meetings with  ?	5
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	The IEEE consists of how many societies organized around specialized technical fields with more than 300 local organizations who hold regular meetings ?	2
-32	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	With more than 300 local organizations who hold regular meetings, the IEEE consists of how many societies organized around specialized technical fields ?	1
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Why is the reason Polaris ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Why is The reason Polaris important to us ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Why gives so it us an easy way  to find north by  looking at the stars  ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	which reason is important to us is that it is very close to the north celestial pole , so it gives us an easy way to find north by looking at the stars  ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Which reason is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Why the reason is Polarisse ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	The reason is important to us why ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Why the reason is important to us ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	The reason Polaris is important to us is that. which place is it very close to so it gives us an easy way to find north by looking at the stars ?	0
+61	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	The reason Polaris is important to us. that is it is very close to which place, so it gives us an easy way to find north by looking at, the stars ?	0
 
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where 1942 , for observing the launch of V-2 rockets    ?	26
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where in 1942 the CCTV first system installed by Siemens AG at Test Stand vii in Peenemnde was for observing the launch of V-2 rockets ?	7
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	1
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why launch The rockets ?	3
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the CCTV first system was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	5
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where was the first CCTV system installed by Siemens AG at Test Stand VII in 1942, for observing the launch of V-2 rockets ?	8
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Stand Test VII in Peenemnde Germany in 1942 for observing the launch ?	4
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was the first CCTV system installed by  Siemens AG at  Test Stand VII in  Peenem nde ,  Germany in 1942  ?	25
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany, for observing the launch of V-2 rockets ?	12
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was The first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942 ?	9
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	By what was the first CCTV system installed at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets ?	15
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system observing the launch of V-2 rockets ?	23
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG at Test Stand ?	6
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What installed The first CCTV system  ?	21
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when Peenemnde  ?	27
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed ?	2
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where the first CCTV system was installed by Siemens AG at Test Stand VII   ?	14
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when the first CCTV system was installed by Siemens AG at Test Stand VII   ?	17
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	For observing the launch where was the CCTV first system installed by Siemens AG at Test, Stand vii in Peenemnde, Germany in 1942 ?	10
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system was installed ?	20
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where the first CCTV system was installed ?	24
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When the first CCTV system was installed ?	22
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The CCTV first system installed by Siemens AG at Test Stand VII in Peenemnde was Germany when for observing the launch of V-2 rockets ?	19
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in what place Germany in 1942 for observing the launch of V-2 rockets ?	11
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing what launches ?	13
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed when ?	16
-30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first  CCTV  system was installed where ?	18
+88	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	What will not change ?	1
+88	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	What is enabled on the keyboard when you press any of the arrow keys ?	1
+88	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	What press any of the arrow keys  ?	0
+88	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when you press what keys the screen will move in that direction but the selected cell won't change ?	1
 
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir on Earth ?	8
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir on Earth ?	11
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice the largest reservoir of fresh water on Earth  ?	1
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water ?	9
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is glacier ice ?	3
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water on Earth second only to oceans as the largest reservoir of total water  ?	4
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water ?	2
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water ?	6
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is glacier ice the most large reservoir of Fresh Water on Earth , ?	7
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is second only to oceans as the largest reservoir of total water ?	5
-51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is ice second only to oceans as the most large reservoir of total water ?	10
-
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	why it ll crack ?	5
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	It ll crack why ?	4
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What should  pour warm or hot water  ?	10
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why do you pour ?	1
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What pours ?	2
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What cracks ?	3
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What ll crack on cold glass cos ?	8
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why should you n't really pour  warm or hot water on cold glass  ?	6
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Why because it will crack ?	11
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	What, cos do you shouldn 't really pour warm or hot water on it 'll crack ?	7
-75	You shouldn't really pour warm or hot water on cold glass, cos it'll crack.	Ll crack on cold glass cos what ?	9
-
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	where located The sovereign state of Brunei    ?	7
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	How many percent of Borneo 's land mass does the sovereign state of Brunei comprise ?	3
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	About how many of Borneo's is Land Mass ?	5
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	Where is Borneo ?	1
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	What percentage  % of Borneo's land mass comprises about  ?	6
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent of Borneo s land mass ?	2
-41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent ?	4
-
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many  gunners there should be a fitting public memorial to  ?	2
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many gunners who died should there be a fitting public memorial to ?	1
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	The how many gunners who died was the idea that prevailed there should be a public memorial fitting to ?	4
-1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	To the how many gunners who died was the idea that prevailed there should be a public fitting memorial ?	3
-
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How to ensure a healthy and efficiently functioning brain many sources of fuel are particularly importan ?	3
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many sources of fuel are particularly important to ensure a healthy and efficiently functioning brain ?	2
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many  sources of fuel are particularly important to ensure a healthy and efficiently functioning brain -- oxygen and water  ?	7
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What are particularly important to ensure a healthy and efficiently functioning brain ?	4
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What ensure a healthy and efficiently functioning brain  oxygen and water  ?	8
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How much sources of fuel are particularly important to ensure a healthy and efficiently functioning brain, oxygen, and water ?	5
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	2 sources of what is important particularly to ensure a healthy and efficiently functioning brain ?	6
-3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	To ensure a healthy and efficiently functioning brain 2 sources of what are particularly important ?	1
-
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At what there are 3 ways in which businesses can respond to the green imperative ?	7
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What businesses do to the green imperative ?	5
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What can respond to the green imperative  ?	1
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	How many  ways in which businesses can respond to the green imperative  ?	8
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. in what are 3 ways businesses can respond to the green imperative ?	10
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, how many ways in which businesses can respond to the green imperative are there ?	2
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. how many ways in which businesses can respond to the green imperative are there ?	4
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are what in which businesses can respond to the green imperative ?	9
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are how many ways in which businesses can respond to the green imperative ?	3
-2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	businesses can respond to what ?	6
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What had different songs in the two countries ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What had different songs in the 2 countries ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What had the same species in the two countries ?	0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was done on non-migratory birds in the UK and Germany ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Where was some research done on non-migratory birds ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Where did the species have different songs ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	where it was found that the same species   ?	0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What time did the species have different songs in ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Which birds in the UK and Germany was some research done on ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Some research was done on non-migratory birds in the UK and Germany and where was it found the same, species had different songs ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Where some research was done ?	1
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Some research was done where ?	0
 
 64	The giant tortoise lives the longest, about 177 years in captivity.	Which tortoise lives the longest, about 177 years in captivity ?	1
-64	The giant tortoise lives the longest, about 177 years in captivity.	Which place does the giant tortoise live the longest about 177 years in ?	2
-64	The giant tortoise lives the longest, about 177 years in captivity.	In which place is the longest about 177 years ?	3
-64	The giant tortoise lives the longest, about 177 years in captivity.	How many years in captivity The giant tortoise lives the longest  ?	7
-64	The giant tortoise lives the longest, about 177 years in captivity.	How many years the  giant  tortoise lives ?	6
-64	The giant tortoise lives the longest, about 177 years in captivity.	The about how many longest years in captivity does the giant tortoise live ?	8
-64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest about how many Years in captivity ?	5
-64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest , which year in captivity  ?	9
-64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives how many years ?	4
+64	The giant tortoise lives the longest, about 177 years in captivity.	In which place is the longest about 177 years ?	0
+64	The giant tortoise lives the longest, about 177 years in captivity.	Which place does the giant tortoise live the longest about 177 years in ?	0
+64	The giant tortoise lives the longest, about 177 years in captivity.	How many years in captivity The giant tortoise lives the longest  ?	0
+64	The giant tortoise lives the longest, about 177 years in captivity.	The about how many longest years in captivity does the giant tortoise live ?	0
+64	The giant tortoise lives the longest, about 177 years in captivity.	How many years the  giant  tortoise lives ?	0
+64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest , which year in captivity  ?	0
+64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives the longest about how many Years in captivity ?	0
+64	The giant tortoise lives the longest, about 177 years in captivity.	The giant tortoise lives how many years ?	0
 
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa ?	8
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where Egypt is   ?	10
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is Egypt ?	3
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	1
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where the Continent   ?	12
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	7
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa, and is situated in the north eastern part of Africa ?	6
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is situated in the eastern part of Africa ?	4
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What country is situated in the north eastern part of Africa ?	2
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where Egypt is situated ?	11
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt is part of the Continent of Africa, and is situated where ?	5
-65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt issituated inthe  north eastern part of what region ?	9
+49	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	Where is Grammatiko ?	1
+49	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	Where did teams locate wreckage ?	1
+49	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	How many km from Athens Rescue teams located wreckage near the community of Grammatiko  ?	0
+49	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	Near the community of Grammatiko from where did rescue teams locate wreckage ?	1
+49	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	Rescue teams located wreckage near the community of Grammatiko how many km 25 miles from Athens ?	0
+49	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	Rescue teams located wreckage near the community of Grammatiko 40 km 25 miles from where ?	1
+49	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	Rescue teams located wreckage near the community of Grammatiko 40 km how many miles from Athens ?	0
 
+66	lol means laugh out loud.	What means laugh out loud  ?	0
+66	lol means laugh out loud.	What means laugh out loud ?	1
+66	lol means laugh out loud.	What laugh out loud ?	0
+66	lol means laugh out loud.	What does rice mean ?	1
+
+67	People use this site to learn English.	What learn English  ?	0
+67	People use this site to learn English.	What do people use ?	1
+67	People use this site to learn English.	Why do people use this site ?	1
+67	People use this site to learn English.	What use this site to learn English ?	1
+67	People use this site to learn English.	What use this site  ?	0
+67	People use this site to learn English.	Why use People this site  ?	0
+67	People use this site to learn English.	To learn English what do people use ?	1
+
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	What is the feastday of Saint Stephen ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	when is Boxing Day - the feastday of Saint Stephen   ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	What is called St Stephen's Day ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	What is the feastday Boxing  Day ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	When is Boxing Day ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	What is Boxing Day called ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	which day - December 26th - is the feastday of Saint Stephen , and is called St Stephen's Day   ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	Which Day is the feastday of Saint Stephen, and is called St Stephen 's Day ?	1
+68	Boxing Day - December 26th - is the feastday of Saint Stephen, and is called St Stephen's Day.	Boxing Day - December 26th - is which day of Saint Stephen , and is called St Stephen's Day   ?	0
+
+83	Vinegar or bicarbonate of soda are the most environmentally friendly.	What is friendly most environmentally ?	0
+83	Vinegar or bicarbonate of soda are the most environmentally friendly.	Vinegar or Bicarbonate of what is most environmentally friendl ?	1
+83	Vinegar or bicarbonate of soda are the most environmentally friendly.	Vinegar or bicarbonate of what are the most environmentally friendly ?	0
+
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	who was one of the most widely known puppeteers in American history   ?	1
 52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was the creator of the muppets ?	1
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	WHO was one of the most widely known puppeteers in American history and was the creator of The Muppets    ?	5
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was one of the most widely known puppeteers in American history and was the creator of The Muppets ?	3
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	who was one of the most widely known puppeteers in American history   ?	2
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what place was Maury Jim James Henson one of the known Puppeteersseses ?	6
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what history was Maury Jim James Henson one of the known Puppeteersses ?	9
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who is Maury Jim James Henson ?	4
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	How many of the known Puppeteersses in American history was Maury Jim James Henson ?	7
-52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Maury James Jim Henson was one how many the most widely known Puppeteersseses in American history and was the creator of the muppets ?	8
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who is Maury Jim James Henson ?	1
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was one of the most widely known puppeteers in American history and was the creator of The Muppets ?	1
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	WHO was one of the most widely known puppeteers in American history and was the creator of The Muppets    ?	1
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what place was Maury Jim James Henson one of the known Puppeteersseses ?	0
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	In what history was Maury Jim James Henson one of the known Puppeteersses ?	0
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	How many of the known Puppeteersses in American history was Maury Jim James Henson ?	0
+52	James Maury "Jim" Henson (September 24, 1936  May 16, 1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Maury James Jim Henson was one how many the most widely known Puppeteersseses in American history and was the creator of the muppets ?	0
 
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which people get sick and/or die because of smoking related diseases ?	4
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which diseases do sick and/or die because of smoking ?	7
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why does a lot of productive people get sick ?	8
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why do A lot of very productive people get sick and/or die ?	3
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of what get sick and die because of smoking related diseases ?	2
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why a lot of very productive people get sick and/or die  ?	6
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why does a lot of productive people get sick ?	0
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which diseases do sick and/or die because of smoking ?	0
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Which people get sick and/or die because of smoking related diseases ?	1
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of what get sick and die because of smoking related diseases ?	1
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why do A lot of very productive people get sick and/or die ?	1
 86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of what get sick ?	1
-86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of very productive people get sick and die because of which diseases   ?	5
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	Why a lot of very productive people get sick and/or die  ?	1
+86	A lot of very productive people get sick and/or die because of smoking related diseases.	A lot of very productive people get sick and die because of which diseases   ?	1
 
-85	As with everything, the right kind of person can be influenced by almost anything.	What can influenced the right kind of person  ?	4
-85	As with everything, the right kind of person can be influenced by almost anything.	By what can the right kind of person be influenced as with everything ?	3
-85	As with everything, the right kind of person can be influenced by almost anything.	What the right kind can be influenced ?	6
+53	Over 80% of the city was destroyed by the earthquake and fire.	What destroyed Over 80% of the city  ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	By what was over 80 Percent of the city destroyed ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	What percentage  % of the city was destroyed by the earthquake and fire  ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	How many percent of the city was destroyed by the earthquake and fire ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	Over how much percent of the city was destroyed by the earthquake and fire ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	Over how many percent of the city was destroyed by the earthquake and fire ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	Over 80 Percent of what place was destroyed by the earthquake and fire ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	How many percent was destroyed by the earthquake and fire ?	1
+53	Over 80% of the city was destroyed by the earthquake and fire.	How many percent was destroyed ?	1
+
+84	If as you say your dog will eat anything train it to eat the snails.	What eat the snails  ?	1
+84	If as you say your dog will eat anything train it to eat the snails.	What will your dog eat ?	1
+84	If as you say your dog will eat anything train it to eat the snails.	What will eat anything ?	1
+84	If as you say your dog will eat anything train it to eat the snails.	What say your dog will eat anything train it to eat the snails  ?	0
+
+85	As with everything, the right kind of person can be influenced by almost anything.	What can influenced the right kind of person  ?	0
+85	As with everything, the right kind of person can be influenced by almost anything.	By what can the right kind of person be influenced as with everything ?	1
 85	As with everything, the right kind of person can be influenced by almost anything.	What can be influenced by almost anything ?	1
-85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, what can be influenced by almost anything ?	5
-85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, the right kind of person can be influenced by what ?	2
+85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, what can be influenced by almost anything ?	0
+85	As with everything, the right kind of person can be influenced by almost anything.	What the right kind can be influenced ?	0
+85	As with everything, the right kind of person can be influenced by almost anything.	As with everything, the right kind of person can be influenced by what ?	1
+
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who was Softbank BB's Pres ?	0
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What did Masayoshi Son announce ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would take a 50 per cent pay cut for the next six months  ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who would take a 50 per cent pay cut for the next six months ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Was Softbank BB's president Masayoshi Son ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What he will do for the next six months ?	0
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What announced that he and other senior executives would take a 50 per cent pay cut for the next six months  ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	who announced  , that he and other senior executives would take a 50 per cent pay cut for the next six months    ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What would Softbank BB's Pres announced, he, and other senior executives take furthermore ?	0
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore, Softbank BB 's president, who, announced that he and other senior executives would take a 50 per cent pay cut for the next six months ?	0
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent pay cut for the next six months  ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	For how many months would he and other senior executives take a 50 per cent pay cut ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut for the next six months ?	0
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	He would take a how many percent pay cut ?	0
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Which cut would he and other senior executives take for the next six months ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many  per cent he and other senior executives would take  ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	How many cut would he and other senior executives take for the next six months ?	1
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What other  senior  executives will do ?	0
+25	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Furthermore , Softbank BB's president , Masayoshi Son , announced that he and other senior executives would take a 50 per cent pay cut for which month   ?	1
+
+26	One of the earliest popular applications of the Web was an online auction system called eBay.	What was one of the earliest popular applications of the Web ?	1
+26	One of the earliest popular applications of the Web was an online auction system called eBay.	Was One of the earliest popular applications of the Web an online auction system called eBay  ?	1
+26	One of the earliest popular applications of the Web was an online auction system called eBay.	One of the earliest popular applications of the Web was an online auction system called eBay ?	1
+26	One of the earliest popular applications of the Web was an online auction system called eBay.	Was the Web an online auction system called eBay  ?	0
+26	One of the earliest popular applications of the Web was an online auction system called eBay.	One of the popular earliest applications of what was an online auction system called eBay ?	1
+26	One of the earliest popular applications of the Web was an online auction system called eBay.	One of the earliest popular applications of what was an online auction system called eBay ?	0
+
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What use The number system  ?	0
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What we use ?	0
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	We use what ?	0
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What is sometimes called the denary representation or the decimal representation of numbers ?	1
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What use in everyday life is sometimes called the denary representation or the decimal representation of numbers ?	0
+27	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What is called the denary representation, or sometimes the decimal representation, of numbers ?	1
+
+20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	Where is some of Britain 's most dramatic scenery to be found ?	1
+20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	where is Some of Britain's most dramatic scenery to be found   ?	1
+20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	Where is some of Britain most dramatic scenery be to be found ?	1
+20	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	Some of where's most dramatic scenery is to be found in the Scottish highlands ?	0
+
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Are Germany, Canada, the United States of America, Switzerland and India federal states  ?	1
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Is the UK, Spain, Italy states, while Germany, are federal states ?	0
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	The UK, Spain, Italy states, while Germany, are federal states ?	0
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Are the UK , Spain , Italy and France unitary states  ?	1
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Does Germany , Canada , state ?	0
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Among many others, the UK, Spain, Italy and France are which states, while Germany, Canada, the United States of America, Switzerland and India are federal states ?	0
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Among many others , the UK , Spain , Italy and France are which states , while Germany , Canada , the United States of America , Switzerland and India are federal states   ?	0
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Germany , Canada , is the United Stateses of which place is federal ?	0
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Among many others, the UK, Spain , Italy and France are unitary states, while the United States of America, which country and India are federal states ?	0
+21	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Among many others , the UK , Spain , Italy and France are unitary states , while Germany , Canada , the United States of America , Switzerland and India are which states   ?	0
+
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Who is Ian Callum ?	1
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	who studied at the Glasgow School of Art   ?	1
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Where is Dumfries ?	1
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	where studied Designer Ian Callum , originally from Dumfries in Scotland    ?	1
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	What Ian originally studied at the Glasgow School t Ian originally studied at the Glasgow School of Art and at the Royal College of Art in London ?	0
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Where did designer Ian Callum, originally from Dumfries in Scotland, study and at the Royal College of Art in London ?	0
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	WHO originally from Dumfries in Scotland , studied at the Glasgow School of Art and at the Royal College of Art in London    ?	1
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Who, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London ?	1
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Designer Ian Callum, originally from Dumfries Where, studied at the Glasgow School of Art and at the Royal College of Art in London ?	0
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Designer Ian Callum from where in Scotland originally studied at the Glasgow School of Art and at the Royal College of Art in London ?	1
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Designer from Dumfries in Scotland who studied at the Glasgow School of Art and at the Royal College of Art in London originally ?	0
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Designer Ian Callum from Dumfries in what place originally studied at the Glasgow School of Art and at the Royal College of Art in London ?	0
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Designer Ian Callum from Dumfries in which place originally studied at the Glasgow School of Art and at the Royal College of Art in Londo ?	0
+22	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Designer Ian Callum , originally from Dumfries in Scotland , studied at which School of Art and at the Royal College of Art in London  ?	1
+
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	when is it agreed that   ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What was in the 1760s ?	1
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	When was the Enlightenment at the height of its influence ?	1
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What was of its influence in the 1760s and early 1770s ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What is agreed the Enlightenment was at the height of its influence in the 1760s and early 1770sses ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What is agreed the enlightenment was at the height of its influence in the 1760sses and early 1770sses ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What of its influence was the Enlightenment at in the 1760s and early 1770s ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	When the Enlightenment was ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	It is agreed that the Enlightenment was at the height of its influence when and early 1770s ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early when ?	0
+23	 It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	The Enlightenment was when ?	1
+
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	What place did soldiers die with during the First World War ?	0
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	How many  casualties with the Somerset Light Infantry suffering  ?	0
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	What place did many Somerset soldiers die during the First World War with suffering nearly 5,000 casualties ?	0
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	which soldiers died during the First World War , with the Somerset Light Infantry suffering nearly 5,000 casualties   ?	0
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Suffering nearly how many casualties many Somerset soldiers died with the Somerset Light Infantry during the First World War ?	0
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Nearly how many casualties was the Somerset Light Infantry suffering ?	1
+46	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Many Somerset soldiers died during which War , with the Somerset Light Infantry suffering nearly 5,000 casualties   ?	0
+
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What does the Tigris unite ?	1
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What unites with the Euphrates near Basra ?	1
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What does the Tigris unites with ?	1
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What is known as the Shatt-Alaska Arab ?	1
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	Which unites with the Euphrates near Basra ?	1
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What The Tigris unites with the Euphrates near ?	0
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	Which Euphrates does the Tigris unites with ?	1
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	The Tigris unites near Basra , and from this junction to the Persian Gulf with the Euphrateses. what place is the mass of moving water known as ?	0
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	The Tigris unites with the Euphrateses near Basra, and from this junction to the Persian Gulf. what place is the mass of moving water known as ?	0
+47	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	The Tigris unites with the Euphrates near Basra , and from this junction to which Gulf the mass of moving water is known as the Shatt-al-Arab   ?	0
+
+44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	What increases as the voltage reverse bias increases ?	1
+44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	Does the strength of Electric Field increase as the reverse bias voltage increases ?	1
+44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	Are The strength of the depletion zone electric field increases as the reverse-bias voltage increases  ?	0
+44	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	The strength of what increases as the voltage reverse bias increases ?	0
+
+28	It is also possible to buy circular protractors that measure angles from 0 to 360.	What is possible to buy also ?	1
+28	It is also possible to buy circular protractors that measure angles from 0 to 360.	Also to buy what is possible from 0 to 360 ?	0
+28	It is also possible to buy circular protractors that measure angles from 0 to 360.	What is also possible to buy circular protractors that measure angles to 360 ?	0
+28	It is also possible to buy circular protractors that measure angles from 0 to 360.	It is also possible to buy what that measure angles from 0 to 360 ?	0
+28	It is also possible to buy circular protractors that measure angles from 0 to 360.	It is also possible to buy circular protractors that measure what ?	0
+28	It is also possible to buy circular protractors that measure angles from 0 to 360.	Is also possible to buy circular protractors that measure angles what ?	0
+
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Who is Vincent ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	when purchased Capitol Wrestling Corporation from his father    ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When did the son of Vincent J. McMahon, Vincent Kennedy McMahon, found Titan Sports , Inc. ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	who founded  , Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father    ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of Vincent J McMahon, who, founded Titan Sports, Inc ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	when the son of Vincent J. McMahon , Vincent Kennedy McMahon , founded Titan Sports , Inc.  ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When the son of J Vincent Vincent Kennedy McMahon McMahon founded Titan Sports , Inc. and purchased Capitol wrestling Corporation from his father in 1982 ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Which ORGANISATION did the son of Vincent J McMahon, Vincent Kennedy McMahon, found ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of who founded Titan Sports Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	When the son purchased Capitol Wrestling Corporation ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of who founded Titan Sports, Inc ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son of which person founded Titan Sports , Inc. and purchased Capitol wrestling Corporation in 1980 from his father in 1982 ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 , the son of which McMahon , Vincent Kennedy McMahon , founded Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father   ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 , the son of Vincent J McMahon , which McMahon , founded Titan Sports , Inc and in 1982 purchased Capitol Wrestling Corporation from his father   ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Which company the son purchased ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	In 1980 the son of Vincent J Vincent McMahon Kennedy McMahon, founded Titan Sports , Inc., and purchased Capitol wrestling Corporation from his father when ?	0
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son purchased which company ?	1
+29	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	The son purchased Capitol Wrestling Corporation when ?	0
+
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	What percentage  % of Borneo's land mass comprises about  ?	0
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	where located The sovereign state of Brunei    ?	0
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	Where is Borneo ?	1
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	How many percent of Borneo 's land mass does the sovereign state of Brunei comprise ?	1
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	About how many of Borneo's is Land Mass ?	0
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent of Borneo s land mass ?	1
+41	The sovereign state of Brunei, located on the north coast, comprises about 1% of Borneo's land mass.	The sovereign state comprises about how many percent ?	0
+
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many gunners who died should there be a fitting public memorial to ?	1
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	The how many gunners who died was the idea that prevailed there should be a public memorial fitting to ?	0
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	To the how many gunners who died was the idea that prevailed there should be a public fitting memorial ?	0
+1	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	How many  gunners there should be a fitting public memorial to  ?	1
+
+82	I won't be voting in the May local elections because in our constituency there are no elections.	when I won't be voting   ?	1
+82	I won't be voting in the May local elections because in our constituency there are no elections.	When there are no elections ?	0
+82	I won't be voting in the May local elections because in our constituency there are no elections.	when because in our constituency there are   ?	0
+82	I won't be voting in the May local elections because in our constituency there are no elections.	There are no elections when ?	0
+82	I won't be voting in the May local elections because in our constituency there are no elections.	No elections do when there ?	0
+
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What ensure a healthy and efficiently functioning brain  oxygen and water  ?	0
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	What are particularly important to ensure a healthy and efficiently functioning brain ?	1
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	2 sources of what is important particularly to ensure a healthy and efficiently functioning brain ?	1
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How to ensure a healthy and efficiently functioning brain many sources of fuel are particularly importan ?	1
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How much sources of fuel are particularly important to ensure a healthy and efficiently functioning brain, oxygen, and water ?	1
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many  sources of fuel are particularly important to ensure a healthy and efficiently functioning brain -- oxygen and water  ?	0
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	How many sources of fuel are particularly important to ensure a healthy and efficiently functioning brain ?	1
+3	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain - oxygen and water.	To ensure a healthy and efficiently functioning brain 2 sources of what are particularly important ?	1
+
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What can respond to the green imperative  ?	1
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At what there are 3 ways in which businesses can respond to the green imperative ?	0
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	What businesses do to the green imperative ?	0
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	How many  ways in which businesses can respond to the green imperative  ?	0
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. in what are 3 ways businesses can respond to the green imperative ?	0
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	businesses can respond to what ?	0
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are what in which businesses can respond to the green imperative ?	0
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, there are how many ways in which businesses can respond to the green imperative ?	1
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic level, how many ways in which businesses can respond to the green imperative are there ?	1
+2	At some very basic level, there are three ways in which businesses can respond to the green imperative.	At some very basic, level. how many ways in which businesses can respond to the green imperative are there ?	1
+
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	where managed another six sites   ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	Where did the trust manage another 6 sites ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	When did the trust manage another 6 sites ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	When did the trust employ over 7,000 staff and manage another six sites in Leeds and the surrounding area ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	Where did the trust employ over 7,000 staff and manage another six sites ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	Where did the trust managed another six sites in ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	When the trust employed over 7,000 staffs and managed another 6 sites in Leeds and the surrounding area ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	when the surrounding area  ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	How many  sites in Leeds and the surrounding area  ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	when the trust employed over 7,000 staff and managed another six sites   ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	where in 1996 , the trust employed over 7,000 staff   ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	Another how many sites in Leeds and the surrounding area did the trust manage ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	How many staffs did the trust employ ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	In 1996, the trust employed how many staff and managed another six sites in Leeds and the surrounding area ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	How many  staff the trust employed over  ?	0
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	In 1996, the trust employed 7,000 staff and managed how many sites in Leeds and the surrounding area ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	In 1996 the trust employed over 7,000 staffs and managed another 6 sites where ?	1
+4	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	the trust managed another six sites in where ?	0
+
+7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	What has the advantage that it enables us to decide immediately which of 2 is the greater ?	0
+7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why has the decimal representation of rational numbers the advantage  ?	1
+7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why the decimal representation is the greater. of two  distinct  positive  rationals ?	0
+7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why has The decimal representation of rational numbers the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater ?	1
+7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why does the decimal representation of Rational Numbers have the advantage if it enables us to decide immediately which of 2 positive distinct Rationalsses is the greater ?	1
+7	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Why the decimal representation is the greater ?	0
+
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What do the codes of practice apply to ?	1
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What apply to a range of social care professionals ?	1
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	A range of what do the codes of practice apply to ?	1
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Are The codes of practice apply to a range of social care professionals (including, for example, residential care workers) specific to social work  ?	0
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Do the codes apply to a range of social care professionals ?	1
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	The codes do apply to a range of social care professionals, and are non specific to Social Work ?	1
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Are the codes are not specific to social work ?	0
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Are the codes are not specific ?	0
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What the codes are not ?	0
+6	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	The codes are not what ?	0
+
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	What are now classified as obese ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	As what are 10 % of six year olds and 17 % of fifteen year olds now classified ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	What has the number of obese children doubled ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	What has doubled since 1982, 10%  are now classified as obese ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	When are 10 % of six year olds and 17 % of fifteen year olds classified as obese ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	What percentage  % of six year olds and 17 % of fifteen year olds are now classified as obese  ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	When has the number of obese children doubled ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	When, 10% are now classified as obese ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	when 10% of six year olds and 17% of fifteen year olds   ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	10 % of how many year olds and 17 % of fifteen year olds are now classified as obese ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	10% of 6 Year olds, when has the number of obese children doubled ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	How many are now classified as obese ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	1982, how many  are now classified as obese ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	Since how many of 6 Year olds has the number of obese children doubled ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	10 % of six year olds and how many percent of fifteen year olds are now classified as obese ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	10% of 6 Year olds, since what time has the number of obese children doubled ?	1
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	How many  The number of obese children has doubled since 1982 ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	when the number of obese children has doubled   ?	0
+9	The number of obese children has doubled since 1982, 10% of six year olds and 17% of fifteen year olds are now classified as obese.	The number has doubled since when ?	0
+
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	What did you see ?	1
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Why did you see earlier ?	1
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	What are less formal ?	1
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	What tend to be commoner than in writing in speech as they are less formal as you saw earlier ?	0
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Why tend phrasal verbs  to be more common in speech than in  writing as  they are less formal  ?	0
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	As you saw earlier, what tend to be more common in speech than in writing as they are less formal ?	1
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Why as you saw earlier Phrasal Verbsses tend to be commoner than in writing in speech as they are less forma ?	0
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Why do phrasal verbs tend to be more common in speech than in writing ?	1
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Why they are less formal ?	0
+8	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Why verbs are less formal ?	0
+
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir on Earth ?	0
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is glacier ice ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir on Earth ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice the largest reservoir of fresh water on Earth  ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is second only to oceans as the largest reservoir of total water ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water on Earth second only to oceans as the largest reservoir of total water  ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice is the largest reservoir of fresh water ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is glacier ice the most large reservoir of Fresh Water on Earth , ?	1
+51	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is ice second only to oceans as the most large reservoir of total water ?	1
+
+89	One of the best sites for computer parts is Ebuyer.	What is Ebuyer ?	1
+89	One of the best sites for computer parts is Ebuyer.	What is one of the best sites for computer parts ?	1
+89	One of the best sites for computer parts is Ebuyer.	One of which sites is Ebuyer ?	0
+89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which is Ebuyer ?	0
+89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which place is, Ebuyer ?	0
+89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which parts is Ebuyer  ?	1
+89	One of the best sites for computer parts is Ebuyer.	One of the best sites for which place is Ebuyer ?	0
+
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women cover ?	1
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do women tend to cover ?	1
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover shorter urban journeys ?	1
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why do women cover shorter urban journeys ?	1
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Why tend accidents  to be relatively minor  ?	0
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What cover shorter urban journeys  ?	0
+77	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to cover urban shorter journeys and therefore their driving is slower and accidents tend to be relatively minor ?	0
+
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What put investigations of deaths of federal officials  ?	0
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What passed a law that put investigations of deaths of federal officials within FBI jurisdiction  ?	1
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What is Congress passed ?	1
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	Why passed Congress  a law  that  put  investigations of  deaths of federal officials within FBI jurisdiction  ?	0
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	Why did Congress pass a law that put investigations of deaths of federal officials within FBI jurisdiction ?	1
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What goverment the federal level, put investigations within FBI jurisdiction ?	0
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What goverment the federal level, Congress put investigations within jurisdiction ?	0
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What handled homicides at the federal level ?	1
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	Why there would never be any more confusion within FBI jurisdiction ?	0
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	To ensure that there would never be any more confusion over who would handle homicides at the federal level, what passed a law that put investigations of deaths of federal officials within FBI jurisdiction ?	1
+38	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	Why there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction ?	0
+
+72	For the sake of historical accracy, let me state that it is useful to talk of slavery everywhere, rather than black slavery in the United States.	Why for the sake of historical accracy let me state it is useful to talk of slavery everywhere rather than black slavery in the United States ?	0
+72	For the sake of historical accracy, let me state that it is useful to talk of slavery everywhere, rather than black slavery in the United States.	Why for the sake of historical accracy. to talk of slavery everywhere rather than black slavery in the United States let me state it is useful ?	0
+72	For the sake of historical accracy, let me state that it is useful to talk of slavery everywhere, rather than black slavery in the United States.	Why rather than  black slavery in the United States  ?	0
+
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Who is Dean Thomas ?	1
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Was information on Dean Thomas left in the US version  ?	1
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	who was  left in the US version , but not the British    ?	1
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What was left in the US version but not the British ?	1
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	In Philosopher's and Sorcerers stone, information about Dean Thomasses was left in the US version but not the British ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	In Philosopher's and Sorcerers stone, information on Dean Thomas was left in the US version but not the British ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Was the British information on Dean Thomas was left in the US version  ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Unidentified in what, information on Dean Thomas was left in the US version, but not the British ?	1
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Is Stone, information was left ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What country Stone, information was left ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What nationality Stone, information was left ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Is Stone, information was left in the US version, but not the British ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	In Philosopher's and Sorcerers stone, information on who was left in the US version but not the British ?	0
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Unidentified In Philosopher 's /Sorcerers Stone, what was left in the US version, but not the British ?	1
+71	In Philosopher's/Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Left in the US version but not the British was in what place information on Dean Thomas ?	0
+
+70	A UFO is an Unidentified Flying Object, and therefore by definition... Unidentified	What is a UFO ?	1
+70	A UFO is an Unidentified Flying Object, and therefore by definition... Unidentified	What is a Unidentified Flying Object ?	0
+70	A UFO is an Unidentified Flying Object, and therefore by definition... Unidentified	What is an Unidentified Flying Object ?	1
+
+59	Librations have allowed us to see about 60% of the surface.	What allowed us to see about 60% of the surface  ?	1
+59	Librations have allowed us to see about 60% of the surface.	What see about 60% of the surface  ?	0
+59	Librations have allowed us to see about 60% of the surface.	What has allowed us to see about 60 Percent of the surface ?	1
+59	Librations have allowed us to see about 60% of the surface.	What have allowed us to see about 60% of the surface ?	1
+59	Librations have allowed us to see about 60% of the surface.	What have allowed us to see about 60 % of the surface ?	1
+59	Librations have allowed us to see about 60% of the surface.	What have Librationsseses allowed us to see ?	0
+59	Librations have allowed us to see about 60% of the surface.	What percentage  % of the surface Librations have allowed us to see  ?	0
+59	Librations have allowed us to see about 60% of the surface.	About how many percent of the surface do we see ?	1
+59	Librations have allowed us to see about 60% of the surface.	How many percent of the surface have librations allowed us to see ?	1
+59	Librations have allowed us to see about 60% of the surface.	About how many percent of the surface have Librationsseses allowed us to see ?	0
+59	Librations have allowed us to see about 60% of the surface.	Librations have allowed us to see about what percent of the surface ?	1
+59	Librations have allowed us to see about 60% of the surface.	Librations have allowed us to see about how many percent of the surface ?	1
+59	Librations have allowed us to see about 60% of the surface.	Librations have allowed us to see about how many percent ?	1
+
+79	Yes, PS2 plays regular DVD-Video disc.	What does PS2 plays ?	1
+79	Yes, PS2 plays regular DVD-Video disc.	What plays regular DVD-Video disc ?	1
+79	Yes, PS2 plays regular DVD-Video disc.	What plays regular DVD-Video disc  ?	1
+79	Yes, PS2 plays regular DVD-Video disc.	What is regular DVD-Video ?	1
+79	Yes, PS2 plays regular DVD-Video disc.	Yes, PS2 plays, regular DVD-Video, disc ?	0
+79	Yes, PS2 plays regular DVD-Video disc.	Does PS2 play regular DVD-Video disc  ?	1
+
+58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What takes 6 dominoes  ?	1
+58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What places them  ?	1
+58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What does each player take ?	1
+58	Each player takes 6 dominoes and places them so that the other players can't see their value.	What does each player take so that the other players can not see their value ?	1
+58	Each player takes 6 dominoes and places them so that the other players can't see their value.	How much does each player take dominoes  ?	0
+58	Each player takes 6 dominoes and places them so that the other players can't see their value.	How many  dominoes Each player takes and places them so  ?	0
+58	Each player takes 6 dominoes and places them so that the other players can't see their value.	How many dominoes does each player take ?	1
+
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Who is Thorstein Veblen ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Who analysed cultural influences on consumption ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	What analysed cultural influences on consumption  ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	What did a American institutional economist analyze ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	What did an institutional American economist analyze ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Who was an institutional American economist ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Where did a American institutional economist analyze cultural influences early on consumption ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	When did Thorstein Veblen, an American institutional economist, analyse cultural influences on consumption ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	who analyzed  , an American institutional economist , cultural influences on consumption    ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	When did an institutional American economist analyze cultural influences early on consumption ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Where did an institutional American economist analyze cultural influences early on consumption ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	when analyzed cultural influences on consumption    ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	where the twentieth century , Thorstein Veblen , an American institutional economist , analyzed   ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Early in the twentieth century, who analysed cultural influences on consumption ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Who from an  American  institutional  economist, analysed ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	From where an institutional economist, analysed cultural influences on consumption ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Early in the twentieth century, what did Thorstein Veblen analyse ?	1
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	What an  American  institutional  economist, analysed ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	Early when Thorstein Veblen, a American institutional economist, analyzed cultural influences on consumption ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	An institutional economist, from where analysed cultural influences on consumption ?	0
+10	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analysed cultural influences on consumption.	An  American  institutional  economist, analysed what ?	1
+
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	Who is Nash ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What began work on the designs  ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What began work on the designs ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	Who began work on the designs in 1815 ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	who began work on the designs in 1815   ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What completed in 1823 ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What did Nash begin ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What did Nash begin in 1815 ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	When did nash begin work on the designs ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	When did Nash begin work on the designs ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What was completed in 1823, ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	who began work on the designs in 1815 , and the Pavilion was completed in 1823    ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	When was the Pavilion completed ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	When was the pavilion completed ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	when Nash began work on the designs   ?	1
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	Pavilion was completed in 1823 ?	0
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	when and the Pavilion was completed   ?	0
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	When the Pavilion was completed ?	0
+13	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	The Pavilion was completed when ?	1
+
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Why do they collaborate ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who is Alexander Graham Bell ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who took a great interest in recording sounds, even suggesting to Edison that they might collaborate ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Why might even suggesting to Edison that  they collaborate  ?	0
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What suggesting that they might collaborate  ?	0
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who took a great interest in recording sounds ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What took a great interest in recording sounds  ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What did Alexander Graham Bell take a great interest in ?	0
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	who had risen to prominence through his invention of the telephone , took a great interest in recording sounds , even suggesting to Edison that they might collaborate    ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	who had risen to prominence through his invention of the telephone   ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Why did Alexander Graham Bell, who had risen to prominence through his invention of the telephone, take a great interest in recording sounds, even suggesting to Edison that they might collaborate ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Alexander Graham Bell took what, even suggesting to Edison that they might collaborate ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to who that they might collaborate ?	1
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Why Alexander Graham Bell took a great interest in cording sounds ?	0
+12	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	A great interest in what did Alexander Graham Bell take ?	0
+
+15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Why do they intervene ?	1
+15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Why should they intervene  to move the child on  ?	1
+15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Why can Repetitive play also be a dilemma ?	1
+15	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	>Why repetitive play can also be a dilemma adults are uncertain about when or if indeed they should intervene in to move the child on ?	0
+
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Who is Rashid ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	What has the greatest tendency to vary ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	who points out that in markets where entry barriers are low   ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	What does Rashid point out that in markets where entry barriers do Low Quality has to vary ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Who points out that in markets where entry barriers are low, quality ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Who points out that in markets where entry barriers do Low Quality has the greatest tendency to vary ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	WHO points out that in markets where entry barriers are low , quality has the greatest tendency to vary    ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	What points that in markets where entry barriers are low quality has the greatest tendency to vary  ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Who points out that in markets where entry barriers are low, quality has the greatest tendency to vary ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	In markets where entry barriers are low, what does quality has ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Which points out that in markets where entry barriers are low, quality has the greatest tendency to vary ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	What quality has the greatest tendency to ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	In which market, quality has the greatest tendency to vary ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Rashid points out that in what place where entry barriers do Low Quality has the greatest tendency to vary ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Points out that in markets where entry barriers are low, quality by Who ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Rashid 1998 points out that in markets where entry barriers are low , quality has which tendency to vary   ?	1
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Rashid 1998 points out that in markets where entry barriers are which , quality has the greatest tendency to vary   ?	0
+14	Rashid (1998) points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Out that in what place does Rashid point ?	0
+
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When did the passing of the First World War soon see the establishment of the BBCs formed ?	1
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which body of many national radio broadcasting organisations did the passing of the First World War soon saw ?	0
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When was the BBC formed ?	1
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when the passing of the First World War   ?	0
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	when saw the establishment of many national radio broadcasting organizations , the BBC being formed   ?	0
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The establishment of which place did the passing of the First World War soon see ?	0
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which War soon saw the establishment of many national radio broadcasting organizations  ?	1
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of which place soon saw the establishment of national many radio broadcasting organizations, the BBC formed in 1922 ?	0
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	Which organisation being formed in 1922 ?	1
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the passing saw the establishment being formed ?	0
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing of the First World War soon saw the establishment of which organizations  ?	1
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	When the BBC being formed ?	1
+17	The passing of the First World War soon saw the establishment of many national radio broadcasting organisations, the BBC being formed in 1922.	The passing saw the establishment being formed when ?	1
+
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	What were used by Proto - humans at least 2.5 million years ag ?	1
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	When were stone tools used by proto-humans ago ?	0
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	when stone tools were used   ?	1
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	When Stone tools were used ?	0
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	Stone tools were used by Proto - humans at least how many million years ago ?	1
+55	Stone tools were used by proto-humans at least 2.5 million years ago.	Stone tools were used when ?	0
+
+19	Air contains several different gases but about twenty per cent of it is oxygen.	What does air contains ?	1
+19	Air contains several different gases but about twenty per cent of it is oxygen.	What contains several different gases  ?	1
+19	Air contains several different gases but about twenty per cent of it is oxygen.	What contains several different gases but is about 20 per ct of it oxygen ?	0
+19	Air contains several different gases but about twenty per cent of it is oxygen.	How many  per cent of it is oxygen  ?	1
+19	Air contains several different gases but about twenty per cent of it is oxygen.	How many  per cent Air contains several different gases it is oxygen ?	0
+19	Air contains several different gases but about twenty per cent of it is oxygen.	Which UNKNOWN contains several different gases ?	0
+19	Air contains several different gases but about twenty per cent of it is oxygen.	Air contains different several gases but how much of it is oxygen about per ct ?	0
+19	Air contains several different gases but about twenty per cent of it is oxygen.	Air contains several different gases but about 20 per ct of what is oxygen ?	0
+19	Air contains several different gases but about twenty per cent of it is oxygen.	Air contains different several gases but about how much of it per ct is oxygen ?	0
+
+18	There are seven wooden pieces, which can be assembled to form a solid cube.	What form a solid cube  ?	0
+18	There are seven wooden pieces, which can be assembled to form a solid cube.	What is assembled ?	1
+18	There are seven wooden pieces, which can be assembled to form a solid cube.	What are 7 wooden pieces who can be assembled to form a solid cube ?	0
+18	There are seven wooden pieces, which can be assembled to form a solid cube.	How many wooden pieces who can be assembled are there to form a solid cube ?	0
+18	There are seven wooden pieces, which can be assembled to form a solid cube.	How many  wooden pieces There are  ?	0
+18	There are seven wooden pieces, which can be assembled to form a solid cube.	How many pieces, which can be assembled to form a solid cube are there ?	1
+18	There are seven wooden pieces, which can be assembled to form a solid cube.	How many pieces are assembled ?	1
+
+57	There are four 10's in each standard deck of 52 cards.	How many cards There are four 10's in each standard deck  ?	0
+57	There are four 10's in each standard deck of 52 cards.	How many  10 's in each standard deck of 52 cards  ?	1
+57	There are four 10's in each standard deck of 52 cards.	Of how many cards are there four 10 ' s in each standard deck ?	0
+57	There are four 10's in each standard deck of 52 cards.	There is four how many  in each standard deck of 52 cards ?	0
+57	There are four 10's in each standard deck of 52 cards.	Four how many  in each standard deck of 52 cards is there ?	0
+
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG at Test Stand ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why launch The rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where was the first CCTV system installed by Siemens AG at Test Stand VII in 1942, for observing the launch of V-2 rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Stand Test VII in Peenemnde Germany in 1942 for observing the launch ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When was the first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany, for observing the launch of V-2 rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was The first CCTV system installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942 ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why was the first CCTV system installed by  Siemens AG at  Test Stand VII in  Peenem nde ,  Germany in 1942  ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	By what was the first CCTV system installed at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where 1942 , for observing the launch of V-2 rockets    ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What installed The first CCTV system  ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where in 1942 the CCTV first system installed by Siemens AG at Test Stand vii in Peenemnde was for observing the launch of V-2 rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	For observing the launch where was the CCTV first system installed by Siemens AG at Test, Stand vii in Peenemnde, Germany in 1942 ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the CCTV first system was installed by Siemens AG in 1942 for observing the launch of V-2 rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	where the first CCTV system was installed by Siemens AG at Test Stand VII   ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when the first CCTV system was installed by Siemens AG at Test Stand VII   ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system observing the launch of V-2 rockets ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	when Peenemnde  ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in what place Germany in 1942 for observing the launch of V-2 rockets ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The CCTV first system installed by Siemens AG at Test Stand VII in Peenemnde was Germany when for observing the launch of V-2 rockets ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing what launches ?	1
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Why the first CCTV system was installed ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	Where the first CCTV system was installed ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	When the first CCTV system was installed ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first CCTV system was installed when ?	0
+30	The first CCTV system was installed by Siemens AG at Test Stand VII in Peenemnde, Germany in 1942, for observing the launch of V-2 rockets.	The first  CCTV  system was installed where ?	0
+
+37	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	Is the DNA different to distinguish one individual from another  ?	0
+37	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another ?	1
+37	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	What percentage  % of human DNA sequences are the same in every person  ?	1
+37	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	Although how many % of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another ?	0
+37	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	How many  individual from another enough of the DNA is different to distinguish  ?	0
+37	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	Are human DNA sequences the same in every person  ?	1
+37	Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	How many percent of human DNA sequences are the same in every person ?	1
+
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	Who is Henrietta Lacks ?	1
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	When did a Lacks die ?	1
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	What taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951 was the line derived from ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	When was line taken ?	1
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	When was the line derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer ?	1
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	who was The line derived from cervical cancer cells taken from a patient  ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	What disease The line was derived ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	when died of her cancer   ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	when the line was derived from cervical cancer cells taken from a patient named Henrietta Lacks  ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	Cells were taken her cancer on October 4 , 1951 from a patient who named who died of eventually ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	Who The line was derived ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	Cells were taken from a patient named what died of her cancer on October 4 , 1951 eventuall ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	Cells were taken from a patient named Henrietta Lacksses who died of what eventually ?	1
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	When The line was derived ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	Cells were taken from a patient named Henrietta Lacksses who died when eventually ?	1
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	The line was derived what disease ?	0
+36	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4, 1951.	The line was derived Who ?	0
+
+35	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	which products can be broadly grouped into foods , fibers , fuels , and raw materials   ?	1
+35	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	Which products can be broadly grouped into foods, fibers, fuels, and raw materials ?	1
+35	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	The major agricultural products can be broadly grouped into foods , fibers , fuels , and which materials   ?	1
+35	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	The Major agricultural products can be grouped into what place fibers, fuels, and Raw Materialsses broadly ?	0
+35	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	The agricultural major products can be grouped into what place fibers, fuels, and Raw Materialsses broadly ?	0
+
+34	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	Why there are no written Recordsseses by definition ?	1
+34	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	By what are there no written Recordsseses ?	0
+34	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	Why is dating of prehistoric materials particularly crucial to the enterprise ?	1
+34	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	To what is dating of prehistoric materials particularly crucial ?	0
+34	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	Why dating of prehistoric materials is particularly crucial to the enterprise  ?	1
+34	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	Because there are no written records from human prehistory, dating of what is particularly crucial to the enterprise ?	1
+34	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	Because by definition, there are no written Recordsseses from what place dating prehistoric materials is crucial to the enterprise particularly ?	0
+
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who is Jordan ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	who selected The motto of Stanford University    ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What selected The motto  ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What is Die Luft der Freiheit ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University, selected by President is Jwhoordan die Luft der Freiheit ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which saying of Stanford University, selected by President Jordan, is " Die Luft der Freiheit weht " ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of Stanford University, selected by who, is " Die Luft der Freiheit weht " ?	0
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what, selected by President Jordan, is " Die Luft der Freiheit weht " ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of what is Die Luft der Freiheit ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which University , selected by President Jordan , is " Die Luft der Freiheit weht "  ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	What country The motto selected ?	0
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Who The motto selected ?	0
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of which place selected by President is Die Luft der Freiheit ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	Which country The motto selected ?	0
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto of University selected by which person, is Die Luft der Freiheit?By what place Jordan is university selected ?	1
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected by which President Jordan ?	0
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected what country ?	0
+33	The motto of Stanford University, selected by President Jordan, is "Die Luft der Freiheit weht."	The motto selected Who ?	0
+
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	Who is Larry Ellison ?	1
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	Who own The  Rising  Sun ?	0
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	What owned the Rising Sun  ?	0
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	What is up for sale ?	1
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	What is the Rising Sun owned by Larry Ellison up for ?	1
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	What owned by Larry Ellison is up for sale ?	1
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	who owned The `` Rising Sun ''   ?	1
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	What company is up for sale ?	1
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	The Rising Sun owned by who is up for sale ?	0
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	The " Rising Sun " owned by whom is up for sale ?	1
+74	The "Rising Sun" owned by Larry Ellison is up for sale.	The  Rising  Sun owned by whom ?	0
+
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Who is Daniel ?	1
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Where was he trained in the service ?	1
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	who according to the Biblical book of Daniel    ?	0
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Who was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz ?	1
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Who was carried off in the service of the court under the authority of Ashpenaz ?	1
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	where according to the Biblical book   ?	0
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Where was according to the Biblical book of Daniel, at a young age Daniel carried off ?	1
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to which book of Daniel , at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz  ?	0
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to which book, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz ?	1
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of who at a young age who was carried in the service of the court off to Babylon where he was trained under the authority of Ashpenaz ?	0
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the Biblical book of Daniel, at which age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz ?	1
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of Daniel to which place when he was trained in the service of the court under the authority of Ashpenaz at a young age Daniel was carried off ?	0
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	where Daniel , at a young age Daniel was carried off to   ?	0
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of Daniel at a young age, Daniel was carried off where under the authority of Ashpenaz where he was trained in the service of the court ?	0
+48	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	According to the biblical book of Daniel at a young age Daniel was carried off under the authority of Ashpenaz to which place when he was trained in the service of the court ?	0
+
+90	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	Did you piled your ton of bricks ?	0
+90	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	Did you pile your tonne ?	0
+90	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	Would the pile be smaller than the feathers  ?	1
+90	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	Is the pile would be smaller than the feathers ?	0
+
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is Egypt ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa , and is situated in the north eastern part of Africa ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where is part of the Continent of Africa, and is situated in the north eastern part of Africa ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is situated in the eastern part of Africa ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What country is situated in the north eastern part of Africa ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where the Continent   ?	0
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	where Egypt is   ?	0
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Where Egypt is situated ?	0
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt is part of the Continent of Africa, and is situated where ?	1
+65	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Egypt issituated inthe  north eastern part of what region ?	0
 
