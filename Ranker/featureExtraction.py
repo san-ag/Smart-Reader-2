@@ -30,8 +30,11 @@ with open('data/stopList.txt','r') as f:
     stopWords = f.read().split()
 
 
-
 class perplexityComputer(BaseEstimator, TransformerMixin):
+    
+    def __init__(self, lm1,lm2=None):
+        self.lm1 = lm1
+        self.lm2 = lm2
     
     def fit(self, X, y=None, **fit_params):
         return self
@@ -41,42 +44,45 @@ class perplexityComputer(BaseEstimator, TransformerMixin):
         perpValue = perpValue[1].strip().split(',')[0]
         return float(perpValue)
 
-    def transform(self, X, **transform_params):
+    def transform(self, X):
 
-        perps3gram = []
-        perps4gram = []
-        child_3gram = pexpect.spawn(evallm_path+" -binary "+lm_3gram_path)
-        child_4gram = pexpect.spawn(evallm_path+" -binary "+lm_4gram_path)
-        child_3gram.expect ('evallm :')
-        child_4gram.expect ('evallm :')
+        perps_lm1 = []
+        perps_lm2 = []
+        child_lm1 = pexpect.spawn(evallm_path+" -binary "+self.lm1)
+        child_lm2 = pexpect.spawn(evallm_path+" -binary "+self.lm2)
+        child_lm1.expect ('evallm :')
+        child_lm2.expect ('evallm :')
         
         for question in X:
             
-            #preprocess question
+            #print question
             question = ' '.join(question.split()[0:-1]).upper()
             question = '<s> '+question+' <\s>'
-            print question
             
             fpi = open("perp_input.txt","w")
             fpi.write(question)
             fpi.close()
             
-            child_3gram.sendline("perplexity -text perp_input.txt")
-            child_3gram.expect('evallm :')
-            check = child_3gram.before
+            child_lm1.sendline("perplexity -text perp_input.txt")
+            child_lm1.expect('evallm :')
+            check = child_lm1.before
             perpValue = self.get_perpValue(check)
-            perps3gram.append(perpValue)
+            perps_lm1.append(perpValue)
             
-            child_4gram.sendline("perplexity -text perp_input.txt")
-            child_4gram.expect('evallm :')
-            check = child_4gram.before
+            child_lm2.sendline("perplexity -text perp_input.txt")
+            child_lm2.expect('evallm :')
+            check = child_lm2.before
             perpValue = self.get_perpValue(check)
-            perps4gram.append(perpValue)
+            perps_lm2.append(perpValue)
         #close the programs
-        child_3gram.sendline('quit')
-        child_4gram.sendline('quit')
-        a1 = np.array(perps3gram)
-        a2 = np.array(perps4gram)
+        child_lm1.sendline('quit')
+        child_lm2.sendline('quit')
+        a1 = np.array(perps_lm1)
+        a2 = np.array(perps_lm2)
+        
+        #a1 = np.log2(a1)
+        #a2 = np.log2(a2)
+        
         afinal = np.column_stack((a1,a2))
         
         print afinal
@@ -91,10 +97,10 @@ def tag_POS(document):
     pos_tags = ''
     
     for item in tagged:
-        if item[0] == ('?'):
-            continue
-        else:
-            pos_tags+=item[1]+' '
+        #if item[0] == ('?'):
+        #    continue
+        #else:
+        pos_tags+=item[1]+' '
     
     pos_tagged  = pos_tags.rstrip()
     
@@ -218,9 +224,7 @@ class TextPOSExtractor(BaseEstimator, TransformerMixin):
         
         for i, (context,question) in enumerate(context_question_list):
             
-            print context
-            print question
-    
+
             features['question'][i] = question
 
             features['question_pos'][i] = tag_POS(question)
@@ -229,7 +233,6 @@ class TextPOSExtractor(BaseEstimator, TransformerMixin):
 
             features['context_pos'][i] = tag_POS(context)
             
-        print features
             
         return features
 
@@ -249,7 +252,6 @@ class questionFeatures(BaseEstimator, TransformerMixin):
                    'stopCount':countStopWords(q),'NECount':countNamedEntities(q)}
             feature_dicts.append(f_d)
             
-        print feature_dicts
         
         return feature_dicts
 
@@ -267,7 +269,6 @@ class contextFeatures(BaseEstimator, TransformerMixin):
             f_d = {'c_len':1.0/len(c.split()),'NECount':countNamedEntities(c)}
             feature_dicts.append(f_d)
         
-        print feature_dicts
         
         return feature_dicts
     
@@ -300,11 +301,25 @@ class overlapFeature(BaseEstimator, TransformerMixin):
 
 def constructPipeline():
     
+    #lm_3gram_path = "language_models/LM-train-100MW-3gram.binlm"
+    #lm_4gram_path = "language_models/LM-train-100MW-4gram.binlm"
     
-    pos_vectorizer = TfidfVectorizer(ngram_range=(1,2),tokenizer=lambda article:article.split(),
-                                min_df=1,lowercase=False,max_features = 30)
+    lm_3gram_path = "language_models/BROWN-2gram.binlm"
+    lm_4gram_path = "language_models/BROWN-3gram.binlm"
     
-    normalizer = preprocessing.Normalizer(norm = 'l2')
+    #lm_3gram_path = "language_models/BROWN_TREC-3-gram.binlm"
+    #lm_4gram_path = "language_models/BROWN_TREC-4-gram.binlm"
+    
+    lm_2gram_pos_path = 'language_models/BROWN_TREC_POS-3gram.binlm'
+    lm_3gram_pos_path = "language_models/BROWN_TREC_POS-4gram.binlm"
+    
+
+    
+    
+    pos_vectorizer = CountVectorizer(ngram_range=(2,3),tokenizer=lambda article:article.split(),
+                                min_df=1,lowercase=False,max_features = 50,dtype = np.float64)
+    
+    normalizer = preprocessing.Normalizer(norm = 'l1')
     
     pipeline = Pipeline([
                         ('textPOS',TextPOSExtractor()),
@@ -316,11 +331,11 @@ def constructPipeline():
                                                             ('normalize',normalizer),
                                                             ])),
                                                         
-                                             ('n_gram_pos_context', Pipeline([
-                                                           ('selector', ItemSelector(key='context_pos')),
-                                                            ('tf',pos_vectorizer),
-                                                            ('normalize',normalizer),
-                                                            ])),
+                                             #('n_gram_pos_context', Pipeline([
+                                             #              ('selector', ItemSelector(key='context_pos')),
+                                             #               ('tf',pos_vectorizer),
+                                             #               ('normalize',normalizer),
+                                             #               ])),
                     
                                             ('question_based',Pipeline([
                                                             ('selector', ItemSelector(key='question')),
@@ -328,26 +343,37 @@ def constructPipeline():
                                                             ('vect', DictVectorizer()),
                                                             ('normalize',normalizer),
                                                             ])), 
-                                            ('context_based',Pipeline([
-                                                            ('selector', ItemSelector(key='context')),
-                                                            ('count-based',contextFeatures()),
-                                                            ('vect', DictVectorizer()),
-                                                            ('normalize',normalizer),
-                                                            ])), 
+                                            #('context_based',Pipeline([
+                                            #                ('selector', ItemSelector(key='context')),
+                                            #                ('count-based',contextFeatures()),
+                                            #                ('vect', DictVectorizer()),
+                                            #                ('normalize',normalizer),
+                                            #                ])), 
                                             ('perplexity',Pipeline([
                                                             ('selector', ItemSelector(key='question')),
-                                                            ('per',perplexityComputer()),
+                                                            ('per',perplexityComputer(lm_3gram_path,lm_4gram_path)),
                                                             ('normalize',normalizer)
                                                             ])),
+                                            #('perplexity',Pipeline([
+                                            #                ('selector', ItemSelector(key='question_pos')),
+                                            #                ('per',perplexityComputer(lm_2gram_pos_path,lm_3gram_pos_path)),
+                                            #                ('normalize',normalizer)
+                                            #               ])),
                                             ('overlap',Pipeline([
                                                             ('ovr',overlapFeature()),
                                                             ('normalize',normalizer)
                                                             ])),
-                                                        ]
-                                                 )),
+                                                        ],
+                                    transformer_weights={
+                                        'n_gram_pos_question': 1,
+                                        'perplexity': 1,
+                                        'question_based':0.8,
+                                        'overlap':0.5
+                                    },             
+                                )),
                         ])
 
-    return pipeline
+    return pipeline,pos_vectorizer
 
 def generate_context_parseTrees(context_question_list):
     
@@ -371,12 +397,7 @@ def extractFeatures(context_question_list):
     #generate_context_parseTrees(context_question_list)
     
     global evallm_path
-    global lm_3gram_path
-    global lm_4gram_path
-    
     evallm_path = '/Users/sanchitagarwal/Desktop/Directed-Study-II/QuestionRanker/Ranker/CMU-Cam_Toolkit_v2/bin/evallm'
-    lm_3gram_path = "language_models/LM-train-100MW-3gram.binlm"
-    lm_4gram_path = "language_models/LM-train-100MW-4gram.binlm"
 
     data = []
     
@@ -386,11 +407,15 @@ def extractFeatures(context_question_list):
         data.append(tuple([context,question]))
 
 
-    pipeline = constructPipeline()
+    pipeline,pv = constructPipeline()
+    
+    
     
     print pipeline
     #print pipeline.get_feature_names()
     featureMatrix = pipeline.fit_transform(data)
     print featureMatrix.shape
+    
+    #print pv.get_feature_names()
 
     return featureMatrix

@@ -131,7 +131,7 @@ def prepare_tagged_corpus():
         tagged = [x[1] for x in sent]
         #V.update(tagged)
         sentence = ' '.join(tagged)
-        sentence = '<s> '+sentence+'</s>'
+        sentence = '<s> '+sentence+' </s>'
         sentence = re.sub('\.+','',sentence)
         sentence = re.sub(' +',' ',sentence)
         tagged_list.append(sentence)
@@ -142,6 +142,39 @@ def prepare_tagged_corpus():
             f.write(item+'\n')
         
     #print V
+    
+def prepare_tagged_corpus_1():
+    
+    tagged_list = []
+    
+    with open('data/brown.txt','r') as f:
+        data = f.read().splitlines()
+        
+    print data[0:2]
+        
+    for line in data:
+        pos_tags = ''
+        tagged = nltk.tag.pos_tag(line.split())
+        #print tagged
+    
+        for item in tagged:
+            if item[0] == ('<s>' or '</s>'):
+                pos_tags+=item[0]+' '
+            #elif item[1].startswith('NN'):
+            #    pos_tags+='NN '
+            #elif item[1].startswith('VB'):
+            #    pos_tags+='VB '
+            else:
+                pos_tags+=item[1]+' '
+        
+        pos_tags  = pos_tags.rstrip()
+        
+        tagged_list.append(pos_tags)
+            
+    with open('data/brown_pos_detailed.txt','w') as f:
+        for item in tagged_list:
+            f.write(item)
+            f.write('\n')
 
 #cleans and saves the brown corpus on disk       
 def prepare_corpus():
@@ -180,12 +213,12 @@ def process_TREC_questions(fle):
             question = '<s> '+question+'<\s>'
             
             
-            tagged = nltk.tag.pos_tag(question.split(),tagset='universal')
+            tagged = nltk.tag.pos_tag(question.split())
             tagged = [x[1] for x in tagged]
             tagged = ' '.join(tagged)
             tagged = '<s> '+tagged+' <\s>'
             
-            #q_list.append(question)
+            q_list.append(question)
             q_list_pos_tags.append(tagged)
     
     
@@ -194,7 +227,7 @@ def process_TREC_questions(fle):
             f.write(q+'\n')
     
                     
-    with open('data/Q_TREC_pos.txt','w')as f:
+    with open('data/Q_TREC_pos_detailed.txt','w')as f:
         for line in q_list_pos_tags:
             f.write(line+'\n')
 
@@ -300,6 +333,60 @@ def binarize(gs,gs_binary):
             f.write(line)
         
     print count
+    
+def process_annotated_questions(original,rated1,rated2):
+    
+    context_question_dict = defaultdict(list)
+    
+    question_rating1_dict = {}
+    question_rating2_dict = {}
+    question_rating_mean_dict = {}
+    
+    final = []
+    
+    with open(original,'r') as f:
+        for line in f:
+            line = line.rstrip()
+            parts = line.split('\t')
+            q = parts[0]
+            c = parts[1]
+            context_question_dict[c].append(q)
+        
+    with open(rated1,'r') as f:
+        for line in f:
+            line = line.rstrip()
+            #print line
+            parts = line.split(' ',1)
+            q = parts[1]
+            rating = float(parts[0])
+            question_rating1_dict[q] = rating
+            
+    with open(rated2,'r') as f:
+        for line in f:
+            line = line.rstrip()
+            parts = line.split(' ',1)
+            q = parts[1]
+            rating = float(parts[0])
+            question_rating2_dict[q] = rating
+    
+    #average rating
+    ques = question_rating1_dict.keys()
+    for q in ques:
+        question_rating_mean_dict[q] = (question_rating1_dict[q]+question_rating2_dict[q])/2
+    
+            
+    contexts = context_question_dict.keys()
+    
+    for idx,c in enumerate(contexts):
+        ques = context_question_dict[c]
+        for q in ques:
+            rating = question_rating_mean_dict[q]
+            line = str(idx+1)+'\t'+c+'\t'+q+'\t'+str(rating)+'\n'
+            final.append(line)
+            
+    with open('data/test_new.txt','w') as f:
+        for line in final:
+            f.write(line)
         
 if __name__ == "__main__":
     
@@ -318,14 +405,21 @@ if __name__ == "__main__":
     test = 'data/test.txt'
     #test = 'data/test_sample.txt'
     
+    original = 'data/QGSTEC2010-TaskB-MH-QG-500outputs.txt'
+    rated_yu = 'data/questions_YU.txt'
+    rated_sh = 'data/questions_SH.txt'
+    
     #prepareHeilmanQuestions(qFile,test_heilman_file)
     #prepare_corpus()
     #prepare_tagged_corpus()
     #process_TREC_questions(trec)
+    #prepare_tagged_corpus_1()
+    
+    process_annotated_questions(original,rated_yu,rated_sh)
 
     #extract_data(input_file,gold_standard)
     #clean_gs(gold_standard,gold_standard_cleaned)
-    binarize(gold_standard_cleaned,gold_standard_binary)
+    #binarize(gold_standard_cleaned,gold_standard_binary)
     
     #partition_data(gold_standard_cleaned,train,test,0.03,'ranking')
     #partition_data(gold_standard_binary,train,test,0.80,'binary_labels')

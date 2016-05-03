@@ -7,10 +7,10 @@ def main(arguments):
         print("usage: rank.py training_data test_data outputFile")
         
     training_data_file = arguments[0]
-    test_data_file = arguments[1] 
+    test_data_file = arguments[0] 
     output_file = arguments[2]
     
-    md.trainRanker(training_data_file)
+    #md.trainRanker(training_data_file)
     md.testRanker(test_data_file)
     md.rank(test_data_file,output_file)
     ev.evaluate(output_file)

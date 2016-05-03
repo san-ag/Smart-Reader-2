@@ -1,0 +1,500 @@
+1	People use this site to learn English.	What do people use to learn English?	1.0
+1	People use this site to learn English.	Do people use this site to learn English?	1.0
+1	People use this site to learn English.	What use this site to learn English?	2.5
+1	People use this site to learn English.	What do people use this site to learn?	1.0
+2	A lot of very productive people get sick and\/or die because of smoking related diseases.	Do a lot of very productive people die because of smoking related diseases?	1.0
+2	A lot of very productive people get sick and\/or die because of smoking related diseases.	Do a lot of very productive people get sick?	1.0
+2	A lot of very productive people get sick and\/or die because of smoking related diseases.	What do a lot of very productive people die because of?	2.5
+2	A lot of very productive people get sick and\/or die because of smoking related diseases.	What die because of smoking related diseases?	2.5
+2	A lot of very productive people get sick and\/or die because of smoking related diseases.	What get sick?	3.5
+3	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	When did the trust employed over 7,000 staff and manage another six sites in Leeds and the surrounding area?	3.0
+3	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	What managed another six sites in Leeds and the surrounding area in 1996?	3.0
+3	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	How many sites in Leeds and the surrounding area did the trust employed over 7,000 staff and manage in 1996?	3.5
+3	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	What did the trust employed over 7,000 staff and manage in 1996?	4.0
+3	In 1996, the trust employed over 7,000 staff and managed another six sites in Leeds and the surrounding area.	Did the trust employed over 7,000 staff and manage another six sites in Leeds and the surrounding area in 1996?	3.0
+4	One of the best sites for computer parts is Ebuyer.	Is one of the best sites for computer parts Ebuyer?	1.0
+4	One of the best sites for computer parts is Ebuyer.	What is one of the best sites for computer parts?	1.0
+4	One of the best sites for computer parts is Ebuyer.	What is Ebuyer?	1.0
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	What gives us an easy way to find north by looking at the stars?	1.0
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Where is the reason Polaris is important to us that it is very close?	4.0
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Is the reason Polaris is important to us that it is very close to the north celestial pole?	1.0
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	What is that it is very close to the north celestial pole?	3.5
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Where is the reason Polaris is important to us?	3.0
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	Does it give us an easy way to find north by looking at the stars?	1.0
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	What is the reason Polaris is important to us that it is very close to?	3.5
+5	The reason Polaris is important to us is that it is very close to the north celestial pole, so it gives us an easy way to find north by looking at the stars.	What is the reason Polaris is important to us to?	3.0
+6	lol means laugh out loud.	Does lol mean laugh out loud?	1.0
+6	lol means laugh out loud.	What means laugh out loud?	3.0
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Can repetitive play also be a dilemma?	1.0
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Who should intervene to move the child on?	1.0
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Should adults intervene to move the child on?	1.0
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	What can also be a dilemma?	1.0
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	What can repetitive play also be?	1.0
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Who should adults intervene to move on?	3.5
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Should they intervene to move the child on?	1.0
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	Who should they intervene to move on?	3.5
+7	Repetitive play can also be a dilemma, in that adults are uncertain about when, or indeed whether, they should intervene to move the child on.	What should intervene to move the child on?	2.0
+8	Rashid points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Who points out that in markets where entry barriers are low, quality has the greatest tendency to vary?	1.5
+8	Rashid points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	Does Rashid point out that in markets where entry barriers are low, quality has the greatest tendency to vary?	1.5
+8	Rashid points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	What does Rashid point out that in markets where entry barriers are low, quality has?	3.5
+8	Rashid points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	What does Rashid point out that in, quality has the greatest tendency to vary?	3.5
+8	Rashid points out that in markets where entry barriers are low, quality has the greatest tendency to vary.	What does Rashid point out in?	3.0
+9	I will not be voting in the May local elections because in our constituency there are no elections.	Will Daniel not be voting in the May local elections because in computers's constituency there are no elections?	1.5
+9	I will not be voting in the May local elections because in our constituency there are no elections.	Who will not be voting in the May local elections because in computers's constituency there are no elections?	1.5
+9	I will not be voting in the May local elections because in our constituency there are no elections.	What will Daniel not be voting in?	1.0
+9	I will not be voting in the May local elections because in our constituency there are no elections.	Will I not be voting in the May local elections because in our constituency there are no elections?	1.5
+9	I will not be voting in the May local elections because in our constituency there are no elections.	Who will not be voting in the May local elections because in our constituency there are no elections?	1.5
+9	I will not be voting in the May local elections because in our constituency there are no elections.	What will I not be voting in?	1.0
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What is an Unidentified Flying Object?	1.0
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What was left in the US version, but not the British by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone?	2.5
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Is a UFO an Unidentified Flying Object?	1.0
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Whose \/ Sorcerers Stone was information on Dean Thomas left in the US version, but not the British by definition. . . Unidentified In?	4.0
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	Was information on Dean Thomas left in the US version, but not the British by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone?	2.5
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What was information on Dean Thomas left in by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone?	2.5
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What is a UFO?	1.0
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What was information on Dean Thomas left in the US version, but not the British by In Philosopher's \/ Sorcerers Stone?	4.0
+10	A UFO is an Unidentified Flying Object, and therefore by definition. . . Unidentified In Philosopher's \/ Sorcerers Stone, information on Dean Thomas was left in the US version, but not the British.	What was information on Dean Thomas left in the US version, but not the British by definition. . . Unidentified In?	3.5
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	Who died of Erin's cancer on October 4,1951?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	What was derived from cervical cancer cells taken from a patient named Henrietta Lacks?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	When did Henrietta Lacks die of Erin's cancer?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	What did Henrietta Lacks die of on October 4,1951?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	Whose cancer did Henrietta Lacks die of on October 4,1951?	3.5
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	Was the line derived from cervical cancer cells taken from a patient named Henrietta Lacks?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	Did Henrietta Lacks die of Erin's cancer on October 4,1951?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	What was the line derived from?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	When did Henrietta Lacks die of her cancer?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	Did Henrietta Lacks die of her cancer on October 4,1951?	1.0
+11	The line was derived from cervical cancer cells taken from a patient named Henrietta Lacks, who eventually died of her cancer on October 4,1951.	Who died of her cancer on October 4,1951?	1.0
+12	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Are the UK, Spain, Italy and France unitary states?	1.0
+12	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	What are Germany, Canada, the United States of America, Switzerland and India?	1.0
+12	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	Are Germany, Canada, the United States of America, Switzerland and India federal states?	1.0
+12	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	What are the UK, Spain, Italy and France?	1.0
+12	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	What are unitary states?	1.0
+12	Among many others, the UK, Spain, Italy and France are unitary states, while Germany, Canada, the United States of America, Switzerland and India are federal states.	What are federal states?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	How many dominoes does each player place so that the other players cannot see their value?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	How many dominoes does each player take?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Does each player place 6 dominoes so that the other players cannot see their value?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Does each player take 6 dominoes?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Who takes 6 dominoes?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Who places 6 dominoes so that the other players cannot see their value?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Who does each player take?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Who does each player place so that the other players cannot see their value?	2.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Does each player place them so that the other players cannot see their value?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	Who places them so that the other players cannot see their value?	1.0
+13	Each player takes 6 dominoes and places them so that the other players cannot see their value.	What does each player place so that the other players cannot see their value?	1.0
+14	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	What was published in 1844 by Sir Robert Kane?	1.0
+14	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Who was the first plan to harness the Shannon's power between Lough Derg and Limerick published in 1844 by?	3.0
+14	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	When was the first plan to harness the Shannon's power between Lough Derg and Limerick published by Sir Robert Kane?	1.5
+14	The first plan to harness the Shannon's power between Lough Derg and Limerick was published in 1844 by Sir Robert Kane.	Was the first plan to harness the Shannon's power between Lough Derg and Limerick published in 1844 by Sir Robert Kane?	1.0
+15	One of the earliest popular applications of the Web was an online auction system called eBay.	What was an online auction system called eBay?	2.0
+15	One of the earliest popular applications of the Web was an online auction system called eBay.	Was one of the earliest popular applications of the Web an online auction system called eBay?	1.0
+15	One of the earliest popular applications of the Web was an online auction system called eBay.	What was one of the earliest popular applications of the Web?	1.0
+16	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	If Daniel piled James Maury ``Jim'' Henson's ton of bricks onto a weighing scale would the pile be smaller than the feathers?	1.0
+16	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	If Daniel piled James Maury ``Jim'' Henson's ton of bricks onto a weighing scale what would be smaller than the feathers?	1.0
+16	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	If Daniel piled James Maury ``Jim'' Henson's ton of bricks onto a weighing scale what would the pile be smaller than?	1.5
+16	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	If you piled your ton of bricks onto a weighing scale what would be smaller than the feathers?	1.0
+16	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	If you piled your ton of bricks onto a weighing scale would the pile be smaller than the feathers?	1.0
+16	Therefore, if you piled your ton of bricks onto a weighing scale, the pile would be smaller than the feathers.	If you piled your ton of bricks onto a weighing scale what would the pile be smaller than?	1.0
+17	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain- ``oxygen and water.	How many sources of fuel are particularly important to ensure a healthy and efficiently functioning brain- oxygen and water?	2.0
+17	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain- ``oxygen and water.	Are two sources of fuel particularly important to ensure a healthy and efficiently functioning brain- oxygen and water?	2.0
+17	Two sources of fuel are particularly important to ensure a healthy and efficiently functioning brain- ``oxygen and water.	What are particularly important to ensure a healthy and efficiently functioning brain- oxygen and water?	2.5
+18	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What is London agreed that the Enlightenment was at?	4.0
+18	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	Is London agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s?	3.0
+18	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What is London agreed at?	3.0
+18	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s?	4.0
+18	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What is it agreed that the Enlightenment was at?	4.0
+18	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	Is it agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s?	1.0
+18	It is agreed that the Enlightenment was at the height of its influence in the 1760s and early 1770s.	What is it agreed at?	3.0
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	Do adults decide how to achieve our goals?	1.5
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	What seek to explain why adults do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals?	3.0
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	Do motivation theories seek to explain why adults do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals?	2.5
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	What do adults decide?	1.0
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	Who decide how to achieve our goals?	3.0
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	What seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals?	3.0
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	Do we decide how to achieve our goals?	1.0
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	Do motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals?	2.5
+19	Motivation theories seek to explain why we do the things we do either by examining how a behavior satisfies our a needsa or the processes we go through as we decide how to achieve our goals.	What do we decide?	1.0
+20	Another 20,000 will only bring troop levels back to where they were in 2005.	Will another 20,000 only bring troop levels back to where they were in 2005?	1.0
+20	Another 20,000 will only bring troop levels back to where they were in 2005.	What will only bring troop levels back to where they were in 2005?	1.0
+20	Another 20,000 will only bring troop levels back to where they were in 2005.	What will another 20,000 only bring back to where they were in 2005?	3.5
+21	It is also possible to buy circular protractors that measure angles from 0A to 360A.	What is also possible to buy circular protractors that measure angles from 0A to 360A?	3.5
+21	It is also possible to buy circular protractors that measure angles from 0A to 360A.	Is it also possible to buy circular protractors that measure angles from 0A to 360A?	1.0
+21	It is also possible to buy circular protractors that measure angles from 0A to 360A.	Is one of the earliest popular applications of the Web also possible to buy circular protractors that measure angles from 0A to 360A?	1.0
+22	Vinegar or bicarbonate of soda are the most environmentally friendly.	Are vinegar or bicarbonate of soda the most environmentally friendly?	2.0
+22	Vinegar or bicarbonate of soda are the most environmentally friendly.	What are the most environmentally friendly?	1.0
+22	Vinegar or bicarbonate of soda are the most environmentally friendly.	What are vinegar or bicarbonate of soda?	4.0
+23	There are seven wooden pieces, which can be assembled to form a solid cube.	How many wooden pieces can be assembled to form a solid cube?	1.0
+23	There are seven wooden pieces, which can be assembled to form a solid cube.	Can seven wooden pieces be assembled to form a solid cube?	1.0
+23	There are seven wooden pieces, which can be assembled to form a solid cube.	What can be assembled to form a solid cube?	1.0
+24	Take it to the place you purchased it an let them recycle it.	Who purchased pS2 an let computers recycle it?	3.5
+24	Take it to the place you purchased it an let them recycle it.	Did Daniel purchase pS2 an let computers recycle it?	3.5
+24	Take it to the place you purchased it an let them recycle it.	What did Daniel purchase pS2 an let recycle it?	3.5
+24	Take it to the place you purchased it an let them recycle it.	What did Daniel purchase an let computers recycle it?	4.0
+24	Take it to the place you purchased it an let them recycle it.	What did Daniel purchase pS2 an let computers recycle?	3.5
+24	Take it to the place you purchased it an let them recycle it.	Did you purchase it an let them recycle it?	3.5
+24	Take it to the place you purchased it an let them recycle it.	Who purchased it an let them recycle it?	3.5
+24	Take it to the place you purchased it an let them recycle it.	Who did you purchase it an let recycle it?	3.5
+24	Take it to the place you purchased it an let them recycle it.	What did you purchase it an let them recycle?	4.0
+24	Take it to the place you purchased it an let them recycle it.	What did you purchase an let them recycle it?	4.0
+24	Take it to the place you purchased it an let them recycle it.	What did you purchase it an let recycle it?	4.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What had Alexander Graham Bell risen to prominence through?	2.5
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who had risen to prominence through Thorstein Veblen's invention of the telephone?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Whose invention of the telephone had Alexander Graham Bell risen to prominence through?	3.5
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who did Alexander Graham Bell suggest to that recording sounds might collaborate?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Did Alexander Graham Bell take a great interest in recording sounds?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who suggested to Edison that recording sounds might collaborate?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Did Alexander Graham Bell suggest to Edison that recording sounds might collaborate?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who took a great interest in recording sounds?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Had Alexander Graham Bell risen to prominence through Thorstein Veblen's invention of the telephone?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What had Alexander Graham Bell risen to through Thorstein Veblen's invention of the telephone?	2.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What did Alexander Graham Bell take?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What did Alexander Graham Bell suggest to Edison?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who did Alexander Graham Bell suggest to that they might collaborate?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Had Alexander Graham Bell risen to prominence through his invention of the telephone?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	What had Alexander Graham Bell risen to through his invention of the telephone?	2.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who suggested to Edison that they might collaborate?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Did Alexander Graham Bell suggest to Edison that they might collaborate?	1.0
+25	Alexander Graham Bell, who had risen to prominence through his invention of the telephone, took a great interest in recording sounds, even suggesting to Edison that they might collaborate.	Who had risen to prominence through his invention of the telephone?	1.0
+26	Although 99. 9 % of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	Who are 99. 9 % of human DNA sequences the same in?	2.0
+26	Although 99. 9 % of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	Are 99. 9 % of human DNA sequences the same in every person?	1.0
+26	Although 99. 9 % of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	What are 99. 9 % of human DNA sequences in every person?	1.0
+26	Although 99. 9 % of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	Is enough of the DNA different to distinguish one individual from another?	1.0
+26	Although 99. 9 % of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	What are the same in every person?	2.0
+26	Although 99. 9 % of human DNA sequences are the same in every person, enough of the DNA is different to distinguish one individual from another.	What is different to distinguish one individual from another?	1.0
+27	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Does the decimal representation of rational numbers have the advantage that it enables computers to decide immediately which of two distinct positive rationals is the greater?	1.0
+27	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	What has the advantage that it enables computers to decide immediately which of two distinct positive rationals is the greater?	1.0
+27	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	What does the decimal representation of rational numbers have?	1.0
+27	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	Does the decimal representation of rational numbers have the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater?	1.0
+27	The decimal representation of rational numbers has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater.	What has the advantage that it enables us to decide immediately which of two distinct positive rationals is the greater?	1.0
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	When did Nash begin work on the designs?	1.0
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	Who began work on the designs in 1815?	1.0
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What did Nash begin work on in 1815?	2.0
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	Did Nash begin work on the designs in 1815?	1.0
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What did Nash begin on the designs in 1815?	3.5
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	Was the Pavilion completed in 1823?	1.0
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	When was the Pavilion completed?	1.0
+28	Nash began work on the designs in 1815, and the Pavilion was completed in 1823.	What was completed in 1823?	1.0
+29	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	Is dating of prehistoric materials particularly crucial to the enterprise?	1.0
+29	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	What is dating of prehistoric materials particularly crucial to?	1.0
+29	Because, by definition, there are no written records from human prehistory, dating of prehistoric materials is particularly crucial to the enterprise.	What is particularly crucial to the enterprise?	1.0
+30	If BAC levels increase to around 200 mg\/100 ml then speech becomes slurred and coordination of movement is impaired.	If BAC levels increase to around 200 mg\/100 ml what becomes slurred?	1.0
+30	If BAC levels increase to around 200 mg\/100 ml then speech becomes slurred and coordination of movement is impaired.	If BAC levels increase to around 200 mg\/100 ml does speech become slurred?	1.0
+30	If BAC levels increase to around 200 mg\/100 ml then speech becomes slurred and coordination of movement is impaired.	Is coordination of movement impaired?	1.0
+30	If BAC levels increase to around 200 mg\/100 ml then speech becomes slurred and coordination of movement is impaired.	What is impaired?	1.0
+31	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	Was the view that prevailed that there should be a fitting public memorial to the 49,076 gunners who died?	1.5
+31	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	What was the view that prevailed that there should be to the 49,076 gunners who died?	3.0
+31	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	What was that there should be a fitting public memorial to the 49,076 gunners who died?	4.0
+31	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	Who was the view that prevailed that there should be a fitting public memorial to?	4.0
+31	The view that prevailed was that there should be a fitting public memorial to the 49,076 gunners who died.	Who was the view that prevailed to?	4.0
+32	The motto of Stanford University, selected by President Jordan, is ``Die Luft der Freiheit weht.''	What is ``Die Luft der Freiheit weht?''	1.0
+32	The motto of Stanford University, selected by President Jordan, is ``Die Luft der Freiheit weht.''	Is the motto of Stanford University ``Die Luft der Freiheit weht?''	1.0
+32	The motto of Stanford University, selected by President Jordan, is ``Die Luft der Freiheit weht.''	What is selected by President Jordan?	1.0
+32	The motto of Stanford University, selected by President Jordan, is ``Die Luft der Freiheit weht.''	Is the motto selected by President Jordan?	1.0
+32	The motto of Stanford University, selected by President Jordan, is ``Die Luft der Freiheit weht.''	Who is the motto selected by?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who announced that many others would take a 50 per cent pay cut for the next six months?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Did Softbank BB's president announce that many others would take a 50 per cent pay cut for the next six months?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What did Softbank BB's president announce?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who was Masayoshi Son?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What did Softbank BB's president announce that many others would take?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who was Softbank BB's president?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Was Softbank BB's president Masayoshi Son?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Did Softbank BB's president announce that he and other senior executives would take a 50 per cent pay cut for the next six months?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	Who announced that he and other senior executives would take a 50 per cent pay cut for the next six months?	1.0
+33	Furthermore, Softbank BB's president, Masayoshi Son, announced that he and other senior executives would take a 50 per cent pay cut for the next six months.	What did Softbank BB's president announce that he and other senior executives would take?	1.0
+34	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Did many Somerset soldiers die during the First World War?	1.0
+34	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	Who died during the First World War?	1.0
+34	Many Somerset soldiers died during the First World War, with the Somerset Light Infantry suffering nearly 5,000 casualties.	What did many Somerset soldiers die during?	3.0
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	Who is Boxing Day- December 26th- the feastday of?	3.0
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	When is the feastday of Saint Stephen?	1.0
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	Whose Day is Boxing Day- December 26th- called?	3.5
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	When is Boxing Day- December 26th- called?	3.5
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	When is called St Stephen's Day?	3.5
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	What is Boxing Day- December 26th-?	1.5
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	Is Boxing Day- December 26th- the feastday of Saint Stephen?	1.0
+35	Boxing Day- December 26th- is the feastday of Saint Stephen, and is called St Stephen's Day.	Is Boxing Day- December 26th- called St Stephen's Day?	1.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	What is about twenty per cent of Air?	2.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	Is about twenty per cent of Air oxygen?	2.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	Does Air contain several different gases?	1.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	What contains several different gases?	1.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	What does Air contain?	1.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	What is oxygen?	1.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	Is about twenty per cent of it oxygen?	1.0
+36	Air contains several different gases but about twenty per cent of it is oxygen.	What is about twenty per cent of it?	1.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Do phrasal verbs tend to be more common in speech than in writing as they are less formal?	1.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	What tend to be more common in speech than in writing as they are less formal?	3.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	What do phrasal verbs tend to be more common in than in writing as they are less formal?	1.5
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Are phrasal verbs less formal?	1.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	What are less formal?	2.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Did you see earlier?	1.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Are they less formal?	1.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Who are less formal?	1.0
+37	As you saw earlier, phrasal verbs tend to be more common in speech than in writing as they are less formal.	Who saw earlier?	1.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	Should Daniel not really pour warm or hot water on cold glass it 'll crack?	3.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should Daniel not really pour on cold glass it 'll crack?	3.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should Daniel not really pour warm or hot water on it 'll crack?	4.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	Who should not really pour warm or hot water on cold glass it 'll crack?	3.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should Daniel not really pour warm or hot water on cold glass 'll crack?	4.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	Should you not really pour warm or hot water on cold glass it 'll crack?	3.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should you not really pour warm or hot water on cold glass 'll crack?	3.5
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should you not really pour on cold glass it 'll crack?	3.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should you not really pour warm or hot water on it 'll crack?	3.5
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should Daniel not really pour warm or hot water on cold glass?	3.0
+38	You should not really pour warm or hot water on cold glass, cos it 'll crack.	What should you not really pour warm or hot water on cold glass?	3.0
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	Did an oak tree that stood outside Gosling's office go by the name Green?	1.0
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	What did an oak tree that stood outside Gosling's office go by?	1.0
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	Did an oak tree that stood outside Gosling's office end up later?	2.5
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	What renamed as Java?	3.0
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	Did the language rename as Java?	3.0
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	What did the language rename as?	3.0
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	What went by the name Green?	1.0
+39	The language, initially called Oak after an oak tree that stood outside Gosling's office, also went by the name Green and ended up later renamed as Java, from a list of random words.	What ended up later?	3.0
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What occurs when data written to a buffer addresses adjacent to the allocated buffer?	2.5
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Does a buffer overflow occur when data written to a buffer addresses adjacent to the allocated buffer?	2.5
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What is due to insufficient bounds checking values in memory?	1.0
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Is the buffer due to insufficient bounds checking values in memory?	1.0
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	Are insufficient bounds checking corrupts data?	3.5
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What are corrupts data?	3.0
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What are insufficient bounds checking?	1.0
+40	A buffer overflow occurs when data written to a buffer, due to insufficient bounds checking, corrupts data values in memory addresses adjacent to the allocated buffer.	What is the buffer?	1.0
+41	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	Is some of Britain's most dramatic scenery to be found in the Scottish Highlands?	2.0
+41	Some of Britain's most dramatic scenery is to be found in the Scottish Highlands.	What is to be found in the Scottish Highlands?	1.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did Locke grow up in a rural Tudor house in Belluton?	2.5
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Who grew up in a rural Tudor house in Belluton at Bristol?	1.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	What did Locke grow up in at Bristol?	4.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	What did Locke grow up in a rural Tudor house in Belluton at?	4.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Did Locke grow up in a rural Tudor house in Belluton at Bristol?	1.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Where did the family move soon after Locke's birth?	1.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Whose birth did the family move to the market town of Pensford, about seven miles south of Bristol soon after?	2.5
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	When did the family move to the market town of Pensford, about seven miles south of Bristol?	1.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	What moved to the market town of Pensford, about seven miles south of Bristol soon after Locke's birth?	2.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	What did the family move to soon after Locke's birth?	3.0
+42	Soon after Locke's birth, the family moved to the market town of Pensford, about seven miles south of Bristol, where Locke grew up in a rural Tudor house in Belluton.	Did the family move to the market town of Pensford, about seven miles south of Bristol soon after Locke's birth?	1.0
+43	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	Does the Tigris unite with the Euphrates near Basra?	1.0
+43	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What unites with the Euphrates near Basra?	1.0
+43	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What does the Tigris unite with?	1.0
+43	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	Is the mass of moving water known as the Shatt-al-Arab?	1.0
+43	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What is the mass of moving water known as?	1.0
+43	The Tigris unites with the Euphrates near Basra, and from this junction to the Persian Gulf the mass of moving water is known as the Shatt-al-Arab.	What is known as the Shatt-al-Arab?	1.0
+44	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is part of the Continent of Africa?	1.0
+44	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Is Egypt part of the Continent of Africa?	1.0
+44	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is situated in the north eastern part of Africa?	1.0
+44	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	Is Egypt situated in the north eastern part of Africa?	1.0
+44	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is Egypt part of?	1.0
+44	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is Egypt?	1.0
+44	Egypt is part of the Continent of Africa, and is situated in the north eastern part of Africa.	What is Egypt situated in?	1.0
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is the largest reservoir of fresh water on Earth?	1.0
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice the largest reservoir of fresh water on Earth?	1.0
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is Glacier ice the largest reservoir of?	2.0
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is Glacier ice second only to oceans as?	3.5
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is Glacier ice?	1.0
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is second only to oceans as the largest reservoir of total water?	1.0
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	Is Glacier ice second only to oceans as the largest reservoir of total water?	1.0
+45	Glacier ice is the largest reservoir of fresh water on Earth, and is second only to oceans as the largest reservoir of total water.	What is Glacier ice second only to as the largest reservoir of total water?	3.5
+46	Kate was put off by the word ' paradox ' and Erin did not know what ' marginal tax ' meant.	Was Kate put off by the word ' paradox '?	1.0
+46	Kate was put off by the word ' paradox ' and Erin did not know what ' marginal tax ' meant.	Did Erin not know what ' marginal tax ' meant?	2.0
+46	Kate was put off by the word ' paradox ' and Erin did not know what ' marginal tax ' meant.	Who was put off by the word ' paradox '?	1.0
+46	Kate was put off by the word ' paradox ' and Erin did not know what ' marginal tax ' meant.	What was Kate put off by?	1.0
+46	Kate was put off by the word ' paradox ' and Erin did not know what ' marginal tax ' meant.	Who did not know what ' marginal tax ' meant?	1.0
+46	Kate was put off by the word ' paradox ' and Erin did not know what ' marginal tax ' meant.	What did Erin not know?	1.0
+47	Yes, PS2 plays regular DVD-Video disc.	Does yes PS2 play regular DVD-Video disc?	2.0
+47	Yes, PS2 plays regular DVD-Video disc.	What yes plays regular DVD-Video disc?	2.0
+47	Yes, PS2 plays regular DVD-Video disc.	What does yes PS2 play?	1.0
+48	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	Was Friday long considered an unlucky day?	1.5
+48	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	When was Friday long considered?	3.5
+48	Friday was long considered an unlucky day, especially by sailors, so when 13 and Friday coincide it was thought to be a double dose of bad luck.	When was long considered an unlucky day?	2.5
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was James Maury ``Jim'' Henson the creator of?	2.5
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was the creator of The Muppets?	1.0
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Was James Maury ``Jim'' Henson the creator of The Muppets?	1.0
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Was James Maury ``Jim'' Henson one of the most widely known puppeteers in American history?	1.0
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was one of the most widely known puppeteers in American history?	1.0
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was James Maury ``Jim'' Henson one of?	2.5
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Who was James Maury ``Jim'' Henson?	1.0
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	Was the ``May'' 16 1990?	3.5
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	When was the ``May'' 16?	3.5
+49	James Maury ``Jim'' Henson (September 24,1936 a ``May 16,1990) was one of the most widely known puppeteers in American history and was the creator of The Muppets.	When was 1990?	2.0
+50	The first CCTV system was installed by Siemens AG at Test Stand VII in PeenemAnde, Germany in 1942, for observing the launch of V-2 rockets.	What was the first CCTV system installed by at Test Stand VII in PeenemAnde in 1942?	2.5
+50	The first CCTV system was installed by Siemens AG at Test Stand VII in PeenemAnde, Germany in 1942, for observing the launch of V-2 rockets.	What was installed by Siemens AG at Test Stand VII in PeenemAnde in 1942?	1.0
+50	The first CCTV system was installed by Siemens AG at Test Stand VII in PeenemAnde, Germany in 1942, for observing the launch of V-2 rockets.	What was the first CCTV system installed by Siemens AG at Stand VII in PeenemAnde in 1942?	2.5
+50	The first CCTV system was installed by Siemens AG at Test Stand VII in PeenemAnde, Germany in 1942, for observing the launch of V-2 rockets.	Was the first CCTV system installed by Siemens AG at Test Stand VII in PeenemAnde in 1942?	1.0
+50	The first CCTV system was installed by Siemens AG at Test Stand VII in PeenemAnde, Germany in 1942, for observing the launch of V-2 rockets.	Was PeenemAnde Germany?	2.0
+50	The first CCTV system was installed by Siemens AG at Test Stand VII in PeenemAnde, Germany in 1942, for observing the launch of V-2 rockets.	Who was Germany?	2.0
+50	The first CCTV system was installed by Siemens AG at Test Stand VII in PeenemAnde, Germany in 1942, for observing the launch of V-2 rockets.	What was PeenemAnde?	1.0
+51	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Who studied at the Glasgow School of Art and at the Royal College of Art in London?	1.0
+51	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Where did designer Ian Callum study at the Glasgow School of Art and at the Royal College of Art?	3.5
+51	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	What did designer Ian Callum study at the Glasgow School of Art and at the Royal College of Art in?	3.0
+51	Designer Ian Callum, originally from Dumfries in Scotland, studied at the Glasgow School of Art and at the Royal College of Art in London.	Did designer Ian Callum study at the Glasgow School of Art and at the Royal College of Art in London?	1.0
+52	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	What km from Athens?	3.5
+52	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	Do rescue teams located wreckage near the community of Grammatiko 40 km from Athens?	3.0
+52	Rescue teams located wreckage near the community of Grammatiko 40 km (25 miles) from Athens.	What do rescue teams located wreckage near the community of Grammatiko 40 km from?	4.0
+53	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Who was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz at a young age?	1.5
+53	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	Was Daniel carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz at a young age?	1.5
+53	According to the Biblical book of Daniel, at a young age Daniel was carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz.	What was Daniel carried off to Babylon where he was trained in the service of the court under the authority of Ashpenaz at?	3.5
+54	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	Can the major agricultural products be broadly grouped into foods, fibers, fuels, and raw materials?	1.0
+54	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	What can be broadly grouped into foods, fibers, fuels, and raw materials?	1.0
+54	The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials.	What can the major agricultural products be broadly grouped into?	1.0
+55	As with everything, the right kind of person can be influenced by almost anything.	Can the right kind of person be influenced by almost anything?	1.0
+55	As with everything, the right kind of person can be influenced by almost anything.	What can the right kind of person be influenced by?	1.0
+55	As with everything, the right kind of person can be influenced by almost anything.	What can be influenced by almost anything?	1.0
+56	Stone tools were used by proto-humans at least 2. 5 million years ago.	Were Stone tools used by proto-humans at least 2. 5 million years ago?	1.0
+56	Stone tools were used by proto-humans at least 2. 5 million years ago.	What were used by proto-humans at least 2. 5 million years ago?	3.0
+56	Stone tools were used by proto-humans at least 2. 5 million years ago.	What were Stone tools used by at least 2. 5 million years ago?	3.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	Does the giant tortoise live the longest in captivity?	1.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	What does the giant tortoise live in captivity?	3.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	What does the giant tortoise live the longest in?	2.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	What lives the longest in captivity?	1.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	How many years is the longest?	3.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	Is the longest about 177 years?	1.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	What is about 177 years?	1.0
+57	The giant tortoise lives the longest, about 177 years in captivity.	When is the longest?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Where do Daniel get the USA's permit when you are 15?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who get the USA's permit when you are 15 in the USA?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Do Daniel get the USA's permit when you are 15 in the USA?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	What do Daniel get the USA's permit when you are 15 in?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	What do Daniel get when you are 15 in the USA?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	What do Daniel mean you have to be with a licenced driver in?	4.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who mean you have to be with a licenced driver in the car over the age of 25?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Do Daniel mean you have to be with a licenced driver in the car over the age of 25?	3.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who do Daniel mean you have to be with in the car over the age of 25?	3.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Where do you get your permit when you are 15?	1.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Do you get your permit when you are 15 in the USA?	1.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	What do you get your permit when you are 15 in?	4.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who gets your permit when you are 15 in the USA?	2.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	What do you mean you have to be with a licenced driver in?	3.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who do Daniel mean have to be with a licenced driver in the car over the age of 25?	4.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who means you have to be with a licenced driver in the car over the age of 25?	2.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Do you mean you have to be with a licenced driver in the car over the age of 25?	1.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who do you mean have to be with a licenced driver in the car over the age of 25?	2.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	What do you get when you are 15 in the USA?	1.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who do Daniel mean with?	4.0
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who do you mean you have to be with in the car over the age of 25?	1.5
+58	In the USA, you get your permit when you are 15, meaning you have to be with a licenced driver in the car over the age of 25 I think.	Who do you mean with?	4.0
+59	The passing of the First World War soon saw the establishment of many national radio broadcasting organizations, the BBC being formed in 1922.	What did the passing of the First World War soon see the establishment of?	2.0
+59	The passing of the First World War soon saw the establishment of many national radio broadcasting organizations, the BBC being formed in 1922.	Did the passing of the First World War soon see the establishment of many national radio broadcasting organizations?	1.5
+59	The passing of the First World War soon saw the establishment of many national radio broadcasting organizations, the BBC being formed in 1922.	What did the passing of the First World War soon see?	2.5
+59	The passing of the First World War soon saw the establishment of many national radio broadcasting organizations, the BBC being formed in 1922.	What soon saw the establishment of many national radio broadcasting organizations?	3.5
+59	The passing of the First World War soon saw the establishment of many national radio broadcasting organizations, the BBC being formed in 1922.	What was the BBC being formed in 1922?	3.5
+59	The passing of the First World War soon saw the establishment of many national radio broadcasting organizations, the BBC being formed in 1922.	What was the establishment of many national radio broadcasting organizations?	2.0
+59	The passing of the First World War soon saw the establishment of many national radio broadcasting organizations, the BBC being formed in 1922.	Was the establishment of many national radio broadcasting organizations the BBC being formed in 1922?	1.5
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Do Women tend to cover shorter urban journeys?	1.0
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Who tend to cover shorter urban journeys?	2.0
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What do Women tend to cover?	1.0
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Is shorter urban journeys's driving slower?	2.0
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Do accidents tend to be relatively minor?	1.0
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What tend to be relatively minor?	2.0
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	What is slower?	1.0
+60	Women tend to cover shorter urban journeys and therefore their driving is slower and accidents tend to be relatively minor.	Is their driving slower?	1.0
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Did the son of Vincent J. McMahon found?	3.0
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Who was Vincent Kennedy McMahon?	1.0
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Who was Vincent J. McMahon?	1.0
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Was Titan Sports Inc.?	3.0
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Was Vincent J. McMahon Vincent Kennedy McMahon?	1.5
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	What was Titan Sports?	1.0
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Who was Inc.?	2.0
+61	In 1980, the son of Vincent J. McMahon, Vincent Kennedy McMahon, founded Titan Sports, Inc. and in 1982 purchased Capitol Wrestling Corporation from his father.	Who founded?	3.5
+62	Librations have allowed us to see about 60 % of the surface.	How many dominoes have librations allowed to see about 60 % of the surface?	2.5
+62	Librations have allowed us to see about 60 % of the surface.	Who have librations allowed to see about 60 % of the surface?	3.5
+62	Librations have allowed us to see about 60 % of the surface.	What have allowed 6 dominoes to see about 60 % of the surface?	3.0
+62	Librations have allowed us to see about 60 % of the surface.	What have librations allowed 6 dominoes to see?	1.0
+62	Librations have allowed us to see about 60 % of the surface.	What have librations allowed 6 dominoes to see about 60 % of?	1.0
+62	Librations have allowed us to see about 60 % of the surface.	Have librations allowed 6 dominoes to see about 60 % of the surface?	1.0
+62	Librations have allowed us to see about 60 % of the surface.	What have allowed us to see about 60 % of the surface?	3.0
+62	Librations have allowed us to see about 60 % of the surface.	Have librations allowed us to see about 60 % of the surface?	1.0
+62	Librations have allowed us to see about 60 % of the surface.	What have librations allowed us to see about 60 % of?	1.0
+62	Librations have allowed us to see about 60 % of the surface.	What have librations allowed us to see?	1.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Where was some research done on non-migratory birds?	2.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was done on non-migratory birds in the UK and Germany?	1.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Was some research done on non-migratory birds in the UK and Germany?	2.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was some research done on non-migratory birds in?	3.5
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was some research done on in the UK and Germany?	2.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was found that the same species had different songs in the two countries?	3.5
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Was some research found that the same species had different songs in the two countries?	3.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was some research found that the same species had?	4.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was some research found?	3.5
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	Was it found that the same species had different songs in the two countries?	1.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was it found that the same species had?	1.0
+63	Some research was done on non-migratory birds in the UK and Germany and it was found that the same species had different songs in the two countries.	What was it found?	3.0
+64	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	Did Congress pass a law that put investigations of deaths of federal officials within FBI jurisdiction?	1.0
+64	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What passed a law that put investigations of deaths of federal officials within FBI jurisdiction?	3.0
+64	To ensure that there would never be any more confusion over who would handle homicides at the federal level, Congress passed a law that put investigations of deaths of federal officials within FBI jurisdiction.	What did Congress pass?	1.0
+65	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	Does the strength of the depletion zone electric field increase as the reverse-bias voltage increases?	1.0
+65	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	What does the strength of the depletion zone electric field increase as?	2.5
+65	The strength of the depletion zone electric field increases as the reverse-bias voltage increases.	What increases as the reverse-bias voltage increases?	1.0
+66	The axiom in Euclidian Geometry is that parallel lines never intersect.	Is the axiom in Euclidian Geometry that parallel lines never intersect?	1.5
+66	The axiom in Euclidian Geometry is that parallel lines never intersect.	What is that parallel lines never intersect?	3.5
+66	The axiom in Euclidian Geometry is that parallel lines never intersect.	What is the axiom in Euclidian Geometry?	1.0
+67	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	Is the whole bogus 2012 nonsense based on the fact that the ancient Mayan ceremonial calendar will run out in 2012?	1.0
+67	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	What is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012?	1.0
+67	The whole bogus 2012 nonsense is based on the fact that the ancient Mayan ceremonial calendar will run out in 2012.	What is the whole bogus 2012 nonsense based on?	1.0
+68	BMW does mean Bavarian Motor Works.	What does mean Bavarian Motor Works?	3.0
+68	BMW does mean Bavarian Motor Works.	Does BMW mean Bavarian Motor Works?	1.0
+68	BMW does mean Bavarian Motor Works.	What does BMW mean?	1.0
+69	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What is called the denary representation, or sometimes the decimal representation, of numbers?	2.0
+69	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	Is the number system which we all use in everyday life called the denary representation, or sometimes the decimal representation, of numbers?	2.0
+69	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What is the number system which we all use in everyday life called the denary representation, or sometimes the decimal representation, of?	3.0
+69	The number system which we all use in everyday life is called the denary representation, or sometimes the decimal representation, of numbers.	What is the number system which we all use in everyday life called?	1.0
+70	The sovereign state of Brunei, located on the north coast, comprises about 1 % of Borneo's land mass. .	Does the sovereign state of Brunei comprise about 1 % of Borneo's land mass.?	1.0
+70	The sovereign state of Brunei, located on the north coast, comprises about 1 % of Borneo's land mass. .	What comprises about 1 % of Borneo's land mass.?	1.0
+70	The sovereign state of Brunei, located on the north coast, comprises about 1 % of Borneo's land mass. .	What does the sovereign state of Brunei comprise?	2.5
+70	The sovereign state of Brunei, located on the north coast, comprises about 1 % of Borneo's land mass. .	What does the sovereign state of Brunei comprise about 1 % of?	2.0
+70	The sovereign state of Brunei, located on the north coast, comprises about 1 % of Borneo's land mass. .	Is the sovereign state located on the north coast?	1.0
+70	The sovereign state of Brunei, located on the north coast, comprises about 1 % of Borneo's land mass. .	What is located on the north coast?	1.0
+70	The sovereign state of Brunei, located on the north coast, comprises about 1 % of Borneo's land mass. .	What is the sovereign state located on?	3.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when Daniel press any of the arrow keys where will the screen move?	2.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when Daniel press any of the arrow keys what will the screen move in?	3.5
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	Will the selected cell not change?	1.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when you press any of the arrow keys where will the screen move?	1.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when Daniel press any of the arrow keys what will move in that direction?	3.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when Daniel press any of the arrow keys will the screen move in that direction?	2.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when you press any of the arrow keys what will move in that direction?	1.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when you press any of the arrow keys will the screen move in that direction?	1.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	If scroll lock is enabled on the keyboard when you press any of the arrow keys what will the screen move in?	1.0
+71	If scroll lock is enabled on the keyboard when you press any of the arrow keys the screen will move in that direction but the selected cell will not change.	What will not change?	1.0
+72	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What arrived in Madagascar mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island?	1.5
+72	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	Did lemurs arrive in Madagascar mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island?	1.5
+72	Lemurs arrived in Madagascar approximately 62 to 65 mya by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island.	What did lemurs arrive in by rafting on mats of vegetation at a time when ocean currents favored oceanic dispersal to the island?	2.5
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What apply to a range of social care professionals?	3.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What do the codes of practice apply to?	1.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Do the codes of practice apply to a range of social care professionals?	1.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Are the codes of practice not specific to social work?	1.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What are the codes of practice not specific to?	1.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Is example residential care workers?	3.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What are not specific to social work?	2.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	What is residential care workers?	3.0
+73	The codes of practice apply to a range of social care professionals (including, for example, residential care workers) and are not specific to social work.	Who is example?	4.0
+74	Since light is an oscillation it is not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum.	What is not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum?	1.0
+74	Since light is an oscillation it is not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum.	Is light not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum?	1.0
+74	Since light is an oscillation it is not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum.	Is light an oscillation?	1.0
+74	Since light is an oscillation it is not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum.	What is an oscillation?	1.0
+74	Since light is an oscillation it is not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum.	What is light?	1.0
+74	Since light is an oscillation it is not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum.	Is it not affected by traveling through static electric or magnetic fields in a linear medium such as a vacuum?	1.0
+75	I 'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Who 'm pretty sure pS2 will depend on your service provider?	3.0
+75	I 'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Do Daniel 'm pretty sure pS2 will depend on your service provider?	3.5
+75	I 'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Do I 'm pretty sure it will depend on your service provider?	3.0
+75	I 'm pretty sure it will depend on your service provider, but i know that T Mobile charges for 0800 calls.	Who 'mes pretty sure it will depend on your service provider?	3.0
+76	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analyzed cultural influences on consumption.	Did Thorstein Veblen analyze cultural influences on consumption?	1.0
+76	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analyzed cultural influences on consumption.	What did Thorstein Veblen analyze cultural influences on?	3.0
+76	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analyzed cultural influences on consumption.	What did Thorstein Veblen analyze on consumption?	1.0
+76	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analyzed cultural influences on consumption.	Who analyzed cultural influences on consumption?	1.0
+76	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analyzed cultural influences on consumption.	Who was Thorstein Veblen?	1.0
+76	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analyzed cultural influences on consumption.	Was Thorstein Veblen an American institutional economist?	1.0
+76	Early in the twentieth century, Thorstein Veblen, an American institutional economist, analyzed cultural influences on consumption.	Who was an American institutional economist?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	Are specialized technical fields with more than 300 local organizations that hold regular meetings?	3.5
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	How many societies are organized around specialized technical fields?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	What are with more than 300 local organizations that hold regular meetings?	2.5
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	Are 38 societies organized around specialized technical fields?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	Does the IEEE consist of 38 societies?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	What are organized around specialized technical fields?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	What consists of 38 societies?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	What does the IEEE consist of?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	What are 38 societies organized around?	1.0
+77	The IEEE consists of 38 societies, organized around specialized technical fields, with more than 300 local organizations that hold regular meetings.	What are specialized technical fields with?	3.0
+78	The main cause of variation is mutation, which changes the sequence of a gene.	Does mutation change the sequence of a gene?	1.0
+78	The main cause of variation is mutation, which changes the sequence of a gene.	Who changes the sequence of a gene?	2.0
+78	The main cause of variation is mutation, which changes the sequence of a gene.	Who is the main cause of variation?	2.0
+78	The main cause of variation is mutation, which changes the sequence of a gene.	Is the main cause of variation mutation?	1.0
+78	The main cause of variation is mutation, which changes the sequence of a gene.	What does mutation change the sequence of?	1.0
+78	The main cause of variation is mutation, which changes the sequence of a gene.	What does mutation change?	1.0
+78	The main cause of variation is mutation, which changes the sequence of a gene.	What is mutation?	1.0
+79	The ``Rising Sun'' owned by Larry Ellison is up for sale.	What is the ``Rising Sun'' owned by Larry Ellison up for?	3.0
+79	The ``Rising Sun'' owned by Larry Ellison is up for sale.	Is the ``Rising Sun'' owned by Larry Ellison up for sale?	1.5
+79	The ``Rising Sun'' owned by Larry Ellison is up for sale.	What is up for sale?	1.0

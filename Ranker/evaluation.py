@@ -143,7 +143,7 @@ def compute_precision20(qids_to_labels):
         else:
             pr20.append(0)
       
-    print pr20
+    #print pr20
     
     return np.mean(pr20)
 

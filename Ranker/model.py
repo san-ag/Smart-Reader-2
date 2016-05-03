@@ -52,14 +52,14 @@ def trainRanker(training_data_file):
     
     featureMatrix = FE.extractFeatures(context_question_list)
     
-    
+    '''
     (n,m) = featureMatrix.shape
     
     for i in range(n):
         for j in range(m):
             sys.stdout.write(str(featureMatrix[i,j])+" ")
         print ''
-    
+    '''
     
     writeFeatureMatrixToFile(featureMatrix,context_question_list,'train')
     
